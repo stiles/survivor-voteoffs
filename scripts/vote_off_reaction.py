@@ -92,9 +92,10 @@ try:
 
     print(f"Data saved to {csv_output_path} and {json_output_path}")
 
-    # Upload CSV to S3
+    # Upload CSV and JSON to S3
     s3_bucket = 'stilesdata.com'
-    s3_key = 'survivor/survivor_vote_off_reactions.csv'
+    s3_csv_key = 'survivor/survivor_vote_off_reactions.csv'
+    s3_json_key = 'survivor/survivor_vote_off_reactions.json'
 
     # Initialize boto3 client with environment variables
     s3_client = boto3.client(
@@ -104,10 +105,13 @@ try:
         aws_session_token=os.getenv('MY_AWS_SESSION_TOKEN')
     )
 
-    # Upload the file
-    s3_client.upload_file(str(csv_output_path), s3_bucket, s3_key)
+    # Upload the CSV file
+    s3_client.upload_file(str(csv_output_path), s3_bucket, s3_csv_key)
+    print(f"CSV file uploaded to s3://{s3_bucket}/{s3_csv_key}")
 
-    print(f"CSV file uploaded to s3://{s3_bucket}/{s3_key}")
+    # Upload the JSON file
+    s3_client.upload_file(str(json_output_path), s3_bucket, s3_json_key)
+    print(f"JSON file uploaded to s3://{s3_bucket}/{s3_json_key}")
 
 except Exception as e:
     print(f"An error occurred: {e}")

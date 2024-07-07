@@ -5,11 +5,13 @@ Logging the reactions of players after they're voted off in Survivor.
 
 The `vote_off_reaction.py` script is designed to fetch, process, and score hand-collected data on the reactions of Survivor contestants after their torches are snuffed at Tribal Council. *Any vote at the council gets logged, even if that person stayed in the game in one of the purgatory seasons. (Medical evacuations and castaways who quit were not included).*
 
-The script authenticates using Google service account credentials to access a specified [Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) where vote-off reactions are logged. The script retrieves this data, combines it with a [generic castaway order list](https://github.com/stiles/survivor-voteoffs/blob/main/data/processed/survivor_voteoff_order.csv) derived from the the [survivoR repo](https://github.com/doehm/survivoR) and  ensures data consistency through various checks. 
+The script authenticates with personal Google credentials to access a specified [Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) where vote-off reactions are logged. The script retrieves this data, combines it with a [generic castaway order list](https://github.com/stiles/survivor-voteoffs/blob/main/data/processed/survivor_voteoff_order.csv) derived from the the [survivoR repo](https://github.com/doehm/survivoR) and  ensures data consistency through various checks. 
 
 The script also converts columns to boolean values, calculates a tribal acknowledgment score for each castaway based on specific criteria (gestures, speech, eye contact and smiles), and then cleans and formats the data. Finally, the processed data is saved in both CSV and JSON formats for further analysis and use.
 
 ### Output formats
+
+The resulting castaway file, which logs nearly 700 reactions during 46 seasons, is stored on S3 in [CSV](https://stilesdata.com/survivor/survivor_vote_off_reactions.csv) and [JSON](https://stilesdata.com/survivor/survivor_vote_off_reactions.json) format using the following structure: 
 
 | Column         | Description                                                                                               | Type    |
 |----------------|-----------------------------------------------------------------------------------------------------------|---------|
@@ -35,7 +37,7 @@ The script also converts columns to boolean values, calculates a tribal acknowle
 - `ack_look`: for making eye contact with one or more members of the tribe *after* torch snuffing
 - `ack_smile`: for smiling at the tribe *after* torch snuffing
 
-### Dataset Example
+### Dataset example
 
 | season | vote | contestant | acknowledge | ack_gesture | ack_speak | ack_look | ack_smile | ack_speak_notes | notes               | source        | log        |
 |--------|------|------------|-------------|-------------|-----------|----------|-----------|-----------------|---------------------|------------|------------|
@@ -52,9 +54,9 @@ The score is derived from the four subcategories of acknowledgment: words, look,
 - If a contestant says words while looking back, waves, and smiles, their score is 4.
 - If a contestant does nothing, their score is 0.
 
-### Seasons collected
+### Seasons remaining
 
-~~1~~, 2, 3, ~~4~~, ~~5~~, ~~6~~, ~~7~~, ~~8~~, ~~9~~, ~~10~~, ~~11~~, ~~12~~, ~~13~~, ~~14~~, ~~15~~, ~~16~~, ~~17~~, ~~18~~, ~~19~~, ~~20~~, ~~21~~, ~~22~~, ~~23~~, ~~24~~, ~~25~~, ~~26~~, ~~27~~, ~~28~~, 29, ~~30~~, ~~31~~, ~~32~~, ~~33~~, ~~34~~, ~~35~~, ~~36~~, ~~37~~, ~~38~~, ~~39~~, ~~40~~, ~~41~~, ~~42~~, ~~43~~, ~~44~~, ~~45~~, ~~46~~
+~~1~~, **2**, **3**, ~~4~~, ~~5~~, ~~6~~, ~~7~~, ~~8~~, ~~9~~, ~~10~~, ~~11~~, ~~12~~, ~~13~~, ~~14~~, ~~15~~, ~~16~~, ~~17~~, ~~18~~, ~~19~~, ~~20~~, ~~21~~, ~~22~~, ~~23~~, ~~24~~, ~~25~~, ~~26~~, ~~27~~, ~~28~~, **29**, ~~30~~, ~~31~~, ~~32~~, ~~33~~, ~~34~~, ~~35~~, ~~36~~, ~~37~~, ~~38~~, ~~39~~, ~~40~~, ~~41~~, ~~42~~, ~~43~~, ~~44~~, ~~45~~, ~~46~~
 
 ### Related repositories
 
