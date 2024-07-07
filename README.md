@@ -1,15 +1,15 @@
-# Survivor Vote Off Reactions
+# Survivor vote off reactions
 Logging the reactions of players after they're voted off in Survivor.
 
-## Vote-off Logs
+## How it works
 
-- `scripts/vote_off_reaction.py`: Fetches a [public Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) where vote-off reactions are being hand-logged. This is growing *slowly* and needs contributors. The goal is to build a dataset that shows all voted-off players' reactions *after* Jeff snuffed their torches and *before* they walked out of the Tribal Council. *Any vote at the council gets logged here, even if that person stayed in the game in one of the purgatory seasons.*
+The `vote_off_reaction.py` script is designed to fetch, process, and score hand-collected data on the reactions of Survivor contestants after their torches are snuffed at Tribal Council. *Any vote at the council gets logged, even if that person stayed in the game in one of the purgatory seasons. (Medical evacuations and castaways who quit were not included).*
 
-### Data Collection
+The script authenticates using Google service account credentials to access a specified [Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) where vote-off reactions are logged. The script retrieves this data, combines it with a [generic castaway order list](https://github.com/stiles/survivor-voteoffs/blob/main/data/processed/survivor_voteoff_order.csv) derived from the the [survivoR repo](https://github.com/doehm/survivoR) and  ensures data consistency through various checks. 
 
-To ensure accurate data collection and validation, I'm considering using a controlled method like a Google Form for submitted entries. For now, I'm doing it by hand in a [public Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) where previous entries are protected. My plan is to add one a day from recaps and/or transcripts until I finish all the seasons. (I've seen almost all the seasons but I can't recall specific details so I'm going vote by vote).
+The script also converts columns to boolean values, calculates a tribal acknowledgment score for each castaway based on specific criteria (gestures, speech, eye contact and smiles), and then cleans and formats the data. Finally, the processed data is saved in both CSV and JSON formats for further analysis and use.
 
-### Data Format
+### Output formats
 
 | Column         | Description                                                                                               | Type    |
 |----------------|-----------------------------------------------------------------------------------------------------------|---------|
@@ -26,9 +26,9 @@ To ensure accurate data collection and validation, I'm considering using a contr
 | source         | Optional: Any notes about source, i.e., youtube vote-off compilation url, "watched in person", etc.       | `string`  |
 | log            | Date when data was logged (%Y-%m-%d)                                                                      | `date`    |
 
-### Notes about Acknowledgment
+### Notes about `acknowledgment`
 
-*Acknowledgment* after being voted off in Survivor is categorized into four Boolean fields (each action is recorded as TRUE if performed, otherwise FALSE): 
+*Acknowledgment* after being voted off in Survivor is categorized into four Boolean fields (each action is recorded as `True` if performed, otherwise `False`): 
 
 - `ack_gesture`: for any physical gestures towards the tribe (a wave, nod, bow or prayer sign with hands) *after* torch snuffing
 - `ack_speak`: for any verbal communication directed at the tribe *after* torch snuffing
@@ -41,17 +41,21 @@ To ensure accurate data collection and validation, I'm considering using a contr
 |--------|------|------------|-------------|-------------|-----------|----------|-----------|-----------------|---------------------|------------|------------|
 | 11     | 1    | Jim        | TRUE        | TRUE        | FALSE     | FALSE    | FALSE     |                 | Waved and turned head but didn't make eye contact | https://youtu.be/-D6JL6myJ_0?si=784e_2VAhRDk8OwC |2024-06-06|
 
-### Scenario Explanation
+### Example scenario
 
 - Jim, from season 11, was the first person voted off. He acknowledged his team by half-heartedly waving, but his slight glance went down and didn't make eye contact. He also didn't say anything or smile. So, his acknowledgment would be TRUE, but his score (see below) would only be 1 because all he did was (sort of) wave. Maybe 0.6. Poor Jim.
 
-### Acknowledge Score Calculation
+### Acknowledge score calculation
 
 The score is derived from the four subcategories of acknowledgment: words, look, gesture, and smile. Each `true` value in these categories adds 1 to the score. For example:
 
 - If a contestant says words while looking back, waves, and smiles, their score is 4.
 - If a contestant does nothing, their score is 0.
 
-### Seasons Collected
+### Seasons collected
 
 ~~1~~, 2, 3, ~~4~~, ~~5~~, ~~6~~, ~~7~~, ~~8~~, ~~9~~, ~~10~~, ~~11~~, ~~12~~, ~~13~~, ~~14~~, ~~15~~, ~~16~~, ~~17~~, ~~18~~, ~~19~~, ~~20~~, ~~21~~, ~~22~~, ~~23~~, ~~24~~, ~~25~~, ~~26~~, ~~27~~, ~~28~~, 29, ~~30~~, ~~31~~, ~~32~~, ~~33~~, ~~34~~, ~~35~~, ~~36~~, ~~37~~, ~~38~~, ~~39~~, ~~40~~, ~~41~~, ~~42~~, ~~43~~, ~~44~~, ~~45~~, ~~46~~
+
+### Related repositories
+
+- [survivoR2py](https://github.com/stiles/survivoR2py)
