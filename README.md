@@ -77,7 +77,7 @@ The score is derived from the four subcategories of acknowledgment: words, look,
 * If a contestant says words while looking back, waves, and smiles, their score is 4.
 * If a contestant does nothing, their score is 0.
 
-*NOTE: This score doesn't weight for season-to-season factors that might have to altered castaways' acknowlegment behavior, such as tribal council design. In "Survivor: Thailand", for example, castaways were required to double back towards the tribe after being dismissed by Jeff. That appeared to make it more difficult for them to leave quietly. Other sets seemingly made that easier. In addition, in earlier seasons, before the mores of this moment in the show evolved, castaways might have felt required to leave quietly after Jeff said, "It's time for you to go."*
+*NOTE: This score doesn't consider season-to-season factors that might have to altered castaways' acknowlegment behavior, such as tribal council design. In "Survivor: Thailand", for example, castaways were required to double back towards the tribe after being dismissed by Jeff. That appeared to make it more difficult for them to leave quietly. Other sets seemingly made that easier. In addition, in earlier seasons, before the mores of this moment in the show evolved, castaways might have felt required to leave quietly after Jeff said, "It's time for you to go."*
 
 ### Seasons collected
 
