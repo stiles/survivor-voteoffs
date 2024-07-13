@@ -5,7 +5,7 @@ Logging the reactions of players after they're voted off in the American version
 
 The `00_create_vote_lookup.py` script creates an ordered tribal council vote-off list with details about seasons and castaways for use with data processing and analysis. It merges two CSVs in the [survivoR](https://github.com/doehm/survivoR) and [survivoR2py](https://github.com/stiles/survivoR2py/tree/main) repositories — vote_history and castaway_details — and stores the resulting file on S3.
 
-The `01_vote_off_reaction.py` script fetches a [Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) with hand-collected data detailing the reactions of Survivor contestants after their torches are snuffed at tribal council. It merges it with the vote order table, converts Google's string columns to boolean values, calculates a tribal acknowledgment score for each castaway based on specific criteria (more on that below), and then cleans and formats the data. 
+The `01_vote_off_reaction.py` script fetches a [Google Sheet](https://docs.google.com/spreadsheets/d/1nys0mCWArUCtPKYIVBrbjmv7eAWkmOce4cBlyHm8b0c/edit?usp=sharing) with hand-collected data detailing the reactions of Survivor contestants after their torches are snuffed at tribal council. It merges it with the vote order table, converts Google's string columns to Boolean values, calculates a tribal acknowledgment score for each castaway based on specific criteria (more on that below), and then cleans and formats the data. 
 
 *Any vote at the council gets logged, even if that person stayed in the game in one of the purgatory seasons. Medical evacuations and castaways who quit were not included.*
 
