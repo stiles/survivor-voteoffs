@@ -43,15 +43,9 @@ The resulting castaway file, which logs nearly 700 reactions during 46 seasons, 
 * `ack_look`: for making eye contact with one or more members of the tribe *after* torch snuffing
 * `ack_smile`: for smiling at the tribe *after* torch snuffing
 
-### Dataset example
-
-| season | vote | contestant | acknowledge | ack_gesture | ack_speak | ack_look | ack_smile | ack_speak_quote | notes               | source        | log        |
-|--------|------|------------|-------------|-------------|-----------|----------|-----------|-----------------|---------------------|------------|------------|
-| 11     | 1    | Jim        | TRUE        | TRUE        | FALSE     | FALSE    | FALSE     |                 | Waved and turned head but didn't make eye contact | https://youtu.be/-D6JL6myJ_0?si=784e_2VAhRDk8OwC |2024-06-06|
-
 ### Example scenario: Jim!
 
-- Jim, from season 11, was the first person voted off. He acknowledged his team by half-heartedly waving, but his slight glance went down and didn't make eye contact. He also didn't say anything or smile. So, his acknowledgment would be TRUE, but his score (see below) would only be 1 because all he did was (sort of) wave. Maybe 0.6. Poor Jim.
+- Jim, from season 11, was the first person voted off. He acknowledged his team by half-heartedly waving, but his slight glance went down and didn't make eye contact. He also didn't say anything or smile. So, his acknowledgment would be `True`, but his score (see below) would only be 1 because all he did was (sort of) wave. Maybe 0.6. Poor Jim.
 
 | Column           | Example Value            |
 |------------------|--------------------------|
@@ -74,7 +68,7 @@ The resulting castaway file, which logs nearly 700 reactions during 46 seasons, 
 | `ack_speak_quote`|                          |
 | `ack_score`      | 1                        |
 
-*NOTE: Jim didn't speak, so the `ack_speak_quote` is empty. The parting words of others castaways, such Kane in season 44 ("Enjoy your rice, you bitches."), are listed as direct quotes that have been double checked from transcripts and closed captioning.*
+*NOTE: Jim didn't speak, so the `ack_speak_quote` is empty. The parting words of others castaways, such Kane in season 44 ("Enjoy your rice, you bitches."), are listed in almost all cases. If there's text in this item, it should be considered a direct quote that's been confirmed via transcript, broadcast and/or closed captioning.*
 
 ### `Acknowledge` score calculation
 
