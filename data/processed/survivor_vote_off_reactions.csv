@@ -1,694 +1,694 @@
-season,vote,episode,castaway,castaway_id,acknowledge,ack_gesture,ack_speak,ack_look,ack_smile,ack_speak_notes,ack_score,notes
-1,1,1,Sonja,US0001,True,True,True,True,True,"""Go get 'em you guys.""",4,
-1,2,2,B.B.,US0002,False,False,False,False,False,,0,"He said ""alright"" but to Jeff not to tribe. "
-1,3,3,Stacey,US0003,False,False,False,False,False,,0,"Also said ""alright"" when told ""time for you to go"""
-1,4,4,Ramona,US0004,False,False,False,False,False,,0,Went back for her bag 
-1,5,5,Dirk,US0005,True,True,True,True,True,"""Good luck""",4,
-1,6,6,Joel,US0006,True,True,True,True,False,"""Goodbye""",3,
-1,7,7,Gretchen,US0007,True,True,False,True,True,,3,Gave thumbs up sign and wave
-1,8,8,Greg,US0008,True,False,True,True,False,,2,Fake crying 
-1,9,9,Jenna,US0009,False,False,False,False,False,,0,
-1,10,10,Gervase,US0010,False,False,False,False,False,,0,
-1,11,11,Colleen,US0011,True,True,False,True,True,,3,Slight smile and small wave
-1,12,12,Sean,US0012,True,False,True,True,False,"""See you in a few days."" ",2,
-1,13,13,Sue,US0013,True,True,True,True,True,"""See you guys."" ",4,
-1,14,13,Rudy,US0014,False,False,False,False,False,,0,
-2,1,1,Debb,US0017,False,False,False,False,False,,0,
-2,2,2,Kel,US0018,False,False,False,False,False,,0,
-2,3,3,Maralyn,US0019,False,False,False,False,False,,0,
-2,4,4,Mitchell,US0020,False,False,False,False,False,,0,
-2,5,5,Kimmi,US0021,False,False,False,False,False,,0,
-2,6,7,Jeff,US0023,False,False,False,False,False,,0,
-2,7,8,Alicia,US0024,False,False,False,False,False,,0,
-2,8,10,Jerri,US0025,False,False,False,False,False,,0,
-2,9,11,Nick,US0026,False,False,False,False,False,,0,
-2,10,12,Amber,US0027,False,False,False,False,False,,0,
-2,11,13,Rodger,US0028,False,False,False,False,False,,0,
-2,12,14,Elisabeth,US0029,False,False,False,False,False,,0,
-2,13,15,Keith,US0030,False,False,False,False,False,,0,
-3,1,1,Diane,US0033,False,False,False,False,False,,0,
-3,2,2,Jessie,US0034,False,False,False,False,False,,0,
-3,3,3,Carl,US0035,False,False,False,False,False,,0,
-3,4,4,Linda,US0036,False,False,False,False,False,,0,
-3,5,5,Silas,US0037,False,False,False,False,False,,0,
-3,6,6,Lindsey,US0038,False,False,False,False,False,,0,
-3,7,7,Clarence,US0039,False,False,False,False,False,,0,
-3,8,9,Kelly,US0040,False,False,False,False,False,,0,
-3,9,10,Brandon,US0041,False,False,False,False,False,,0,
-3,10,11,Frank,US0042,False,False,False,False,False,,0,
-3,11,12,Kim P.,US0043,False,False,False,False,False,,0,
-3,12,13,Teresa,US0044,False,False,False,False,False,,0,
-3,13,14,Tom,US0045,False,False,False,False,False,,0,
-3,14,14,Lex,US0046,False,False,False,False,False,,0,
-4,1,1,Peter,US0049,True,True,True,True,True,"""Go get 'em""",4,
-4,2,2,Patricia,US0050,False,False,False,False,False,,0,
-4,3,3,Hunter,US0051,True,True,False,True,False,,2,
-4,4,4,Sarah,US0052,True,True,False,True,True,,3,
-4,5,5,Gabriel,US0053,False,False,False,False,False,,0,
-4,6,6,Gina,US0054,True,False,True,True,True,"""Bye, guys.""",3,
-4,7,7,Boston Rob,US0055,True,True,True,True,True,"""Good luck, guys.""",4,
-4,8,8,John,US0056,True,True,False,True,False,,2,
-4,9,10,Zoe,US0057,True,True,True,True,False,"""Break an arm""",3,
-4,10,11,Tammy,US0058,False,False,False,False,False,,0,
-4,11,12,Robert,US0059,False,False,False,False,False,,0,
-4,12,13,Sean,US0060,True,True,False,True,True,,3,
-4,13,14,Paschal,US0061,True,True,True,True,True,"""Thank all of you.""",4,
-4,14,14,Kathy,US0062,True,True,True,True,True,"""See ya, guys.""",4,
-5,1,1,John,US0065,True,True,False,True,True,,3,
-5,2,2,Tanya,US0066,True,True,False,True,True,,3,
-5,3,3,Jed,US0067,False,False,False,False,False,,0,
-5,4,4,Ghandia,US0068,True,False,True,True,True,"""Stay strong, y'all. See ya.""",3,
-5,5,5,Stephanie,US0069,True,False,True,True,False,"""Good luck, guys. See you.""",2,
-5,6,6,Robb,US0070,True,True,True,True,True,"""Much love, dude. You guys rule. Good luck. Play hard, dude. For real, you guys are all with me.""",4,
-5,7,7,Shii Ann,US0071,True,False,True,True,False,"""Good luck, you guys.""",2,
-5,8,8,Erin,US0072,True,True,True,True,False,"""Good luck. I love you guys. Bye.""",3,
-5,9,9,Ken,US0073,True,True,True,True,False,"""Good luck out there.""",3,
-5,10,10,Penny,US0074,True,True,True,True,True,"""Bye. Good luck.""",4,
-5,11,12,Jake,US0075,True,True,True,True,True,"""Thanks, guys. Good luck to all of you."" ",4,
-5,12,13,Ted,US0076,True,True,True,True,False,"""Bye, guys. Take care."" ",3,
-5,13,14,Helen,US0077,False,False,False,False,False,,0,
-5,14,14,Jan,US0078,True,True,True,True,True,"""I love y'all. Thank you.""",4,
-6,1,1,Ryan,US0081,False,False,False,False,False,,0,
-6,2,2,Janet,US0082,True,False,True,True,True,"""Good luck, guys""",3,
-6,3,3,Daniel,US0083,True,True,False,True,False,,2,
-6,4,4,JoAnna,US0084,False,False,False,False,False,,0,
-6,5,5,Jeanne,US0085,False,False,False,False,False,,0,
-6,6,6,Shawna,US0086,True,True,False,True,True,,3,"Mouthed, ""Goodbye"""
-6,7,7,Roger,US0087,False,False,False,False,False,,0,
-6,8,8,Dave,US0088,False,False,False,False,False,,0,
-6,9,9,Deena,US0089,False,False,False,False,False,,0,
-6,10,11,Alex,US0090,True,True,True,True,True,"""Take it easy, guys.""",4,
-6,11,12,Christy,US0091,False,False,False,False,False,,0,
-6,12,13,Heidi,US0092,False,False,False,False,False,,0,
-6,13,14,Butch,US0093,True,True,True,True,False,"""Good luck""",3,
-6,14,14,Rob,US0094,True,True,True,True,True,Inaudible,4,
-7,1,1,Nicole,US0097,False,False,False,False,False,,0,
-7,2,2,Ryan S.,US0098,False,False,False,False,False,,0,
-7,3,3,Lillian,US0099,False,False,False,False,False,,0,
-7,4,4,Burton,US0100,False,False,False,False,False,,0,
-7,5,5,Michelle,US0101,True,True,False,True,True,,3,
-7,6,6,Trish,US0102,False,False,False,False,False,,0,
-7,7,7,Shawn,US0103,False,False,False,False,False,,0,
-7,8,7,Osten,US0104,False,False,False,False,False,,0,
-7,9,8,Andrew,US0105,True,True,True,True,False,"""Ryan O, D, T, hang tough.""",3,
-7,10,9,Ryan O.,US0106,True,False,True,True,False,"""I'll be back, guys.""",2,
-7,11,10,Rupert,US0107,False,False,False,False,False,,0,
-7,12,11,Tijuana,US0108,False,False,False,False,False,,0,
-7,13,12,Christa,US0109,True,True,False,True,False,,2,
-7,14,13,Burton,US0100,False,False,False,False,False,,0,
-7,15,14,Darrah,US0110,False,False,False,False,False,,0,
-7,16,14,Jonny Fairplay,US0111,False,False,False,False,False,,0,
-8,1,1,Tina,US0032,False,False,False,False,False,,0,
-8,2,2,Rudy,US0014,True,True,False,True,False,,2,
-8,3,4,Rob C.,US0094,True,True,False,True,False,,2,
-8,4,5,Richard,US0016,True,False,True,True,True,,3,
-8,5,7,Colby,US0031,False,False,False,False,False,,0,
-8,6,8,Ethan,US0048,True,True,True,True,False,,3,
-8,7,10,Jerri,US0025,True,True,False,True,True,,3,
-8,8,11,Lex,US0046,False,False,False,False,False,,0,
-8,9,12,Kathy,US0062,True,True,False,True,True,,3,
-8,10,13,Alicia,US0024,False,False,False,False,False,,0,
-8,11,14,Shii Ann,US0071,True,True,True,True,True,"""Good luck, everyone.""",4,
-8,12,15,Tom,US0045,True,False,False,True,False,,1,Glared at tribe on path out
-8,13,16,Rupert,US0107,False,False,False,False,False,,0,
-8,14,16,Jenna L.,US0009,True,True,False,True,False,,2,
-9,1,1,Brook,US0113,False,False,False,False,False,,0,
-9,2,2,Dolly,US0114,False,False,False,False,False,,0,
-9,3,3,John P.,US0115,True,True,False,True,False,,2,
-9,4,3,Mia,US0116,True,False,True,True,False,"""Kick ass, ladies.""",2,
-9,5,4,Brady,US0117,True,True,True,True,False,"""Good luck, fellas.""",3,
-9,6,5,Travis,US0118,True,True,True,True,True,"""Peace out, y'all.""",4,
-9,7,6,Lisa,US0119,True,False,True,True,False,"""True to my word.""",2,
-9,8,7,John K.,US0120,True,True,True,True,False,"""Take it easy.""",3,
-9,9,8,Rory,US0121,False,False,False,False,False,,0,
-9,10,9,Lea,US0122,True,True,False,True,False,,2,
-9,11,10,Chad,US0123,True,True,False,True,False,,2,
-9,12,11,Leann,US0124,True,False,False,True,False,,1,
-9,13,12,Ami,US0125,False,False,False,False,False,,0,
-9,14,13,Julie,US0126,False,False,False,False,False,,0,
-9,15,14,Eliza,US0127,True,False,False,True,False,,1,
-9,16,14,Scout,US0128,False,False,False,False,False,,0,
-10,1,1,Jolanda,US0133,False,False,False,False,False,,0,
-10,2,2,Ashlee,US0134,False,False,False,False,False,,0,
-10,3,3,Jeff,US0135,False,False,False,False,False,,0,
-10,4,4,Kim,US0136,False,False,False,False,False,,0,
-10,5,5,Willard,US0137,True,True,True,True,True,"""Stay strong, stick to the plan, finish them off.""",4,
-10,6,5,Angie,US0138,True,True,True,True,True,"""Steph, rock it for the ladies.""",4,
-10,7,6,James,US0139,False,False,False,False,False,,0,
-10,8,7,Ibrehem,US0140,False,False,False,False,False,,0,
-10,9,8,Bobby Jon,US0141,False,False,False,False,False,,0,
-10,10,9,Coby,US0142,True,False,True,True,True,"""That was a great compliment. Thank you.""",3,
-10,11,11,Stephenie,US0144,False,False,False,False,False,,0,
-10,12,12,Gregg,US0145,False,False,False,False,False,,0,
-10,13,13,Caryn,US0146,False,False,False,False,False,,0,
-10,14,14,Jenn,US0147,True,False,True,True,False,"""Good luck, guys.""",2,
-10,15,14,Ian,US0148,False,False,False,False,False,,0,Not a traditional vote off because of the long bouy challenge
-11,1,1,Jim,US0151,True,True,False,False,False,,1,Waved and turned head but didn't make eye contact
-11,2,2,Morgan,US0152,False,False,False,False,False,,0,
-11,3,3,Brianna,US0153,True,False,True,True,True,"""You guys are strong. Kick some ... butt."" ",3,
-11,4,4,Brooke,US0154,False,False,False,False,False,,0,
-11,5,5,Blake,US0155,True,False,True,True,False,"""Bye guys""",2,
-11,6,6,Margaret,US0156,False,False,False,False,False,,0,
-11,7,6,Brian,US0157,True,True,True,True,False,"""Good luck guys""",3,Hugged several people before torch.
-11,8,7,Amy,US0158,False,False,False,False,False,,0,Hugged Gary before torch
-11,9,8,Brandon,US0159,True,False,True,False,False,"""Good luck guys""",1,Spoke with back turned
-11,10,9,Bobby Jon,US0141,True,True,True,True,False,"""Hang in there. Good luck.""",3,
-11,11,10,Jamie,US0160,True,True,True,True,True,"""You blindsided! Nice! That's how you vote somebody off!""",4,Not a wave but lots of hand motions for emphasis. 
-11,12,11,Gary,US0161,False,False,False,False,False,,0,
-11,13,12,Judd,US0162,True,False,True,False,False,"""Scumbags""",1,Said it walking away
-11,14,13,Cindy,US0163,False,False,False,False,False,,0,Curse of the car!
-11,15,14,Lydia,US0164,False,False,False,False,False,,0,
-11,16,14,Rafe,US0165,True,True,True,True,True,"""Good luck tomorrow, guys.""",4,
-12,1,1,Tina,US0167,True,True,True,True,True,,4,
-12,2,2,Melinda,US0168,True,True,True,False,False,,2,
-12,3,3,Misty,US0169,True,True,True,False,False,,2,
-12,4,4,Ruth Marie,US0170,True,True,True,False,False,,2,
-12,5,5,Bobby,US0171,False,False,False,False,False,,0,
-12,6,6,Dan,US0172,True,True,False,True,True,,3,
-12,7,8,Nick,US0173,True,True,True,True,True,"""Cirie""",4,He threw her some socks and said her name. 
-12,8,9,Austin,US0174,True,True,True,True,True,"""Bye guys""",4,
-12,9,10,Sally,US0175,True,True,True,True,False,"""Thanks""",3,
-12,10,12,Courtney,US0177,True,False,False,True,True,,2,
-12,11,13,Shane,US0178,True,False,False,True,False,,1,
-12,12,14,Cirie,US0179,True,True,False,True,True,,3,
-12,13,15,Terry,US0180,True,True,True,True,False,"""Thanks for the journey, you guys""",3,
-13,1,1,Sekou,US0183,False,False,False,False,False,,0,
-13,2,2,Billy,US0184,True,True,False,True,False,,2,
-13,3,3,Cecilia,US0185,False,False,False,False,False,,0,
-13,4,4,J.P.,US0186,True,True,True,True,True,"""That was pretty good.""",4,
-13,5,5,Stephannie,US0187,True,True,False,True,True,,3,
-13,6,6,Cao Boi,US0188,False,False,False,False,False,,0,
-13,7,6,Cristina,US0189,False,False,False,False,False,,0,
-13,8,8,Jessica,US0190,True,True,False,True,True,,3,
-13,9,9,Brad,US0191,True,True,False,True,True,,3,
-13,10,10,Rebecca,US0192,False,False,False,False,False,,0,
-13,11,10,Jenny,US0193,False,False,False,False,False,,0,
-13,12,11,Nate,US0194,True,True,True,True,False,"""One love""",3,
-13,13,12,Candice,US0195,True,True,True,True,True,"""Still smiling, guys. Have fun. Love ya.""",4,
-13,14,13,Jonathan,US0196,True,True,True,True,True,"""I'd like my hat back at some point. 'Night guys.""",4,
-13,15,14,Parvati,US0197,True,True,False,True,True,,3,
-13,16,15,Adam,US0198,False,False,False,False,False,,0,
-13,17,15,Sundra,US0199,True,True,False,True,True,,3,
-14,1,1,Jessica,US0203,False,False,False,False,False,,0,
-14,2,2,Erica,US0204,False,False,False,False,False,,0,
-14,3,3,Sylvia,US0205,True,True,True,True,True,"""Good luck.""",4,
-14,4,4,Liliana,US0207,False,False,False,False,False,,0,
-14,5,5,Rita,US0208,True,True,False,True,True,,3,
-14,6,6,Anthony,US0209,True,True,True,True,False,"""Good luck""",3,
-14,7,7,Rocky,US0210,True,False,True,True,False,"""Be good, boys, huh?""",2,
-14,8,8,Lisi,US0211,False,False,False,False,False,,0,
-14,9,9,Michelle,US0212,True,True,False,True,True,,3,
-14,10,10,Edgardo,US0213,False,False,False,False,False,,0,
-14,11,11,Mookie,US0214,True,True,True,True,False,"""Good luck""",3,
-14,12,12,Alex,US0215,True,True,False,True,False,,2,
-14,13,13,Stacy,US0216,True,True,False,True,True,,3,
-14,14,14,Boo,US0217,False,False,False,False,False,,0,
-14,15,14,Yau-Man,US0218,True,True,True,True,True,"""Good luck""",4,
-15,1,1,Chicken,US0222,False,False,False,False,False,,0,
-15,2,2,Ashley,US0223,False,False,False,False,False,,0,
-15,3,3,Leslie,US0224,True,True,False,True,False,,2,
-15,4,4,Dave,US0225,False,False,False,False,False,,0,
-15,5,5,Aaron,US0226,False,False,False,False,False,,0,
-15,6,6,Sherea,US0227,False,False,False,False,False,,0,
-15,7,7,Jaime,US0228,False,False,False,False,False,,0,
-15,8,8,Jean-Robert,US0229,False,False,False,False,False,,0,
-15,9,9,Frosti,US0230,True,True,False,True,False,,2,
-15,10,11,James,US0231,False,False,False,False,False,,0,
-15,11,12,Erik,US0232,False,False,False,False,False,,0,
-15,12,13,Peih-Gee,US0233,False,False,False,False,False,,0,
-15,13,14,Denise,US0234,True,True,False,True,True,,3,
-16,1,1,Jonny Fairplay,US0111,True,True,True,True,True,"""Bye guys.""",4,
-16,2,2,Mary,US0238,True,True,True,True,False,"""Bye guys. Win this.""",3,
-16,3,3,Yau-Man,US0218,True,True,True,True,True,"""Good luck guys! Have fun.""",4,
-16,4,4,Mikey B,US0239,False,False,False,False,False,,0,
-16,5,5,Joel,US0240,True,True,True,True,True,,4,
-16,6,6,Chet,US0241,True,True,True,True,True,"""Love you guys.""",4,
-16,7,7,Tracy,US0243,False,False,False,False,False,,0,
-16,8,8,Ami,US0125,True,True,True,True,True,"""Good luck guys!""",4,
-16,9,9,Eliza,US0127,True,True,True,True,True,"""Bye guys.""",4,
-16,10,10,Ozzy,US0201,True,False,False,True,False,,1,
-16,11,11,Jason,US0244,True,True,True,True,True,,4,
-16,12,12,Alexis,US0245,True,True,False,True,True,,3,
-16,13,13,Erik,US0246,True,True,False,True,True,,3,
-16,14,14,Natalie,US0247,True,True,False,True,True,,3,
-16,15,14,Cirie,US0179,True,True,False,True,True,,3,
-17,1,1,Michelle,US0248,False,False,False,False,False,,0,
-17,2,1,Gillian,US0249,True,True,True,True,True,"""Bye guys. Good luck.""",4,
-17,3,2,Paloma,US0250,False,False,False,False,False,,0,
-17,4,3,Jacquie,US0251,False,False,False,False,False,,0,
-17,5,4,GC,US0252,True,True,False,True,False,,2,
-17,6,5,Kelly,US0253,False,False,False,False,False,,0,
-17,7,6,Ace,US0254,True,True,True,True,False,"""Good luck, guys.""",3,
-17,8,6,Dan,US0255,False,False,False,False,False,,0,
-17,9,7,Marcus,US0256,False,False,False,False,False,,0,
-17,10,8,Charlie,US0257,True,False,True,True,True,"""Have fun.""",3,
-17,11,9,Randy,US0258,False,False,False,False,False,,0,
-17,12,11,Corinne,US0259,False,False,False,False,False,,0,
-17,13,12,Crystal,US0260,True,True,False,True,True,,3,
-17,14,13,Ken,US0261,True,True,True,True,False,"""Goodbye""",3,
-17,15,13,Matty,US0262,False,False,False,False,False,,0,
-18,1,1,Carolina,US0266,False,False,False,False,False,,0,
-18,2,2,Candace,US0267,False,False,False,False,False,,0,
-18,3,3,Jerry,US0268,True,True,False,True,True,,3,
-18,4,4,Sandy,US0269,False,False,False,False,False,,0,
-18,5,5,Spencer,US0270,True,True,True,True,True,"""Bye guys""",4,
-18,6,7,Sydney,US0271,False,False,False,False,False,,0,
-18,7,9,Brendan,US0273,True,True,True,True,False,"""Good luck, you guys.""",3,
-18,8,10,Tyson,US0274,True,True,False,True,True,,3,
-18,9,11,Sierra,US0275,False,False,False,False,False,,0,
-18,10,12,Debbie,US0276,True,True,False,True,False,,2,
-18,11,13,Coach,US0277,True,True,False,True,True,,3,
-18,12,14,Taj,US0278,False,False,False,False,False,,0,
-18,13,14,Erinn,US0279,False,False,False,False,False,,0,
-19,1,1,Marisa,US0282,False,False,False,False,False,,0,
-19,2,2,Betsy,US0284,False,False,False,False,False,,0,
-19,3,3,Ben,US0285,False,False,False,False,False,,0,
-19,4,4,Yasmin,US0286,False,False,False,False,False,,0,
-19,5,5,Ashley,US0287,True,False,True,True,False,"""Kick some butt you guys.""",2,
-19,6,7,Liz,US0289,False,False,False,False,False,,0,
-19,7,8,Erik,US0290,True,True,False,False,False,,1,
-19,8,9,Kelly,US0291,False,False,False,False,False,,0,
-19,9,10,Laura,US0292,False,False,False,False,False,,0,
-19,10,12,John,US0293,True,True,True,True,False,"""Pleasure, boys.""",3,
-19,11,13,Dave,US0294,True,False,True,True,False,"""Good game you guys.""",2,
-19,12,13,Monica,US0295,True,True,False,True,False,,2,
-19,13,14,Shambo,US0296,True,False,True,True,True,"""Good luck you guys.""",3,
-19,14,15,Jaison,US0297,False,False,False,False,False,,0,
-19,15,15,Brett,US0298,True,False,True,True,True,"""Good game guys!""",3,
-20,1,1,Sugar,US0263,True,True,True,True,True,"""Bye""",4,
-20,2,2,Stephenie,US0144,True,False,True,True,False,"""Some advice, next time y'all lose a challenge, a\nlittle less cursing off your tribe might help.... It's been a pleasure.""",2,
-20,3,3,Randy,US0258,False,False,False,False,False,,0,
-20,4,4,Cirie,US0179,True,True,False,True,False,,2,
-20,5,5,Tom,US0150,False,False,False,False,False,,0,
-20,6,6,Tyson,US0274,False,False,False,False,False,,0,
-20,7,6,James,US0231,True,False,True,False,False,"""Oh, I'm gonna be good and drunk in the next five minutes.""",1,
-20,8,7,Boston Rob,US0055,False,False,False,False,False,,0,
-20,9,8,Coach,US0277,True,True,False,True,False,,2,
-20,10,9,Courtney,US0236,True,True,True,True,True,"""Good luck, bitches. See you later.""",4,
-20,11,10,J.T.,US0281,True,True,True,True,True,"""Good luck, guys.""",4,
-20,12,11,Amanda,US0235,False,False,False,False,False,,0,
-20,13,12,Candice,US0195,True,True,True,True,True,"""Good luck, you guys.""",4,
-20,14,12,Danielle,US0181,True,True,True,True,False,"""Bye""",3,
-20,15,13,Rupert,US0107,True,False,False,True,False,,1,
-20,16,14,Colby,US0031,False,False,False,False,False,,0,
-20,17,14,Jerri,US0025,True,True,True,True,True,"""Bye you guys.""",4,
-21,1,1,Wendy,US0302,False,False,False,False,False,,0,
-21,2,2,Shannon,US0303,False,False,False,False,False,,0,
-21,3,3,Jimmy J.,US0304,True,True,True,True,False,"""Win a million bucks, OK?""",3,
-21,4,4,Jimmy T.,US0305,False,False,False,False,False,,0,
-21,5,5,Tyrone,US0306,True,True,True,True,True,"""Good luck, guys.""",4,
-21,6,6,Kelly B.,US0307,False,False,False,False,False,,0,
-21,7,6,Yve,US0308,False,False,False,False,False,,0,
-21,8,7,Jill,US0309,False,False,False,False,False,,0,
-21,9,8,Alina,US0310,True,False,True,True,True,"""Good luck, guys.""",3,
-21,10,9,Marty,US0311,True,True,True,True,False,"""Good luck, guys.""",3,
-21,11,10,Brenda,US0312,True,True,False,True,True,,3,
-21,12,13,Benry,US0315,True,True,True,True,False,"""Good luck, guys.""",3,
-21,13,14,Jane,US0316,True,False,True,False,False,"""Yall have fun""",1,
-21,14,15,Dan,US0317,False,False,False,False,False,,0,
-21,15,15,Holly,US0318,False,False,False,False,False,,0,
-22,1,1,Francesca,US0322,True,False,True,False,False,"""Don't trust Phillip.""",1,
-22,2,2,Matt,US0323,True,False,True,True,False,"""Have fun.""",2,
-22,3,3,Russell,US0300,False,False,False,False,False,,0,
-22,4,4,Kristina,US0324,False,False,False,False,False,,0,
-22,5,5,Krista,US0325,False,False,False,False,False,,0,
-22,6,6,Stephanie,US0326,False,False,False,False,False,,0,
-22,7,7,Sarita,US0327,True,True,True,True,True,"""Bye, guys.""",4,
-22,8,8,Matt,US0323,False,False,False,False,False,,0,
-22,9,9,Mike,US0328,False,False,False,False,False,,0,
-22,10,9,David,US0329,False,False,False,False,False,,0,
-22,11,10,Julie,US0330,False,False,False,False,False,,0,
-22,12,11,Ralph,US0331,False,False,False,False,False,,0,
-22,13,11,Steve,US0332,False,False,False,False,False,,0,
-22,14,12,Andrea,US0333,False,False,False,False,False,,0,
-22,15,13,Grant,US0334,True,False,True,False,False,"""See you guys shortly.""",1,
-22,16,14,Andrea,US0333,False,False,False,False,False,,0,
-22,17,14,Ashley,US0335,True,True,False,True,True,,3,
-23,1,1,Semhar,US0338,False,False,False,False,False,,0,
-23,2,2,Christine,US0339,False,False,False,False,False,,0,
-23,3,3,Papa Bear,US0340,True,False,True,True,True,"""Goodbye, everybody""",3,
-23,4,4,Stacey,US0341,False,False,False,False,False,,0,
-23,5,5,Elyse,US0342,False,False,False,False,False,,0,
-23,6,6,Mikayla,US0343,False,False,False,False,False,,0,
-23,7,7,Ozzy,US0201,True,True,False,True,True,"""Bye. Be right back.""",3,
-23,8,8,Keith,US0344,False,False,False,False,False,,0,
-23,9,9,Ozzy,US0201,True,False,True,True,True,"""You better believe it."" ",3,
-23,10,9,Jim,US0345,False,False,False,False,False,,0,
-23,11,10,Dawn,US0346,False,False,False,False,False,,0,
-23,12,10,Whitney,US0347,False,False,False,False,False,,0,
-23,13,12,Cochran,US0348,True,True,False,True,True,,3,
-23,14,13,Edna,US0349,False,False,False,False,False,,0,
-23,15,14,Brandon,US0350,False,False,False,False,False,,0,
-23,16,15,Rick,US0351,False,False,False,False,False,,0,
-23,17,15,Ozzy,US0201,True,False,True,False,True,"""It was great. Thanks a lot for the chance.""",2,
-24,1,2,Nina,US0355,False,False,False,False,False,,0,
-24,2,3,Matt,US0356,False,False,False,False,False,,0,
-24,3,4,Bill,US0357,False,False,False,False,False,,0,
-24,4,5,Monica,US0358,False,False,False,False,False,,0,
-24,5,7,Jonas,US0360,True,True,True,True,True,"""Hey, good luck with that food situation.""",4,
-24,6,8,Michael,US0361,False,False,False,False,False,,0,
-24,7,9,Jay,US0362,False,False,False,False,False,,0,
-24,8,10,Leif,US0363,True,False,True,True,False,"""Bye, guys.""",2,
-24,9,11,Troyzan,US0364,True,False,False,True,True,,2,
-24,10,12,Kat,US0365,False,False,False,False,False,,0,
-24,11,13,Tarzan,US0366,True,True,True,True,False,"""I want to thank you ladies and you gentlemen for the adventure and for allowing me to see my wife. Adios.""",3,
-24,12,14,Alicia,US0367,False,False,False,False,False,,0,
-24,13,14,Christina,US0368,False,False,False,False,False,,0,
-25,1,1,Zane,US0372,False,False,False,False,False,,0,
-25,2,2,Roxy,US0373,False,False,False,False,False,,0,
-25,3,3,Angie,US0374,True,True,True,True,True,"""Good luck, guys. Kick some ass.""",4,
-25,4,4,Russell,US0288,False,False,False,False,False,,0,
-25,5,5,Dawson,US0376,True,True,False,True,False,,2,Crazy Jeff stare and hug.
-25,6,6,Katie,US0377,False,False,False,False,False,,0,
-25,7,7,RC,US0378,True,True,False,True,False,,2,
-25,8,8,Jeff,US0379,False,False,False,False,False,,0,
-25,9,9,Artis,US0380,False,False,False,False,False,,0,
-25,10,10,Pete,US0381,True,True,False,True,False,,2,
-25,11,11,Jonathan,US0196,True,True,True,True,False,"""Guys... Keep your sunny side up.""",3,
-25,12,12,Carter,US0382,False,False,False,False,False,,0,
-25,13,13,Abi-Maria,US0383,False,False,False,False,False,,0,
-25,14,14,Malcolm,US0384,False,False,False,False,False,,0,
-26,1,1,Francesca,US0322,False,False,False,False,False,,0,
-26,2,2,Allie,US0387,True,False,True,True,False,"""Good luck, you guys.""",2,
-26,3,3,Hope,US0388,False,False,False,False,False,,0,
-26,4,4,Laura,US0390,True,False,True,True,False,"""Good luck, guys.""",2,
-26,5,5,Brandon,US0350,True,False,True,True,False,"""Kick their asses... Phillip, you're a bitch""",2,
-26,6,6,Matt,US0391,True,True,True,True,True,"""Seeya, guys.""",4,
-26,7,7,Julia,US0392,True,True,True,True,True,"""It's been fun. Good luck."" ",4,
-26,8,8,Corinne,US0259,False,False,False,False,False,,0,
-26,9,9,Michael,US0393,True,True,True,True,False,"""You turkeys.""",3,Middle finger
-26,10,10,Phillip,US0337,False,False,False,False,False,,0,
-26,11,11,Malcolm,US0384,True,True,True,True,True,"""Best of luck, guys.""",4,"Mumbles ""I need a drink."" (not to tribe)"
-26,12,12,Reynold,US0394,True,False,True,True,True,"""Been a blast you guys, I can't wait to see wat happens.""",3,
-26,13,12,Andrea,US0333,False,False,False,False,False,,0,
-26,14,13,Brenda,US0312,True,True,True,True,True,"""It hurts.""",4,Puts hands on heart
-26,15,14,Eddie,US0395,True,True,True,True,True,"""What a game, guys.""",4,Waves
-27,1,1,Laura B.,US0397,False,False,False,False,False,,0,Non tribal vote off
-27,2,1,Candice,US0195,False,False,False,False,False,,0,Non tribal vote off
-27,3,1,Marissa,US0398,True,True,False,True,False,,2,Death stare
-27,4,2,Rachel,US0399,True,True,True,True,False,"""Peace guys.""",3,
-27,5,3,John,US0400,False,False,False,False,False,,0,
-27,6,4,Brad,US0401,False,False,False,False,False,,0,
-27,7,5,Laura M.,US0292,False,False,False,False,False,,0,
-27,8,6,Kat,US0365,False,False,False,False,False,,0,
-27,9,7,Laura B.,US0397,True,True,True,True,False,"""Bye, guys.""",3,
-27,10,8,Aras,US0182,True,True,True,True,True,"""See you guys. Have fun.""",4,
-27,11,9,Vytas,US0402,False,False,False,False,False,,0,
-27,12,9,Tina,US0032,True,True,True,True,False,"""See y'all tomorrow.""",3,
-27,13,10,Laura M.,US0292,True,True,True,True,True,"""Love you.""",4,"Speaking to her daughter, Ciera"
-27,14,11,Caleb,US0403,False,False,False,False,False,,0,
-27,15,12,Katie,US0404,True,True,True,True,False,"""Good luck""",3,
-27,16,13,Hayden,US0405,True,True,True,True,True,"""See y'all later.""",4,
-27,17,14,Ciera,US0406,True,True,True,True,False,"""Bye guys.""",3,
-27,18,14,Tina,US0032,False,False,False,False,False,,0,
-28,1,1,David,US0407,False,False,False,False,False,,0,
-28,2,1,Garrett,US0408,False,False,False,False,False,,0,
-28,3,2,Brice,US0409,False,False,False,False,False,,0,
-28,4,3,J'Tia,US0410,False,False,False,False,False,,0,
-28,5,4,Cliff,US0411,True,True,True,True,True,"""Good luck, guys.""",4,
-28,6,5,Alexis,US0413,False,False,False,False,False,,0,
-28,7,6,Sarah,US0414,True,True,True,True,True,"""Good luck, guys.""",4,
-28,8,7,Morgan,US0415,True,True,True,True,True,"""Good luck, you guys.""",4,
-28,9,8,LJ,US0416,True,False,True,False,False,"""Good luck, guys.""",1,
-28,10,9,Jeremiah,US0417,True,True,True,True,True,Inaudible,4,
-28,11,10,Jefra,US0418,True,True,True,True,True,"""Good luck, guys. It's been fun.""",4,
-28,12,11,Tasha,US0419,False,False,False,False,False,,0,
-28,13,12,Trish,US0420,True,False,True,True,False,"""Good luck.""",2,
-28,14,13,Spencer,US0421,True,True,True,True,False,"""Adios""",3,
-28,15,13,Kass,US0422,False,False,False,False,False,,0,
-29,1,1,Nadiya,US0425,False,False,False,False,False, ,0,
-29,2,2,Val,US0426,False,False,False,False,False,,0,
-29,3,3,John,US0427,False,False,False,False,False,,0,
-29,4,4,Drew,US0428,False,False,False,False,False,,0,
-29,5,5,Kelley,US0429,False,False,False,False,False,,0,
-29,6,6,Dale,US0430,False,False,False,False,False,,0,
-29,7,8,Josh,US0432,True,True,True,True,False,"""I'll eat a cheeseburger for everybody.""",3,
-29,8,9,Jeremy,US0433,False,False,False,False,False,,0,
-29,9,10,Wes,US0434,True,True,False,True,False,,2,
-29,10,11,Reed,US0435,False,False,False,False,False,,0,
-29,11,12,Alec,US0436,False,False,False,False,False,,0,
-29,12,13,Jon,US0437,True,True,True,True,False,"""See ya guys. Good luck."" ",3,
-29,13,14,Baylor,US0438,True,True,True,True,False,"""Love y'all.""",3,
-29,14,14,Keith,US0439,True,True,True,False,False,"""See y'all.""",2,
-30,1,1,So,US0443,True,False,True,True,True,"""Good luck, guys.""",3,
-30,2,2,Vince,US0444,True,False,True,True,False,"""Good play.""",2,
-30,3,3,Nina,US0445,False,False,False,False,False,,0,
-30,4,4,Lindsey,US0446,False,False,False,False,False,,0,
-30,5,5,Max,US0447,False,False,False,False,False,,0,
-30,6,6,Joaquin,US0448,False,False,False,False,False,,0,
-30,7,7,Kelly,US0449,False,False,False,False,False,,0,
-30,8,8,Hali,US0450,True,True,True,True,True,"""Love you, America.""",4,
-30,9,9,Joe,US0451,True,True,True,True,False,"""Hey, love you all. Good luck.""",3,
-30,10,10,Jenn,US0452,True,True,True,True,True,"""Bye, guys. Good luck. And play nice, alright? I'll see you soon.""",4,
-30,11,11,Shirin,US0453,True,True,True,True,True,"""Bye, guys.""",4,
-30,12,12,Tyler,US0454,False,False,False,False,False,,0,
-30,13,13,Dan,US0455,False,False,False,False,False,,0,
-30,14,14,Sierra,US0456,True,True,True,True,True,"""Sneaky""",4,
-30,15,14,Rodney,US0457,True,True,True,True,False,"""Alright, guys""",3,
-31,1,1,Vytas,US0402,True,True,True,True,True,"""No hard feelings, you guys. You played such a great game. It's all good.""",4,
-31,2,2,Shirin,US0453,False,False,False,False,False,,0,
-31,3,3,Peih-Gee,US0233,False,False,False,False,False,,0,
-31,4,4,Jeff,US0023,True,False,False,True,False,,1,
-31,5,5,Monica,US0295,True,False,False,True,False,,1,
-31,6,6,Woo,US0423,False,False,False,False,False,,0,
-31,7,7,Kass,US0422,False,False,False,False,False,,0,
-31,8,8,Andrew,US0105,True,True,False,True,False,,2,Middle finger to Abi-Maria
-31,9,9,Kelly,US0015,False,False,False,False,False,,0,
-31,10,10,Ciera,US0406,False,False,False,False,False,,0,
-31,11,11,Stephen,US0280,False,False,False,False,False,,0,
-31,12,12,Joe,US0451,False,False,False,False,False,"""Good luck, y'all. Boys: Best of luck.""",0,
-31,13,13,Abi-Maria,US0383,True,True,True,True,False,"""Well played.""",3,
-31,14,14,Kimmi,US0021,True,True,True,True,True,"""Thank you very much for a great game.""",4,
-31,15,14,Keith,US0439,True,True,True,True,False,"""Hang in there.""",3,
-31,16,14,Kelley,US0429,True,True,True,True,True,"""Good luck guys. See you tomorrow.""",4,
-32,1,1,Darnell,US0461,True,False,True,True,False,"""Good game.""",2,
-32,2,2,Jennifer,US0462,True,True,True,True,True,"""See you guys. Hope you win lots more challenges.""",4,
-32,3,3,Liz,US0463,True,False,True,True,False,"""Good luck everyone!""",2,
-32,4,4,Alecia,US0465,True,False,True,True,True,"""Good luck Cydney""",3,
-32,5,5,Anna,US0466,True,True,True,True,True,"""Good luck everyone.""",4,
-32,6,6,Peter,US0467,True,True,False,True,True,,3,
-32,7,8,Nick,US0469,False,False,False,False,False,,0,
-32,8,9,Debbie,US0470,False,False,False,False,False,,0,
-32,9,10,Scot,US0471,False,False,False,False,False,,0,
-32,10,11,Julia,US0472,False,False,False,False,False,,0,
-32,11,12,Jason,US0473,True,True,False,False,False,,1,
-32,12,14,Cydney,US0475,False,False,False,False,False,,0,
-33,1,1,Rachel,US0479,False,False,False,False,False,,0,
-33,2,2,Mari,US0480,True,False,True,True,False,"""Salty""",2,
-33,3,3,Paul,US0481,True,True,True,True,False,"""Good luck, guys.""",3,
-33,4,4,Lucy,US0482,False,False,False,False,False,,0,
-33,5,5,CeCe,US0483,True,False,True,True,False,"""Good luck, guys.""",2,
-33,6,6,Figgy,US0484,True,False,True,True,False,"""Good luck, Tays.""",2,
-33,7,7,Michaela,US0485,True,False,True,True,False,"""You going to feel like an asshole... my shoes... Damn, Jay"" ",2,
-33,8,8,Michelle,US0486,True,True,False,True,False,,2,
-33,9,9,Taylor,US0487,True,True,True,True,False,"""Good luck, guys... Sorry for stealing food.""",3,
-33,10,10,Chris,US0488,True,True,True,True,False,"""Boomer""",3,"Zeke replied, ""Sooner."""
-33,11,10,Jessica,US0489,False,False,False,False,False,,0,
-33,12,11,Zeke,US0490,False,False,False,False,False,,0,"Just before snuff: ""It's been an honor to play with you all."""
-33,13,12,Will,US0491,True,True,True,True,False,"""I had a blast guys. Good luck to all of you.""",3,
-33,14,12,Sunday,US0492,True,False,True,True,True,"""Good luck, guys. Have fun.""",3,
-33,15,13,Jay,US0493,False,True,False,False,False,,1,
-33,16,13,Bret,US0494,True,False,True,True,True,"""David, good luck to you. The rest of you: You just lost a million dollars.""",3,
-33,17,13,David,US0495,True,False,True,True,False,"""Playing Survivor is the biggest dream I ever had, and I'm so glad I got to play it with all of you. But not Vinaka.""",2,
-34,1,1,Ciera,US0406,True,True,True,True,True,"""Good luck everyone good job.""",4,
-34,2,1,Tony,US0424,True,False,False,True,False,,1,
-34,3,2,Caleb,US0464,False,False,False,False,False,,0,
-34,4,3,Malcolm,US0384,False,False,False,False,False,,0,
-34,5,4,J.T.,US0281,False,False,False,False,False,,0,
-34,6,5,Sandra,US0112,True,True,True,True,True,,4,
-34,7,6,Jeff,US0023,True,True,False,True,False,,2,
-34,8,7,Hali,US0450,True,True,True,True,True,"""I enjoyed meeting every one of you. May the best player win!""",4,
-34,9,7,Ozzy,US0201,True,True,True,True,True,"""Good job guys. Good luck eating.""",4,
-34,10,8,Debbie,US0470,True,True,True,True,True,"""Good luck to you all.""",4,
-34,11,9,Zeke,US0490,True,True,True,True,True,"""Keep playing hard gang."" ",4,"Mumbles ""Dammit!"" under breath as walking out"
-34,12,10,Sierra,US0456,True,True,True,True,True,"""Yep. Privilege guys!""",4,
-34,13,11,Andrea,US0333,False,False,False,False,False,,0,
-34,14,11,Michaela,US0485,False,False,False,False,False,,0,
-34,15,12,Cirie,US0179,True,True,True,True,True,"""Thank you Jeff""",4,
-34,16,12,Aubry,US0477,False,False,False,False,False,"""The full experience.""",0,
-34,17,12,Tai,US0476,False,False,False,False,False,"""Thank you Jeff for a great season. Appreicate it. Thank you.""",0,
-35,1,1,Katrina,US0499,True,True,True,True,False,"""Good luck, guys.""",3,
-35,2,2,Simone,US0500,True,True,True,True,True,"""Bye""",4,
-35,3,3,Patrick,US0501,True,False,False,True,False,,1,"Said, ""You guys are awful"" when Jeff made announcement. "
-35,4,4,Alan,US0502,True,True,True,True,False,"""Good luck, everyone.""",3,
-35,5,5,Roark,US0503,True,True,True,True,False,"""Good luck, guys.""",3,
-35,6,6,Ali,US0504,False,False,False,False,False,,0,
-35,7,7,Jessica,US0505,True,True,False,True,True,,3,
-35,8,8,Desi,US0506,True,True,True,True,True,"""Good luck everyone.""",4,
-35,9,9,Cole,US0507,True,True,True,True,True,"""Good luck, guys. Have fun out there."" ",4,
-35,10,10,JP,US0508,False,False,False,False,False,,0,"""Damn, they got me good,"" he said out of jury earshot. "
-35,11,10,Joe,US0509,False,False,False,False,False,,0,
-35,12,11,Lauren,US0510,True,True,True,True,True,"""Good luck, guys.""",4,
-35,13,12,Ashley,US0511,True,True,True,True,False,"""Good luck, you guys.""",3,
-35,14,13,Mike,US0512,True,True,True,False,False,"""Good luck, everybody.""",2,
-35,15,13,Devon,US0513,True,True,False,True,True,,3,
-36,1,1,Gonzalez,US0517,False,False,False,False,False,,0,"Said ""sad"" as she walked away. "
-36,2,1,Jacob,US0518,True,True,True,True,True,"""Y'all did good.""",4,
-36,3,2,Morgan,US0519,True,True,True,True,True,"""Don't trust the cute blondes.""",4,
-36,4,3,Brendan,US0520,False,False,False,False,False,,0,
-36,5,4,Stephanie,US0521,True,True,True,True,False,"""Bye guys.""",3,
-36,6,5,James,US0522,True,True,True,True,True,"""Great blindside, y'all. It's been a true pleasure playing with you all. Best of luck.""",4,
-36,7,6,Bradley,US0523,False,False,False,False,False,,0,
-36,8,7,Chris,US0524,False,False,False,False,False,,0,
-36,9,8,Libby,US0525,True,True,True,True,True,"""See you, guys.""",4,
-36,10,9,Desiree,US0526,True,False,True,False,False,"""Ladies y'all better keep winning.""",1,
-36,11,10,Jenna,US0527,False,False,False,False,False,,0,
-36,12,10,Michael,US0528,True,True,True,True,False,"""It's been one hell of a time, guys. Vinaka.""",3,
-36,13,11,Chelsea,US0529,False,False,False,False,False,,0,
-36,14,12,Kellyn,US0530,True,True,True,True,True,"""It's truly been a pleasure. From the bottom of my heart, I wish you all the best of look.""",4,
-36,15,13,Sebastian,US0531,True,True,True,True,True,"""You guys have no idea how much fun I had with all you. It was truly a pleasure.""",4,
-36,16,13,Donathan,US0532,False,False,False,False,False,,0,
-36,17,13,Angela,US0533,True,True,True,True,False,"""Good luck.""",3,
-37,1,2,Jessica,US0538,True,False,True,True,False,"""Bye, guys.""",2,
-37,2,3,Jeremy,US0539,False,False,False,False,False,,0,
-37,3,4,Natalia,US0541,True,True,True,True,False,"""Did you know? Why are you smiling. Oh my God I can't handle you right now.""",3,
-37,4,5,Natalie,US0542,False,False,False,False,False,,0,
-37,5,6,Lyrsa,US0543,True,False,True,True,False,"""Bye, guys.""",2,
-37,6,7,Elizabeth,US0544,True,False,True,True,True,"""Good luck, you guys. I love you all. I really do.""",3,
-37,7,8,John,US0545,True,True,True,True,True,"""Guys""",4,
-37,8,9,Dan,US0546,False,False,False,False,False,,0,
-37,9,10,Alec,US0547,True,True,False,True,True,,3,
-37,10,10,Carl,US0548,True,True,True,True,False,"""Go get 'em. Good job, guys.""",3,
-37,11,11,Gabby,US0549,True,True,True,True,True,"""Sorry, Christian. I love you.""",4,
-37,12,12,Christian,US0550,True,True,True,True,False,"""Good luck to you all. Well played.""",3,
-37,13,13,Davie,US0551,True,True,True,True,False,"""I will say this. The person who orchestrated this, you now have my vote for a million dollars. It's up to someone else to make a bigger move.""",3,
-37,14,13,Alison,US0552,True,True,True,True,True,"""Good luck. I'll see you all soon.""",4,
-37,15,13,Kara,US0553,True,True,True,True,True,"Bye guys. See you soon.""",4,
-38,1,1,Reem,US0557,True,False,True,True,False,"""Thank you.""",2,"Mumbles ""I hope it pours down rain on these people."" under breath."
-38,2,2,Keith,US0558,False,False,False,False,False,,0,"Said, ""Dang, Dang, Dang. Dangit!"" but not to tribe. "
-38,3,3,Chris,US0559,False,False,False,False,False,,0,
-38,4,4,Rick,US0560,True,True,True,True,True,,4,"""I take it all back. You guys are the worst. I love you guys. Go win something. I'm rooting for you."""
-38,5,5,Aubry,US0477,True,False,True,True,False,"""Good luck, guys. Kill it.""",2,
-38,6,5,Wendy,US0561,True,True,True,True,True,,4,"""Bye guys."""
-38,7,6,Joe,US0451,True,False,True,True,False,"""You made a big mistake."" ",2,As he walked away after turning to glare at them. 
-38,8,7,Eric,US0562,True,False,True,True,False,"""The lord gives. The lord takes away. What a fun experience. Hopefully I'll see you soon.""",2,
-38,9,8,Julia,US0563,True,False,True,True,True,"""It's been such a pleasure, guys. I know it's a game but, really, take care of yourselves and each other. Good luck.""",3,
-38,10,9,David,US0495,True,False,True,True,True,"""No hard feelings guys. You know I had to try. But I am going to follow my way back in."" ",3,
-38,11,9,Kelley,US0429,True,False,True,True,True,"""Good luck. See you soon.""",3,
-38,12,10,Wardog,US0564,True,True,True,True,True,"""Y'all made the right decision. Love you.""",4,
-38,13,11,Ron,US0565,True,True,True,True,True,"""Devins, you're a great player. It was a lot of fun. Bye. Thanks.""",4,
-38,14,12,Aurora,US0566,True,True,True,True,True,"""Good game guys. Good luck. Get him out.""",4,Referring to Devins
-38,15,13,Victoria,US0567,True,True,True,True,True,"""I'm not sure which one of you did it. Devins, great play. Gavin, I'm voing for you, man.""",4,
-38,16,13,Lauren,US0568,True,True,True,True,True,"""Bye guys. Seriously, good luck.""",4,
-38,17,13,Rick,US0560,True,True,True,True,True,"""Thank you.""",4,
-39,1,1,Ronnie,US0571,True,True,True,True,False,"""OK guys.""",3,
-39,2,2,Molly,US0572,True,True,True,True,True,"""Good luck, guys.""",4,
-39,3,3,Vince,US0573,True,True,True,True,True,"""Good luck, all.""",4,
-39,4,4,Chelsea,US0574,True,True,True,True,True,"""Good luck, guys.""",4,
-39,5,5,Tom,US0575,True,True,True,False,False,"""See ya, guys. Good luck.""",2,
-39,6,6,Jason,US0576,False,False,False,False,False,,0,
-39,7,7,Jack,US0577,True,True,True,True,True,"""See you all.""",4,
-39,8,8,Kellee,US0578,True,True,True,True,True,"""Good luck, guys.""",4,
-39,9,8,Jamal,US0579,False,False,False,False,False,,0,
-39,10,9,Aaron,US0580,False,False,False,False,False,,0,
-39,11,9,Missy,US0581,True,True,True,True,True,"""Dang, Elaine, I knew it. All right. I'll see you all later. Wednesday night at 8.""",4,
-39,12,10,Elizabeth,US0582,True,True,True,True,True,"""Love you.""",4,
-39,13,11,Karishma,US0583,False,False,False,False,False,,0,
-39,14,12,Elaine,US0584,True,True,True,True,False,"""Love y'all.""",3,
-39,15,13,Janet,US0586,True,True,True,True,False,"""Bye guys.""",3,
-39,16,13,Lauren,US0587,True,True,True,True,True,"""Bye guys, good luck. Love you Tommy.""",4,
-40,1,1,Natalie,US0442,False,False,False,False,False,,0,
-40,2,1,Amber,US0027,False,False,False,False,False,,0,
-40,3,2,Danni,US0166,False,False,False,False,False,,0,
-40,4,3,Ethan,US0048,True,False,True,True,False,"""Good luck.""",2,
-40,5,4,Tyson,US0274,False,False,False,False,False,,0,
-40,6,5,Boston Rob,US0055,False,False,False,False,False,,0,
-40,7,6,Parvati,US0197,True,False,True,True,False,"""Good luck, guys.""",2,
-40,8,6,Sandra,US0112,True,False,True,True,True,"""Day 16 got me again.""",3,
-40,9,7,Yul,US0202,True,True,True,True,False,"""Alright, you guys.""",3,
-40,10,8,Wendell,US0536,True,False,True,True,False,"""Keep playing, guys.""",2,
-40,11,9,Adam,US0498,True,False,True,True,False,"""Good luck, guys.""",2,
-40,12,10,Tyson,US0274,True,False,True,True,False,"""See you guy soon.""",2,
-40,13,11,Sophie,US0353,True,True,True,True,False,"""Good luck, guys. Did not see it coming.""",3,
-40,14,12,Kim,US0371,True,True,False,True,False,,2,
-40,15,13,Jeremy,US0433,False,False,False,False,False,,0,
-40,16,13,Nick,US0556,True,True,True,True,False,"""I'll do my best to join you again tomorrow.""",3,
-40,17,14,Denise,US0386,True,True,True,True,False,"""Kick ass.""",3,
-40,18,14,Ben,US0516,False,False,False,False,False,,0,
-40,19,14,Sarah,US0414,True,True,True,True,False,"""It was a pleasure. Tony: I love you. Crush it tomorrow, alright?""",3,
-41,1,1,Abraham,US0591,True,True,True,True,False,"""Enjoy this ride.""",3,
-41,2,1,Sara,US0592,True,True,True,True,True,"""Good bye. Good luck.""",4,
-41,3,2,Voce,US0607,False,False,False,False,False,,0,
-41,4,3,Brad,US0602,False,False,False,False,False,,0,
-41,5,4,JD,US0603,True,True,False,True,False,,2,
-41,6,5,Genie,US0595,True,True,True,True,False,"""Bye guys.""",3,
-41,7,7,Sydney,US0605,False,False,False,False,False,,0,
-41,8,8,Tiffany,US0604,True,True,True,True,True,"""Good luck, guys.""",4,
-41,9,9,Naseer,US0600,True,True,True,True,True,"""Good job, guys.""",4,
-41,10,9,Evvie,US0598,True,True,True,True,False,"""Well played, guys.""",3,
-41,11,10,Shan,US0606,False,False,False,False,False,,0,
-41,12,11,Liana,US0608,True,True,True,True,True,"""Bye y'all. Play hard.""",4,
-41,13,12,Danny,US0599,True,True,True,True,True,"""Apprecite you. Go Cowboys.""",4,
-41,14,13,Ricard,US0596,True,True,False,True,True,,3,
-41,15,13,Heather,US0593,True,True,True,True,True,"""Bye, guys.""",4,
-42,1,1,Zach,US0626,True,True,True,True,True,"""I really did have a blast.""",4,
-42,2,2,Marya,US0618,True,True,True,True,True,"""See you guys. Bring it home.""",4,
-42,3,3,Jenny,US0614,False,False,False,False,False,,0,
-42,4,4,Swati,US0624,False,False,False,False,False,,0,
-42,5,5,Daniel,US0610,True,False,False,True,False,,1,
-42,6,7,Lydia,US0617,True,False,True,True,True,"""Good luck guys.""",3,
-42,7,8,Chanelle,US0609,False,False,False,False,False,,0,
-42,8,9,Rocksroy,US0622,True,True,True,True,False,"""Good luck.""",3,
-42,9,9,Tori,US0625,True,True,True,True,True,"""Have fun, y'all""",4,
-42,10,10,Hai,US0612,True,True,True,True,True,"""Bye guys.""",4,
-42,11,11,Drea,US0611,True,True,True,True,True,"""Love you.""",4,
-42,12,12,Omar,US0621,True,True,True,True,True,"""Love you, guys. See you soon.""",4,
-42,13,13,Lindsay,US0616,True,True,True,True,True,"Good luck, guys. Gonna eat so much food.""",4,
-42,14,13,Jonathan,US0615,True,True,True,True,False,"""Hey, my friends. All love.""",3,
-43,1,1,Morriah,US0639,True,True,True,True,True,"""Bye guys.""",4,
-43,2,2,Justine,US0635,True,True,True,True,True,,4,
-43,3,3,Nneka,US0640,True,False,True,True,True,"""Bye guys.""",3,
-43,4,4,Lindsay,US0637,False,False,False,False,False,,0,
-43,5,5,Geo,US0631,False,False,False,False,False,,0,
-43,6,6,Elie,US0630,False,False,False,False,False,,0,Took a swipe at Gabler before douse
-43,7,7,Dwight,US0629,True,True,True,True,True,"""Thank you""",4,
-43,8,8,Jeanine,US0633,True,True,True,True,False,"""See you guys in the real world.""",3,
-43,9,9,James,US0632,False,False,False,False,False,,0,
-43,10,9,Ryan,US0643,False,False,False,False,False,,0,
-43,11,10,Noelle,US0641,True,True,True,True,True,"""Good luck everyone.""",4,
-43,12,11,Sami,US0644,True,True,True,True,True,"""Lot of fun, peeps.""",4,
-43,13,12,Cody,US0628,True,True,True,True,True," ""A hui hou ... and aloha""",4,
-43,14,13,Karla,US0636,True,False,True,True,True,"""Good luck, y'all. I love y'all.""",3,
-43,15,13,Jesse,US0634,False,True,False,False,False,,1,
-44,1,1,Maddy,US0649,True,True,True,True,True,"""Good luck you guys.""",4,
-44,2,2,Helen,US0660,False,False,False,False,False,,0,
-44,3,3,Claire,US0651,True,False,True,True,False,"""Good luck.""",2,
-44,4,4,Sarah,US0661,False,False,False,False,False,,0,
-44,5,6,Josh,US0655,True,True,True,True,False,"""Bye guys.""",3,
-44,6,7,Matt,US0656,True,True,True,True,False,"""Proud of you, Frannie, for winning today.""",3,
-44,7,8,Brandon,US0645,True,True,True,True,False,"""Well played.""",3,
-44,8,9,Kane,US0647,True,False,True,True,True,"""Enjoy your rice, you bitches.""",3,
-44,9,10,Frannie,US0653,True,True,False,True,True,,3,
-44,10,11,Danny,US0652,True,True,True,True,True,"""You're awesome.""",4,
-44,11,12,Jaime,US0646,True,True,True,True,True,"""Love you guys."" ",4,"""Love you Jeff"""
-44,12,13,Lauren,US0648,True,True,False,True,True,,3,
-44,13,13,Carson,US0659,True,False,True,True,True,"""Good luck, y'all. Y'all are amazing.""",3,
-45,1,1,Hannah,US0669,True,True,True,True,True,"""I love you guys so much.""",4,
-45,2,2,Brandon,US0665,True,False,True,True,True,"""This is cool. It's really cool.""",3,
-45,3,3,Sabiyah,US0677,True,False,True,True,True,"""Who? ... Who?""",3,
-45,4,4,Sean,US0678,False,False,False,False,False,,0,
-45,5,5,Brando,US0664,True,True,True,True,True,"""Hey, one of y'all win it for me. I love you all. Good luck.""",4,Blew a kiss
-45,6,6,J. Maya,US0670,True,True,False,True,True,,3,
-45,7,7,Sifu,US0679,True,True,True,True,False,"""Thank you, everybody. It's been a pleasure.""",3,Bowed 
-45,8,7,Kaleb,US0673,True,True,True,True,True,"""Always a pleasure.""",4,
-45,9,8,Kellie,US0675,True,False,True,True,False,"""Bye.""",2,"Earlier said, ""What the hell guys?"""
-45,10,9,Kendra,US0676,True,False,False,True,False,,1,
-45,11,10,Bruce,US0657,True,True,False,False,False,,1,"""It has been an honor,"" said earlier."
-45,12,11,Emily,US0668,True,True,True,True,True,"""My vote's going to the best player.""",4,
-45,13,12,Drew,US0667,False,False,False,False,False,,0,
-45,14,13,Julie,US0672,True,True,False,True,True,,3,Blew a kiss
-45,15,13,Katurah,US0674,True,False,True,False,True,"""Love you guys. Good luck! Give 'em hell.""",2,
-46,1,1,Jelinsky,US0683,False,False,False,False,False,,0,
-46,2,2,Jess,US0686,True,True,True,True,True,"""Bye""",4,
-46,3,4,Bhanu,US0681,True,True,False,True,False,,2,
-46,4,5,Jem,US0685,False,False,False,False,False,,0,
-46,5,6,Moriah,US0690,True,True,False,True,False,,2,
-46,6,7,Tim,US0696,True,True,True,True,False,"""Love y'all.""",3,
-46,7,7,Soda,US0693,True,True,False,True,False,,2,"Earlier she said, ""I hope you crush it, man"""
-46,8,8,Tevin,US0694,True,True,True,True,False,"""It doesn't rock.""",3,
-46,9,9,Hunter,US0684,False,False,False,False,False,,0,"""Yes they have"" in response to Jeff saying the tribe has spoken"
-46,10,10,Tiffany,US0695,True,True,False,True,False,,2,Blew a kiss
-46,11,11,Venus,US0697,True,False,True,True,True,"""Great game, you guys.""",3,
-46,12,12,Q,US0691,True,True,True,True,False,"""See y'all now""",3,
-46,13,13,Maria,US0689,True,False,True,True,True,"""It's been a pleasure, you guys.""",3,Blew a kiss
-46,14,13,Liz,US0688,False,False,False,False,False,,0,
+season,season_name,vote,episode,castaway,full_name,castaway_id,gender,date_of_birth,personality_type,occupation,acknowledge,ack_look,ack_speak,ack_gesture,ack_smile,ack_speak_quote,ack_score
+1,Survivor: Borneo,1,1,Sonja,Sonja Christopher,US0001,Female,1937-01-28,ENFP,Musician,True,True,True,True,True,"""Go get 'em you guys.""",4
+1,Survivor: Borneo,2,2,B.B.,B.B. Andersen,US0002,Male,1936-01-18,ESTJ,Real Estate Developer,False,False,False,False,False,,0
+1,Survivor: Borneo,3,3,Stacey,Stacey Stillman,US0003,Female,1972-08-11,ENTJ,Attorney,False,False,False,False,False,,0
+1,Survivor: Borneo,4,4,Ramona,Ramona Gray,US0004,Female,1971-01-20,ISTJ,Biochemist/Chemist,False,False,False,False,False,,0
+1,Survivor: Borneo,5,5,Dirk,Dirk Been,US0005,Male,1976-06-15,ISFP,Dairy Farmer,True,True,True,True,True,"""Good luck""",4
+1,Survivor: Borneo,6,6,Joel,Joel Klug,US0006,Male,1972-04-13,ESTJ,Health Club Consultant,True,True,True,True,False,"""Goodbye""",3
+1,Survivor: Borneo,7,7,Gretchen,Gretchen Cordy,US0007,Female,1962-02-07,ESFJ,Teacher,True,True,False,True,True,,3
+1,Survivor: Borneo,8,8,Greg,Greg Buis,US0008,Male,1975-12-31,INTP,Ivy League Graduate,True,True,True,False,False,,2
+1,Survivor: Borneo,9,9,Jenna,Jenna Lewis,US0009,Female,1977-07-16,ENFP,Student,False,False,False,False,False,,0
+1,Survivor: Borneo,10,10,Gervase,Gervase Peterson,US0010,Male,1969-11-02,ESTP,YMCA Basketball Coach;Cigar Lounge Owner,False,False,False,False,False,,0
+1,Survivor: Borneo,11,11,Colleen,Colleen Haskell,US0011,Female,1976-12-06,INFP,Student,True,True,False,True,True,,3
+1,Survivor: Borneo,12,12,Sean,Sean Kenniff,US0012,Male,1969-11-27,INTP,Doctor,True,True,True,False,False,"""See you in a few days."" ",2
+1,Survivor: Borneo,13,13,Sue,Susan Hawk,US0013,Female,1961-08-17,ESTP,Truck Driver,True,True,True,True,True,"""See you guys."" ",4
+1,Survivor: Borneo,14,13,Rudy,Rudy Boesch,US0014,Male,1928-01-20,ISTJ,Retired Navy SEAL,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,1,1,Debb,Debb Eaton,US0017,Female,1955-06-11,ISFP,Corrections Officer,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,2,2,Kel,Kel Gleason,US0018,Male,1968-01-05,ISTJ,Army Intelligence Officer,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,3,3,Maralyn,Maralyn Hershey,US0019,Female,1949-01-24,ESTP,Retired Police Officer,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,4,4,Mitchell,Mitchell Olson,US0020,Male,1977-03-17,ENFP,Singer/Songwriter,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,5,5,Kimmi,Kimmi Kappenberg,US0021,Female,1972-11-11,ENFP,Bartender,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,6,7,Jeff,Jeff Varner,US0023,Male,1966-04-16,ENFP,Internet Projects Manager,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,7,8,Alicia,Alicia Calaway,US0024,Female,1968-05-01,ESTJ,Personal Trainer,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,8,10,Jerri,Jerri Manthey,US0025,Female,1970-09-05,ESFP,Aspiring Actress,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,9,11,Nick,Nick Brown,US0026,Male,1977-04-02,ISTJ,Harvard Law Student,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,10,12,Amber,Amber Mariano,US0027,Female,1978-08-11,ISFP,Administrative Assistant;Director of Marketing and Communications,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,11,13,Rodger,Rodger Bingham,US0028,Male,1947-07-05,ISFJ,Teacher/Farmer,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,12,14,Elisabeth,Elisabeth Filarski,US0029,Female,1977-05-28,INFP,Footwear Designer,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,13,15,Keith,Keith Famie,US0030,Male,1960-02-11,ESTJ,Chef,False,False,False,False,False,,0
+3,Survivor: Africa,1,1,Diane,Diane Ogden,US0033,Female,1959-04-27,ESTP,U.S. Mail Carrier,True,True,True,True,True,"""Good luck""",4
+3,Survivor: Africa,2,2,Jessie,Jessie Camacho,US0034,Female,1974-09-24,ISFP,Deputy Sheriff,False,False,False,False,False,,0
+3,Survivor: Africa,3,3,Carl,Carl Bilancione,US0035,Male,1955-06-20,ESTJ,Dentist,False,False,False,False,False,,0
+3,Survivor: Africa,4,4,Linda,Linda Spencer,US0036,Female,1957-01-01,ESFJ,Career Counselor,True,True,True,True,True,"""Bye guys""",4
+3,Survivor: Africa,5,5,Silas,Silas Gaither,US0037,Male,1978-01-28,ESTJ,Bartender,True,True,True,True,False,,3
+3,Survivor: Africa,6,6,Lindsey,Lindsey Richter,US0038,Female,1974-08-31,ESFP,Advertising Executive,True,True,True,True,True,"""Bye""",4
+3,Survivor: Africa,7,7,Clarence,Clarence Black,US0039,Male,1976-12-21,ISTP,Basketball Coach,False,False,False,False,False,,0
+3,Survivor: Africa,8,9,Kelly,Kelly Goldsmith,US0040,Female,1979-04-27,ENTP,Behavioral Research Analyst,False,False,False,False,False,,0
+3,Survivor: Africa,9,10,Brandon,Brandon Quinton,US0041,Male,1976-01-22,ENFP,Bartender,True,True,True,True,True,"""Bye guys""",4
+3,Survivor: Africa,10,11,Frank,Frank Garrison,US0042,Male,1958-07-22,ISTJ,Telephone Technician,False,False,False,False,False,,0
+3,Survivor: Africa,11,12,Kim P.,Kim Powers,US0043,Female,1971-12-03,INFP,Freelance Marketer,True,True,False,True,True,,3
+3,Survivor: Africa,12,13,Teresa,Teresa Cooper,US0044,Female,1959-05-05,ENFP,Flight Attendant,True,True,False,True,True,,3
+3,Survivor: Africa,13,14,Tom,Tom Buchanan,US0045,Male,1955-10-30,ESTP,Goat Farmer,False,False,False,False,False,,0
+3,Survivor: Africa,14,14,Lex,Lex van den Berghe,US0046,Male,1963-06-18,ENTJ,Marketing Manager,False,False,False,False,False,,0
+4,Survivor: Marquesas,1,1,Peter,Peter Harkey,US0049,Male,1956-01-17,ENFP,Bowling Alley Owner,True,True,True,True,True,"""Go get 'em""",4
+4,Survivor: Marquesas,2,2,Patricia,Patricia Jackson,US0050,Female,1952-04-08,ISFJ,Truck Assembler,False,False,False,False,False,,0
+4,Survivor: Marquesas,3,3,Hunter,Hunter Ellis,US0051,Male,1968-07-05,ESTJ,Former Navy Fighter Pilot,True,True,False,True,False,,2
+4,Survivor: Marquesas,4,4,Sarah,Sarah Jones,US0052,Female,1977-08-11,ISFP,Account Manager,True,True,False,True,True,,3
+4,Survivor: Marquesas,5,5,Gabriel,Gabriel Cade,US0053,Male,1978-07-01,INFP,Bartender,False,False,False,False,False,,0
+4,Survivor: Marquesas,6,6,Gina,Gina Crews,US0054,Female,1973-02-07,ISFJ,Nature Guide,True,True,True,False,True,"""Bye, guys.""",3
+4,Survivor: Marquesas,7,7,Boston Rob,Rob Mariano,US0055,Male,1975-12-25,ESTJ,Construction Worker,True,True,True,True,True,"""Good luck, guys.""",4
+4,Survivor: Marquesas,8,8,John,John Carroll,US0056,Male,1965-06-14,ENTJ,Registered Nurse,True,True,False,True,False,,2
+4,Survivor: Marquesas,9,10,Zoe,Zoe Zanidakis,US0057,Female,1966-03-17,ISTJ,Fishing Boat Captain,True,True,True,True,False,"""Break an arm""",3
+4,Survivor: Marquesas,10,11,Tammy,Tammy Leitner,US0058,Female,1972-07-03,ENFJ,Crime Reporter,False,False,False,False,False,,0
+4,Survivor: Marquesas,11,12,Robert,Robert DeCanio,US0059,Male,1963-06-19,ISTJ,Limousine Driver,False,False,False,False,False,,0
+4,Survivor: Marquesas,12,13,Sean,Sean Rector,US0060,Male,1971-08-20,ENTP,Teacher,True,True,False,True,True,,3
+4,Survivor: Marquesas,13,14,Paschal,Paschal English,US0061,Male,1945-03-05,ISFJ,Judge,True,True,True,True,True,"""Thank all of you.""",4
+4,Survivor: Marquesas,14,14,Kathy,Kathy Vavrick-O'Brien,US0062,Female,1955-01-06,ESFJ,Real Estate Agent,True,True,True,True,True,"""See ya, guys.""",4
+5,Survivor: Thailand,1,1,John,John Raymond,US0065,Male,1962-02-21,ENFP,Pastor,True,True,False,True,True,,3
+5,Survivor: Thailand,2,2,Tanya,Tanya Vance,US0066,Female,1974-11-29,ESTJ,Social Worker,True,True,False,True,True,,3
+5,Survivor: Thailand,3,3,Jed,Jed Hildebrand,US0067,Male,1976-12-05,ISFP,Dental Student,False,False,False,False,False,,0
+5,Survivor: Thailand,4,4,Ghandia,Ghandia Johnson,US0068,Female,1969-01-03,ESFP,Legal Secretary,True,True,True,False,True,"""Stay strong, y'all. See ya.""",3
+5,Survivor: Thailand,5,5,Stephanie,Stephanie Dill,US0069,Female,1972-11-15,ISTJ,Firefighter,True,True,True,False,False,"""Good luck, guys. See you.""",2
+5,Survivor: Thailand,6,6,Robb,Robert Zbacnik,US0070,Male,1978-09-12,ESFP,Bartender,True,True,True,True,True,"""Much love, dude. You guys rule. Good luck. Play hard, dude. For real, you guys are all with me.""",4
+5,Survivor: Thailand,7,7,Shii Ann,Shii Ann Huang,US0071,Female,1974-01-24,INTJ,Executive Recruiter,True,True,True,False,False,"""Good luck, you guys.""",2
+5,Survivor: Thailand,8,8,Erin,Erin Collins,US0072,Female,1976-01-07,ESFP,Real Estate Agent,True,True,True,True,False,"""Good luck. I love you guys. Bye.""",3
+5,Survivor: Thailand,9,9,Ken,Ken Stafford,US0073,Male,1972-06-20,ESTJ,Police Officer,True,True,True,True,False,"""Good luck out there.""",3
+5,Survivor: Thailand,10,10,Penny,Penny Ramsey,US0074,Female,1975-04-24,ESFJ,Pharmaceutical Sales,True,True,True,True,True,"""Bye. Good luck.""",4
+5,Survivor: Thailand,11,12,Jake,Jake Billingsley,US0075,Male,1941-08-21,ISFJ,Land Broker,True,True,True,True,True,"""Thanks, guys. Good luck to all of you."" ",4
+5,Survivor: Thailand,12,13,Ted,Ted Rogers Jr.,US0076,Male,1964-12-28,ESTP,Software Development Manager,True,True,True,True,False,"""Bye, guys. Take care."" ",3
+5,Survivor: Thailand,13,14,Helen,Helen Glover,US0077,Female,1955-04-28,ISTJ,Navy Swim Instructor,False,False,False,False,False,,0
+5,Survivor: Thailand,14,14,Jan,Jan Gentry,US0078,Female,1948-10-31,ENFP,Teacher,True,True,True,True,True,"""I love y'all. Thank you.""",4
+6,Survivor: The Amazon,1,1,Ryan,Ryan Aiken,US0081,Male,1979-02-13,ESFP,Model,False,False,False,False,False,,0
+6,Survivor: The Amazon,2,2,Janet,Janet Koth,US0082,Female,1955-11-18,ISFJ,Homemaker,True,True,True,False,True,"""Good luck, guys""",3
+6,Survivor: The Amazon,3,3,Daniel,Daniel Lue,US0083,Male,1975-11-29,INFP,Tax Accountant,True,True,False,True,False,,2
+6,Survivor: The Amazon,4,4,JoAnna,JoAnna Ward,US0084,Female,1971-04-29,ISTJ,Guidance Counselor,False,False,False,False,False,,0
+6,Survivor: The Amazon,5,5,Jeanne,Jeanne Hebert,US0085,Female,1962-01-06,ISTJ,Marketing Director,False,False,False,False,False,,0
+6,Survivor: The Amazon,6,6,Shawna,Shawna Mitchell,US0086,Female,1979-07-28,ENFP,Retail Saleswoman,True,True,False,True,True,,3
+6,Survivor: The Amazon,7,7,Roger,Roger Sexton,US0087,Male,1946-09-26,ISTJ,Construction Company V.P.,False,False,False,False,False,,0
+6,Survivor: The Amazon,8,8,Dave,Dave Johnson,US0088,Male,1979-01-16,ISTJ,Rocket Scientist,False,False,False,False,False,,0
+6,Survivor: The Amazon,9,9,Deena,Deena Bennett,US0089,Female,1967-02-12,ENTJ,Deputy District Attorney,False,False,False,False,False,,0
+6,Survivor: The Amazon,10,11,Alex,Alex Bell,US0090,Male,1970-05-16,ENFJ,Triathlon Coach,True,True,True,True,True,"""Take it easy, guys.""",4
+6,Survivor: The Amazon,11,12,Christy,Christy Smith,US0091,Female,1978-09-13,INFP,Children's Adventure Guide,False,False,False,False,False,,0
+6,Survivor: The Amazon,12,13,Heidi,Heidi Strobel,US0092,Female,1978-10-29,ENTJ,Gym Teacher,False,False,False,False,False,,0
+6,Survivor: The Amazon,13,14,Butch,Butch Lockley,US0093,Male,1952-08-28,ISFJ,Principal,True,True,True,True,False,"""Good luck""",3
+6,Survivor: The Amazon,14,14,Rob,Rob Cesternino,US0094,Male,1978-10-20,ENTP,Computer Projects Coordinator,True,True,True,True,True,Inaudible,4
+7,Survivor: Pearl Islands,1,1,Nicole,Nicole Delma,US0097,Female,1978-09-19,INTP,Massage Therapist,False,False,False,False,False,,0
+7,Survivor: Pearl Islands,2,2,Ryan S.,Ryan Shoulders,US0098,Male,1980-03-28,INFP,Produce Clerk,False,False,False,False,False,,0
+7,Survivor: Pearl Islands,3,3,Lillian,Lillian Morris,US0099,Female,1952-04-03,INFP,Scout Troop Leader,False,False,False,False,False,,0
+7,Survivor: Pearl Islands,4,4,Burton,Burton Roberts,US0100,Male,1972-04-10,ISTJ,Marketing Executive,False,False,False,False,False,,0
+7,Survivor: Pearl Islands,5,5,Michelle,Michelle Tesauro,US0101,Female,1981-01-16,ENFP,Student,True,True,False,True,True,,3
+7,Survivor: Pearl Islands,6,6,Trish,Trish Dunn,US0102,Female,1960-10-29,ENFJ,Sales Executive,False,False,False,False,False,,0
+7,Survivor: Pearl Islands,7,7,Shawn,Shawn Cohen,US0103,Male,1974-09-20,ESTP,Advertising Sales,False,False,False,False,False,,0
+7,Survivor: Pearl Islands,8,7,Osten,Osten Taylor,US0104,Male,1975-12-10,ESFP,Equity Trade Manager,False,False,False,False,False,,0
+7,Survivor: Pearl Islands,9,8,Andrew,Andrew Savage,US0105,Male,1963-07-29,ESTJ,Attorney,True,True,True,True,False,"""Ryan O, D, T, hang tough.""",3
+7,Survivor: Pearl Islands,10,9,Ryan O.,Ryan Opray,US0106,Male,1972-08-06,ISFJ,Electrician,True,True,True,False,False,"""I'll be back, guys.""",2
+7,Survivor: Pearl Islands,11,10,Rupert,Rupert Boneham,US0107,Male,1964-01-27,ESFJ,Troubled Teens Mentor,False,False,False,False,False,,0
+7,Survivor: Pearl Islands,12,11,Tijuana,Tijuana Bradley,US0108,Female,1976-07-23,ESFP,Pharmaceutical Sales,False,False,False,False,False,,0
+7,Survivor: Pearl Islands,13,12,Christa,Christa Hastie,US0109,Female,1978-11-06,ESFP,Computer Programmer,True,True,False,True,False,,2
+7,Survivor: Pearl Islands,14,13,Burton,Burton Roberts,US0100,Male,1972-04-10,ISTJ,Marketing Executive,False,False,False,False,False,,0
+7,Survivor: Pearl Islands,15,14,Darrah,Darrah Johnson,US0110,Female,1981-05-19,ISTP,Mortician,False,False,False,False,False,,0
+7,Survivor: Pearl Islands,16,14,Jonny Fairplay,Jon Dalton,US0111,Male,1974-03-11,ENTP,Art Consultant,False,False,False,False,False,,0
+8,Survivor: All-Stars,1,1,Tina,Tina Wesson,US0032,Female,1960-12-26,ESFJ,Personal Nurse;Motivational Speaker,False,False,False,False,False,,0
+8,Survivor: All-Stars,2,2,Rudy,Rudy Boesch,US0014,Male,1928-01-20,ISTJ,Retired Navy SEAL,True,True,False,True,False,,2
+8,Survivor: All-Stars,3,4,Rob C.,Rob Cesternino,US0094,Male,1978-10-20,ENTP,Computer Projects Coordinator,True,True,False,True,False,,2
+8,Survivor: All-Stars,4,5,Richard,Richard Hatch,US0016,Male,1961-04-08,ENTP,Corporate Trainer,True,True,True,False,True,,3
+8,Survivor: All-Stars,5,7,Colby,Colby Donaldson,US0031,Male,1974-04-01,ISTP,Auto Customizer,False,False,False,False,False,,0
+8,Survivor: All-Stars,6,8,Ethan,Ethan Zohn,US0048,Male,1973-11-12,ISFP,Professional Soccer Player;Social Entrepreneur/Keynote Speaker,True,True,True,True,False,,3
+8,Survivor: All-Stars,7,10,Jerri,Jerri Manthey,US0025,Female,1970-09-05,ESFP,Aspiring Actress,True,True,False,True,True,,3
+8,Survivor: All-Stars,8,11,Lex,Lex van den Berghe,US0046,Male,1963-06-18,ENTJ,Marketing Manager,False,False,False,False,False,,0
+8,Survivor: All-Stars,9,12,Kathy,Kathy Vavrick-O'Brien,US0062,Female,1955-01-06,ESFJ,Real Estate Agent,True,True,False,True,True,,3
+8,Survivor: All-Stars,10,13,Alicia,Alicia Calaway,US0024,Female,1968-05-01,ESTJ,Personal Trainer,False,False,False,False,False,,0
+8,Survivor: All-Stars,11,14,Shii Ann,Shii Ann Huang,US0071,Female,1974-01-24,INTJ,Executive Recruiter,True,True,True,True,True,"""Good luck, everyone.""",4
+8,Survivor: All-Stars,12,15,Tom,Tom Buchanan,US0045,Male,1955-10-30,ESTP,Goat Farmer,True,True,False,False,False,,1
+8,Survivor: All-Stars,13,16,Rupert,Rupert Boneham,US0107,Male,1964-01-27,ESFJ,Troubled Teens Mentor,False,False,False,False,False,,0
+8,Survivor: All-Stars,14,16,Jenna L.,Jenna Lewis,US0009,Female,1977-07-16,ENFP,Student,True,True,False,True,False,,2
+9,Survivor: Vanuatu,1,1,Brook,Brook Geraghty,US0113,Male,1976-11-20,INTP,Document Manager,False,False,False,False,False,,0
+9,Survivor: Vanuatu,2,2,Dolly,Dolly Neely,US0114,Female,1978-11-18,ISFP,Sheep Farmer,False,False,False,False,False,,0
+9,Survivor: Vanuatu,3,3,John P.,John Palyok,US0115,Male,1973-05-13,ESTP,Sales Manager,True,True,False,True,False,,2
+9,Survivor: Vanuatu,4,3,Mia,Mia Galeotalanza,US0116,Female,1974-08-17,ESFP,Bookkeeper,True,True,True,False,False,"""Kick ass, ladies.""",2
+9,Survivor: Vanuatu,5,4,Brady,Brady Finta,US0117,Male,1970-12-17,ISTJ,FBI Agent,True,True,True,True,False,"""Good luck, fellas.""",3
+9,Survivor: Vanuatu,6,5,Travis,Travis Sampson,US0118,Male,1971-02-19,ISFP,Security Officer,True,True,True,True,True,"""Peace out, y'all.""",4
+9,Survivor: Vanuatu,7,6,Lisa,Lisa Keiffer,US0119,Female,1960-05-03,ESFJ,Real Estate Agent,True,True,True,False,False,"""True to my word.""",2
+9,Survivor: Vanuatu,8,7,John K.,John Kenney,US0120,Male,1981-09-26,ESFP,Mechanical Bull Operator;Model,True,True,True,True,False,"""Take it easy.""",3
+9,Survivor: Vanuatu,9,8,Rory,Rory Freeman,US0121,Male,1968-10-30,INTP,Housing Case Manager,False,False,False,False,False,,0
+9,Survivor: Vanuatu,10,9,Lea,Lea Masters,US0122,Male,1964-03-28,ESFJ,Drill Sergeant,True,True,False,True,False,,2
+9,Survivor: Vanuatu,11,10,Chad,James Crittenden,US0123,Male,1969-08-08,ESTP,Teacher,True,True,False,True,False,,2
+9,Survivor: Vanuatu,12,11,Leann,Leann Slaby,US0124,Female,1969-07-08,INFJ,Equity Research Assistant,True,True,False,False,False,,1
+9,Survivor: Vanuatu,13,12,Ami,Ami Cusack,US0125,Female,1973-01-25,ENTJ,Coffee Barista;Nanny,False,False,False,False,False,,0
+9,Survivor: Vanuatu,14,13,Julie,Julie Berry,US0126,Female,1980-12-15,INFP,Youth Mentor,False,False,False,False,False,,0
+9,Survivor: Vanuatu,15,14,Eliza,Eliza Orlins,US0127,Female,1982-12-25,ENTJ,Pre-Law Student;Law School Student,True,True,False,False,False,,1
+9,Survivor: Vanuatu,16,14,Scout,Scout Cloud Lee,US0128,Female,1944-11-08,INFJ,Rancher,False,False,False,False,False,,0
+10,Survivor: Palau,1,1,Jolanda,Jolanda Jones,US0133,Female,1965-11-06,ESTJ,Lawyer,False,False,False,False,False,,0
+10,Survivor: Palau,2,2,Ashlee,Ashlee Ashby,US0134,Female,1982-05-02,ISFJ,Student,False,False,False,False,False,,0
+10,Survivor: Palau,3,3,Jeff,Jeff Wilson,US0135,Male,1983-02-09,ESFP,Personal Trainer,False,False,False,False,False,,0
+10,Survivor: Palau,4,4,Kim,Kimberly Mullen,US0136,Female,1979-03-13,INTJ,Graduate Student,False,False,False,False,False,,0
+10,Survivor: Palau,5,5,Willard,Willard Smith,US0137,Male,1947-11-30,INTP,Lawyer,True,True,True,True,True,"""Stay strong, stick to the plan, finish them off.""",4
+10,Survivor: Palau,6,5,Angie,Angie Jakusz,US0138,Female,1980-03-27,INFP,Bartender,True,True,True,True,True,"""Steph, rock it for the ladies.""",4
+10,Survivor: Palau,7,6,James,James Miller,US0139,Male,1971-07-08,ESTP,Steelworker,False,False,False,False,False,,0
+10,Survivor: Palau,8,7,Ibrehem,Ibrehem Rahman,US0140,Male,1977-03-04,ISTJ,Waiter,False,False,False,False,False,,0
+10,Survivor: Palau,9,8,Bobby Jon,Bobby Jon Drinkard,US0141,Male,1977-05-10,ISTP,Waiter,False,False,False,False,False,,0
+10,Survivor: Palau,10,9,Coby,Coby Archa,US0142,Male,1972-09-08,ENFP,Hairstylist,True,True,True,False,True,"""That was a great compliment. Thank you.""",3
+10,Survivor: Palau,11,11,Stephenie,Stephenie LaGrossa,US0144,Female,1979-12-06,ESTJ,Pharmaceutical Sales Representative,False,False,False,False,False,,0
+10,Survivor: Palau,12,12,Gregg,Gregg Carey,US0145,Male,1977-01-09,INTP,Business Consultant,False,False,False,False,False,,0
+10,Survivor: Palau,13,13,Caryn,Caryn Groedel,US0146,Female,1958-08-13,ISTJ,Civil Rights Lawyer,False,False,False,False,False,,0
+10,Survivor: Palau,14,14,Jenn,Jennifer Lyon,US0147,Female,1972-02-27,ISFP,Nanny,True,True,True,False,False,"""Good luck, guys.""",2
+10,Survivor: Palau,15,14,Ian,Ian Rosenberger,US0148,Male,1981-08-24,ESFP,Dolphin Trainer,False,False,False,False,False,,0
+11,Survivor: Guatemala,1,1,Jim,Jim Lynch,US0151,Male,1942-01-07,ISTJ,Retired Fire Captain,True,False,False,True,False,,1
+11,Survivor: Guatemala,2,2,Morgan,Morgan McDevitt,US0152,Female,1983-11-24,INFP,Magician's Assistant,False,False,False,False,False,,0
+11,Survivor: Guatemala,3,3,Brianna,Brianna Varela,US0153,Female,1983-10-29,ENFP,Retail Salesperson,True,True,True,False,True,"""You guys are strong. Kick some ... butt."" ",3
+11,Survivor: Guatemala,4,4,Brooke,Brooke Struck,US0154,Female,1979-07-30,ISTJ,Law Student,False,False,False,False,False,,0
+11,Survivor: Guatemala,5,5,Blake,Blake Towsley,US0155,Male,1981-05-05,ESTP,Real Estate Broker,True,True,True,False,False,"""Bye guys""",2
+11,Survivor: Guatemala,6,6,Margaret,Margaret Bobonich,US0156,Female,1962-06-05,ESFJ,Nurse Practitioner,False,False,False,False,False,,0
+11,Survivor: Guatemala,7,6,Brian,Brian Corridan,US0157,Male,1983-02-10,ENTP,Ivy League Student,True,True,True,True,False,"""Good luck guys""",3
+11,Survivor: Guatemala,8,7,Amy,Amy O'Hara,US0158,Female,1965-11-02,ESTP,Police Sergeant,False,False,False,False,False,,0
+11,Survivor: Guatemala,9,8,Brandon,Brandon Bellinger,US0159,Male,1983-01-22,ISTP,Farmer,True,False,True,False,False,"""Good luck guys""",1
+11,Survivor: Guatemala,10,9,Bobby Jon,Bobby Jon Drinkard,US0141,Male,1977-05-10,ISTP,Waiter,True,True,True,True,False,"""Hang in there. Good luck.""",3
+11,Survivor: Guatemala,11,10,Jamie,Jamie Newton,US0160,Male,1981-01-26,ISTP,Water Skiing Instructor,True,True,True,True,True,"""You blindsided! Nice! That's how you vote somebody off!""",4
+11,Survivor: Guatemala,12,11,Gary,Gary Hogeboom,US0161,Male,1958-08-21,INFJ,Ex-NFL Quarterback,False,False,False,False,False,,0
+11,Survivor: Guatemala,13,12,Judd,Judd Sergeant,US0162,Male,1970-09-13,ESTP,Hotel Doorman,True,False,True,False,False,"""Scumbags""",1
+11,Survivor: Guatemala,14,13,Cindy,Cindy Hall,US0163,Female,1974-06-28,ISFP,Zookeeper,False,False,False,False,False,,0
+11,Survivor: Guatemala,15,14,Lydia,Lydia Morales,US0164,Female,1963-01-19,ISFJ,Fishmonger,False,False,False,False,False,,0
+11,Survivor: Guatemala,16,14,Rafe,Rafe Judkins,US0165,Male,1983-01-08,INFP,Wilderness Guide,True,True,True,True,True,"""Good luck tomorrow, guys.""",4
+12,Survivor: Panama,1,1,Tina,Tina Scheer,US0167,Female,1960-11-17,ESTP,Lumberjill,True,True,True,True,True,,4
+12,Survivor: Panama,2,2,Melinda,Melinda Hyder,US0168,Female,1973-05-23,ESFJ,Singer/Entertainer,True,False,True,True,False,,2
+12,Survivor: Panama,3,3,Misty,Misty Giles,US0169,Female,1981-02-25,INTP,Missile Engineer,True,False,True,True,False,,2
+12,Survivor: Panama,4,4,Ruth Marie,Ruth Marie Milliman,US0170,Female,1957-04-11,ISFJ,Real Estate,True,False,True,True,False,,2
+12,Survivor: Panama,5,5,Bobby,Bobby Mason,US0171,Male,1973-08-20,ISTP,Attorney,False,False,False,False,False,,0
+12,Survivor: Panama,6,6,Dan,Dan Barry,US0172,Male,1953-12-30,ISFJ,Astronaut,True,True,False,True,True,,3
+12,Survivor: Panama,7,8,Nick,Nick Stanbury,US0173,Male,1980-07-21,ISFP,Financial Sales,True,True,True,True,True,"""Cirie""",4
+12,Survivor: Panama,8,9,Austin,Austin Carty,US0174,Male,1981-04-29,INFP,Writer,True,True,True,True,True,"""Bye guys""",4
+12,Survivor: Panama,9,10,Sally,Sally Schumann,US0175,Female,1978-12-10,INFP,Social Worker,True,True,True,True,False,"""Thanks""",3
+12,Survivor: Panama,10,12,Courtney,Courtney Marit,US0177,Female,1974-05-24,ENFP,Fire Dancer,True,True,False,False,True,,2
+12,Survivor: Panama,11,13,Shane,Shane Powers,US0178,Male,1970-11-28,ESFP,Marketing Executive,True,True,False,False,False,,1
+12,Survivor: Panama,12,14,Cirie,Cirie Fields,US0179,Female,1970-07-18,ENFJ,Nurse,True,True,False,True,True,,3
+12,Survivor: Panama,13,15,Terry,Terry Deitz,US0180,Male,1959-10-10,ESTJ,Pilot,True,True,True,True,False,"""Thanks for the journey, you guys""",3
+13,Survivor: Cook Islands,1,1,Sekou,Sekou Bunch,US0183,Male,1960-09-09,ESFJ,Jazz Musician,False,False,False,False,False,,0
+13,Survivor: Cook Islands,2,2,Billy,Virgilio Garcia,US0184,Male,1970-04-22,INFJ,Heavy Metal Musician,True,True,False,True,False,,2
+13,Survivor: Cook Islands,3,3,Cecilia,Cecilia Mansilla,US0185,Female,1977-01-13,ISTJ,Risk Consultant,False,False,False,False,False,,0
+13,Survivor: Cook Islands,4,4,J.P.,John Calderon,US0186,Male,1975-09-05,ESFP,Volleyball Pro,True,True,True,True,True,"""That was pretty good.""",4
+13,Survivor: Cook Islands,5,5,Stephannie,Stephannie Favor,US0187,Female,1970-07-12,ISFJ,Nursing Student,True,True,False,True,True,,3
+13,Survivor: Cook Islands,6,6,Cao Boi,Anh-Tuan Bui,US0188,Male,1964-04-10,ENFP,Nail Salon Manager,False,False,False,False,False,,0
+13,Survivor: Cook Islands,7,6,Cristina,Cristina Coria,US0189,Female,1971-04-18,ISFJ,Police Officer,False,False,False,False,False,,0
+13,Survivor: Cook Islands,8,8,Jessica,Jessica Smith,US0190,Female,1979-01-22,ENFP,Roller Girl,True,True,False,True,True,,3
+13,Survivor: Cook Islands,9,9,Brad,Brad Virata,US0191,Male,1976-11-23,INFJ,Fashion Director,True,True,False,True,True,,3
+13,Survivor: Cook Islands,10,10,Rebecca,Rebecca Borman,US0192,Female,1971-08-31,ISFJ,Make-Up Artist,False,False,False,False,False,,0
+13,Survivor: Cook Islands,11,10,Jenny,Jenny Guzon-Bae,US0193,Female,1970-05-08,ISTJ,Real Estate Agent,False,False,False,False,False,,0
+13,Survivor: Cook Islands,12,11,Nate,Nathan Gonzalez,US0194,Male,1980-07-26,ESTP,Shoe Salesman,True,True,True,True,False,"""One love""",3
+13,Survivor: Cook Islands,13,12,Candice,Candice Cody,US0195,Female,1982-11-12,ISTJ,Pre-Med Student;Physician/Anesthesiology Resident,True,True,True,True,True,"""Still smiling, guys. Have fun. Love ya.""",4
+13,Survivor: Cook Islands,14,13,Jonathan,Jonathan Penner,US0196,Male,1962-03-05,ENTP,Writer,True,True,True,True,True,"""I'd like my hat back at some point. 'Night guys.""",4
+13,Survivor: Cook Islands,15,14,Parvati,Parvati Shallow,US0197,Female,1982-09-21,ENFJ,Boxer;Charity Organizer;Yoga Teacher/Life Coach/Speaker,True,True,False,True,True,,3
+13,Survivor: Cook Islands,16,15,Adam,Adam Gentry,US0198,Male,1978-08-21,ESTP,Copier Sales,False,False,False,False,False,,0
+13,Survivor: Cook Islands,17,15,Sundra,Sundra Oakley,US0199,Female,1975-01-02,INFP,Actress,True,True,False,True,True,,3
+14,Survivor: Fiji,1,1,Jessica,Jessica deBen,US0203,Female,1979-04-25,INFJ,Fashion Stylist,False,False,False,False,False,,0
+14,Survivor: Fiji,2,2,Erica,Erica Durousseau,US0204,Female,1979-12-11,ESFP,Non-Profit Fundraiser,False,False,False,False,False,,0
+14,Survivor: Fiji,3,3,Sylvia,Sylvia Kwan,US0205,Female,1954-08-18,ISTJ,Architect,True,True,True,True,True,"""Good luck.""",4
+14,Survivor: Fiji,4,4,Liliana,Liliana Gomez,US0207,Female,1981-04-05,ISTJ,Loan Officer,False,False,False,False,False,,0
+14,Survivor: Fiji,5,5,Rita,Rita Verreos,US0208,Female,1968-07-19,ISFJ,Single Mom,True,True,False,True,True,,3
+14,Survivor: Fiji,6,6,Anthony,Anthony Robinson,US0209,Male,1974-06-25,INFP,Expert Witness Locator,True,True,True,True,False,"""Good luck""",3
+14,Survivor: Fiji,7,7,Rocky,James Reid,US0210,Male,1978-09-11,ESTP,Bartender,True,True,True,False,False,"""Be good, boys, huh?""",2
+14,Survivor: Fiji,8,8,Lisi,Lisette Linares,US0211,Female,1970-06-09,ESFP,Customer Service Representative,False,False,False,False,False,,0
+14,Survivor: Fiji,9,9,Michelle,Michelle Yi,US0212,Female,1983-12-02,ENFP,Student,True,True,False,True,True,,3
+14,Survivor: Fiji,10,10,Edgardo,Edgardo Rivera,US0213,Male,1978-10-05,ESTP,Ad Executive,False,False,False,False,False,,0
+14,Survivor: Fiji,11,11,Mookie,Mookie Lee,US0214,Male,1981-11-10,ESFP,Business Consultant,True,True,True,True,False,"""Good luck""",3
+14,Survivor: Fiji,12,12,Alex,Alex Angarita,US0215,Male,1978-04-20,ENTJ,Attorney,True,True,False,True,False,,2
+14,Survivor: Fiji,13,13,Stacy,Stacy Kimball,US0216,Female,1979-10-01,INTJ,Web Producer,True,True,False,True,True,,3
+14,Survivor: Fiji,14,14,Boo,Kenward Bernis,US0217,Male,1972-06-21,ISTP,Construction Worker,False,False,False,False,False,,0
+14,Survivor: Fiji,15,14,Yau-Man,Yau-Man Chan,US0218,Male,1952-08-26,INTP,Computer Engineer,True,True,True,True,True,"""Good luck""",4
+15,Survivor: China,1,1,Chicken,Steve Morris,US0222,Male,1959-09-02,ISFP,Chicken Farmer,False,False,False,False,False,,0
+15,Survivor: China,2,2,Ashley,Ashley Massaro,US0223,Female,1979-05-26,ESFP,Professional Wrestler,False,False,False,False,False,,0
+15,Survivor: China,3,3,Leslie,Leslie Nease,US0224,Female,1969-03-25,ENFP,Christian Radio Host,True,True,False,True,False,,2
+15,Survivor: China,4,4,Dave,Dave Cruser,US0225,Male,1969-10-26,ESTP,Former Model,False,False,False,False,False,,0
+15,Survivor: China,5,5,Aaron,Aaron Reisberger,US0226,Male,1975-04-25,ISTJ,Surfing Instructor,False,False,False,False,False,,0
+15,Survivor: China,6,6,Sherea,Sherea Lloyd,US0227,Female,1981-07-31,ESFP,Elementary Teacher,False,False,False,False,False,,0
+15,Survivor: China,7,7,Jaime,Jaime Dugan,US0228,Female,1985-06-30,ESFJ,Student,False,False,False,False,False,,0
+15,Survivor: China,8,8,Jean-Robert,Jean-Robert Bellande,US0229,Male,1970-09-17,INTP,Poker Player,False,False,False,False,False,,0
+15,Survivor: China,9,9,Frosti,Michael Zernow,US0230,Male,1987-02-15,ESFP,Student/Athlete,True,True,False,True,False,,2
+15,Survivor: China,10,11,James,James Clement,US0231,Male,1977-03-09,ISTP,Gravedigger,False,False,False,False,False,,0
+15,Survivor: China,11,12,Erik,Erik Huffman,US0232,Male,1981-01-31,ISFP,Musician,False,False,False,False,False,,0
+15,Survivor: China,12,13,Peih-Gee,Peih-Gee Law,US0233,Female,1978-04-07,ENTP,Jeweler,False,False,False,False,False,,0
+15,Survivor: China,13,14,Denise,Denise Martin,US0234,Female,1967-05-05,ISFP,School Lunch Lady,True,True,False,True,True,,3
+16,Survivor: Micronesia,1,1,Jonny Fairplay,Jon Dalton,US0111,Male,1974-03-11,ENTP,Art Consultant,True,True,True,True,True,"""Bye guys.""",4
+16,Survivor: Micronesia,2,2,Mary,Mary Sartain,US0238,Female,1978-11-11,ISFJ,Real Estate Manager,True,True,True,True,False,"""Bye guys. Win this.""",3
+16,Survivor: Micronesia,3,3,Yau-Man,Yau-Man Chan,US0218,Male,1952-08-26,INTP,Computer Engineer,True,True,True,True,True,"""Good luck guys! Have fun.""",4
+16,Survivor: Micronesia,4,4,Mikey B,Michael Bortone,US0239,Male,1973-12-29,ENTP,Aspiring Writer,False,False,False,False,False,,0
+16,Survivor: Micronesia,5,5,Joel,Joel Anderson,US0240,Male,1975-06-01,ESTJ,Firefighter,True,True,True,True,True,,4
+16,Survivor: Micronesia,6,6,Chet,Chet Welch,US0241,Male,1959-10-22,INFP,Pageant Coach,True,True,True,True,True,"""Love you guys.""",4
+16,Survivor: Micronesia,7,7,Tracy,Tracy Hughes-Wolf,US0243,Female,1964-07-09,ENFJ,Residential Builder,False,False,False,False,False,,0
+16,Survivor: Micronesia,8,8,Ami,Ami Cusack,US0125,Female,1973-01-25,ENTJ,Coffee Barista;Nanny,True,True,True,True,True,"""Good luck guys!""",4
+16,Survivor: Micronesia,9,9,Eliza,Eliza Orlins,US0127,Female,1982-12-25,ENTJ,Pre-Law Student;Law School Student,True,True,True,True,True,"""Bye guys.""",4
+16,Survivor: Micronesia,10,10,Ozzy,Oscar Lusth,US0201,Male,1981-08-23,ISFP,Waiter;Photographer,True,True,False,False,False,,1
+16,Survivor: Micronesia,11,11,Jason,Jason Siska,US0244,Male,1985-03-04,ESFP,Gymnastics Coach,True,True,True,True,True,,4
+16,Survivor: Micronesia,12,12,Alexis,Alexis Jones,US0245,Female,1983-07-06,ENFJ,Motivational Speaker,True,True,False,True,True,,3
+16,Survivor: Micronesia,13,13,Erik,Erik Reichenbach,US0246,Male,1985-11-27,INTP,Ice Cream Scooper;Comic Book Artist,True,True,False,True,True,,3
+16,Survivor: Micronesia,14,14,Natalie,Natalie Bolton,US0247,Female,1975-12-31,INTJ,Personal Trainer,True,True,False,True,True,,3
+16,Survivor: Micronesia,15,14,Cirie,Cirie Fields,US0179,Female,1970-07-18,ENFJ,Nurse,True,True,False,True,True,,3
+17,Survivor: Gabon,1,1,Michelle,Michelle Chase,US0248,Female,1984-03-07,INTP,Music Producer,False,False,False,False,False,,0
+17,Survivor: Gabon,2,1,Gillian,Gillian Larson,US0249,Female,1947-02-24,ENFP,Retired Nurse,True,True,True,True,True,"""Bye guys. Good luck.""",4
+17,Survivor: Gabon,3,2,Paloma,Paloma Soto-Castillo,US0250,Female,1984-08-24,ENFP,Student,False,False,False,False,False,,0
+17,Survivor: Gabon,4,3,Jacquie,Jacquie Berg,US0251,Female,1982-09-10,ENFJ,Medical Sales,False,False,False,False,False,,0
+17,Survivor: Gabon,5,4,GC,Danny Brown,US0252,Male,1982-07-13,INFP,Maintenance Man,True,True,False,True,False,,2
+17,Survivor: Gabon,6,5,Kelly,Kelly Czarnecki,US0253,Female,1986-04-04,INFP,Retail Sales,False,False,False,False,False,,0
+17,Survivor: Gabon,7,6,Ace,Ace Gordon,US0254,Male,1980-09-03,INTJ,Jewelry Sales and Photographer,True,True,True,True,False,"""Good luck, guys.""",3
+17,Survivor: Gabon,8,6,Dan,Dan Kay,US0255,Male,1976-06-30,ISFP,Lawyer,False,False,False,False,False,,0
+17,Survivor: Gabon,9,7,Marcus,Marcus Lehman,US0256,Male,1979-10-03,ENTJ,Doctor,False,False,False,False,False,,0
+17,Survivor: Gabon,10,8,Charlie,Charlie Herschel,US0257,Male,1979-05-12,ENFP,Lawyer,True,True,True,False,True,"""Have fun.""",3
+17,Survivor: Gabon,11,9,Randy,Randy Bailey,US0258,Male,1959-03-31,INTJ,Wedding Videographer,False,False,False,False,False,,0
+17,Survivor: Gabon,12,11,Corinne,Corinne Kaplan,US0259,Female,1979-01-17,ENTJ,Pharmaceutical Sales;Clinical Consultant,False,False,False,False,False,,0
+17,Survivor: Gabon,13,12,Crystal,Crystal Cox,US0260,Female,1979-03-28,ESFP,Former Olympic Athlete,True,True,False,True,True,,3
+17,Survivor: Gabon,14,13,Ken,Ken Hoang,US0261,Male,1985-10-10,INTP,Professional Gamer,True,True,True,True,False,"""Goodbye""",3
+17,Survivor: Gabon,15,13,Matty,Matty Whitmore,US0262,Male,1978-12-18,ESFP,Personal Trainer,False,False,False,False,False,,0
+18,Survivor: Tocantins,1,1,Carolina,Carolina Eastwood,US0266,Female,1981-10-27,ESTJ,Bartender,False,False,False,False,False,,0
+18,Survivor: Tocantins,2,2,Candace,Candace Smith,US0267,Female,1977-02-01,ISTJ,Attorney,False,False,False,False,False,,0
+18,Survivor: Tocantins,3,3,Jerry,Jerry Sims,US0268,Male,1959-05-18,ISTJ,Sgt - U.S. Army,True,True,False,True,True,,3
+18,Survivor: Tocantins,4,4,Sandy,Sandy Burgin,US0269,Female,1955-07-01,ESFP,Bus Driver,False,False,False,False,False,,0
+18,Survivor: Tocantins,5,5,Spencer,Spencer Duhm,US0270,Male,1989-12-20,INFP,Student,True,True,True,True,True,"""Bye guys""",4
+18,Survivor: Tocantins,6,7,Sydney,Sydney Wheeler,US0271,Female,1984-05-11,ISFP,Model,False,False,False,False,False,,0
+18,Survivor: Tocantins,7,9,Brendan,Brendan Synnott,US0273,Male,1978-09-28,ENTP,Entrepreneur,True,True,True,True,False,"""Good luck, you guys.""",3
+18,Survivor: Tocantins,8,10,Tyson,Tyson Apostol,US0274,Male,1979-06-17,ESTP,Former Professional Cyclist/Missionary;Shop Manager,True,True,False,True,True,,3
+18,Survivor: Tocantins,9,11,Sierra,Sierra Reed,US0275,Female,1985-09-29,INFP,Model,False,False,False,False,False,,0
+18,Survivor: Tocantins,10,12,Debbie,Debra Beebe,US0276,Female,1962-09-28,ESFJ,Middle School Principal,True,True,False,True,False,,2
+18,Survivor: Tocantins,11,13,Coach,Benjamin Wade,US0277,Male,1971-09-18,ENFJ,Soccer Coach/Musician,True,True,False,True,True,,3
+18,Survivor: Tocantins,12,14,Taj,Tamara Johnson-George,US0278,Female,1971-04-29,ENFJ,Former Pop Star,False,False,False,False,False,,0
+18,Survivor: Tocantins,13,14,Erinn,Erinn Lobdell,US0279,Female,1982-10-21,ENFP,Hairstylist,False,False,False,False,False,,0
+19,Survivor: Samoa,1,1,Marisa,Marisa Calihan,US0282,Female,1983-07-26,INFP,Student,False,False,False,False,False,,0
+19,Survivor: Samoa,2,2,Betsy,Betsy Bolan,US0284,Female,1961-03-20,ESTJ,Police Officer,False,False,False,False,False,,0
+19,Survivor: Samoa,3,3,Ben,Ben Browning,US0285,Male,1980-08-28,ESTP,Bar Manager,False,False,False,False,False,,0
+19,Survivor: Samoa,4,4,Yasmin,Yasmin Giles,US0286,Female,1975-08-29,ESFP,Hairstylist,False,False,False,False,False,,0
+19,Survivor: Samoa,5,5,Ashley,Ashley Trainer,US0287,Female,1987-02-27,ENFP,Spa Sales,True,True,True,False,False,"""Kick some butt you guys.""",2
+19,Survivor: Samoa,6,7,Liz,Elizabeth Kim,US0289,Female,1975-11-24,INTP,Urban Planner,False,False,False,False,False,,0
+19,Survivor: Samoa,7,8,Erik,Erik Cardona,US0290,Male,1981-04-13,ENTP,Bartender,True,False,False,True,False,,1
+19,Survivor: Samoa,8,9,Kelly,Kelly Sharbaugh,US0291,Female,1983-12-26,ISFP,Hairstylist,False,False,False,False,False,,0
+19,Survivor: Samoa,9,10,Laura,Laura Morett,US0292,Female,1969-07-30,ENFJ,Office Manager;Fitness Instructor,False,False,False,False,False,,0
+19,Survivor: Samoa,10,12,John,John Fincher,US0293,Male,1983-08-16,INTP,Rocket Scientist,True,True,True,True,False,"""Pleasure, boys.""",3
+19,Survivor: Samoa,11,13,Dave,Dave Ball,US0294,Male,1970-08-13,INTP,Fitness Instructor,True,True,True,False,False,"""Good game you guys.""",2
+19,Survivor: Samoa,12,13,Monica,Monica Padilla,US0295,Female,1984-07-14,ENFP,Law Student,True,True,False,True,False,,2
+19,Survivor: Samoa,13,14,Shambo,Shannon Waters,US0296,Female,1964-04-25,ESFP,Sales,True,True,True,False,True,"""Good luck you guys.""",3
+19,Survivor: Samoa,14,15,Jaison,Jaison Robinson,US0297,Male,1980-09-25,INTJ,Law Student,False,False,False,False,False,,0
+19,Survivor: Samoa,15,15,Brett,Brett Clouser,US0298,Male,1985-12-27,ISFP,T-Shirt Designer,True,True,True,False,True,"""Good game guys!""",3
+20,Survivor: Heroes vs. Villains,1,1,Sugar,Jessica Kiper,US0263,Female,1979-02-22,ENFP,Pin-Up Model,True,True,True,True,True,"""Bye""",4
+20,Survivor: Heroes vs. Villains,2,2,Stephenie,Stephenie LaGrossa,US0144,Female,1979-12-06,ESTJ,Pharmaceutical Sales Representative,True,True,True,False,False,"""Some advice, next time y'all lose a challenge, a\nlittle less cursing off your tribe might help.... It's been a pleasure.""",2
+20,Survivor: Heroes vs. Villains,3,3,Randy,Randy Bailey,US0258,Male,1959-03-31,INTJ,Wedding Videographer,False,False,False,False,False,,0
+20,Survivor: Heroes vs. Villains,4,4,Cirie,Cirie Fields,US0179,Female,1970-07-18,ENFJ,Nurse,True,True,False,True,False,,2
+20,Survivor: Heroes vs. Villains,5,5,Tom,Tom Westman,US0150,Male,1964-01-04,ESTJ,Firefighter;Motivational Speaker,False,False,False,False,False,,0
+20,Survivor: Heroes vs. Villains,6,6,Tyson,Tyson Apostol,US0274,Male,1979-06-17,ESTP,Former Professional Cyclist/Missionary;Shop Manager,False,False,False,False,False,,0
+20,Survivor: Heroes vs. Villains,7,6,James,James Clement,US0231,Male,1977-03-09,ISTP,Gravedigger,True,False,True,False,False,"""Oh, I'm gonna be good and drunk in the next five minutes.""",1
+20,Survivor: Heroes vs. Villains,8,7,Boston Rob,Rob Mariano,US0055,Male,1975-12-25,ESTJ,Construction Worker,False,False,False,False,False,,0
+20,Survivor: Heroes vs. Villains,9,8,Coach,Benjamin Wade,US0277,Male,1971-09-18,ENFJ,Soccer Coach/Musician,True,True,False,True,False,,2
+20,Survivor: Heroes vs. Villains,10,9,Courtney,Courtney Yates,US0236,Female,1981-03-26,ENTP,Waitress,True,True,True,True,True,"""Good luck, bitches. See you later.""",4
+20,Survivor: Heroes vs. Villains,11,10,J.T.,James Thomas Jr.,US0281,Male,1984-06-23,ESTP,Cattle Rancher,True,True,True,True,True,"""Good luck, guys.""",4
+20,Survivor: Heroes vs. Villains,12,11,Amanda,Amanda Kimmel,US0235,Female,1984-08-03,ISFP,Hiking Guide;Aspiring Designer,False,False,False,False,False,,0
+20,Survivor: Heroes vs. Villains,13,12,Candice,Candice Cody,US0195,Female,1982-11-12,ISTJ,Pre-Med Student;Physician/Anesthesiology Resident,True,True,True,True,True,"""Good luck, you guys.""",4
+20,Survivor: Heroes vs. Villains,14,12,Danielle,Danielle DiLorenzo,US0181,Female,1981-06-03,ESFP,Medical Sales Rep.,True,True,True,True,False,"""Bye""",3
+20,Survivor: Heroes vs. Villains,15,13,Rupert,Rupert Boneham,US0107,Male,1964-01-27,ESFJ,Troubled Teens Mentor,True,True,False,False,False,,1
+20,Survivor: Heroes vs. Villains,16,14,Colby,Colby Donaldson,US0031,Male,1974-04-01,ISTP,Auto Customizer,False,False,False,False,False,,0
+20,Survivor: Heroes vs. Villains,17,14,Jerri,Jerri Manthey,US0025,Female,1970-09-05,ESFP,Aspiring Actress,True,True,True,True,True,"""Bye you guys.""",4
+21,Survivor: Nicaragua,1,1,Wendy,Wendy-Jo DeSmidt-Kohlhoff,US0302,Female,1961-12-13,ISFP,Goat Rancher,False,False,False,False,False,,0
+21,Survivor: Nicaragua,2,2,Shannon,Shannon Elkins,US0303,Male,1979-12-04,ESTJ,Pest Control Company Owner,False,False,False,False,False,,0
+21,Survivor: Nicaragua,3,3,Jimmy J.,Jimmy Johnson,US0304,Male,1943-07-16,ESFJ,Former NFL Coach,True,True,True,True,False,"""Win a million bucks, OK?""",3
+21,Survivor: Nicaragua,4,4,Jimmy T.,James Tarantino,US0305,Male,1962-09-07,ESTP,Commercial Fisherman,False,False,False,False,False,,0
+21,Survivor: Nicaragua,5,5,Tyrone,Tyrone Davis,US0306,Male,1967-09-24,ESTJ,Fire Captain,True,True,True,True,True,"""Good luck, guys.""",4
+21,Survivor: Nicaragua,6,6,Kelly B.,Kelly Bruno,US0307,Female,1984-03-23,ISFP,Medical Student,False,False,False,False,False,,0
+21,Survivor: Nicaragua,7,6,Yve,Yve Rojas,US0308,Female,1969-03-09,ISFJ,Homemaker,False,False,False,False,False,,0
+21,Survivor: Nicaragua,8,7,Jill,Jill Behm,US0309,Female,1967-01-18,ISTJ,ER Doctor,False,False,False,False,False,,0
+21,Survivor: Nicaragua,9,8,Alina,Alina Wilson,US0310,Female,1987-02-20,INFP,Art Student,True,True,True,False,True,"""Good luck, guys.""",3
+21,Survivor: Nicaragua,10,9,Marty,Marty Piombo,US0311,Male,1961-11-11,ENTJ,Technology Executive,True,True,True,True,False,"""Good luck, guys.""",3
+21,Survivor: Nicaragua,11,10,Brenda,Brenda Lowe,US0312,Female,1982-11-03,INTJ,Paddleboard Company Owner,True,True,False,True,True,,3
+21,Survivor: Nicaragua,12,13,Benry,Ben Henry,US0315,Male,1986-06-25,ESTP,Club Promoter,True,True,True,True,False,"""Good luck, guys.""",3
+21,Survivor: Nicaragua,13,14,Jane,Jane Bright,US0316,Female,1953-12-13,ISTP,Dog Trainer,True,False,True,False,False,"""Yall have fun""",1
+21,Survivor: Nicaragua,14,15,Dan,Dan Lembo,US0317,Male,1946-11-05,ISTP,Real Estate Executive,False,False,False,False,False,,0
+21,Survivor: Nicaragua,15,15,Holly,Holly Hoffman,US0318,Female,1966-03-15,ENFJ,Swim Coach,False,False,False,False,False,,0
+22,Survivor: Redemption Island,1,1,Francesca,Francesca Hogi,US0322,Female,1973-11-03,INFJ,Attorney,True,False,True,False,False,"""Don't trust Phillip.""",1
+22,Survivor: Redemption Island,2,2,Matt,Matt Elrod,US0323,Male,1988-10-02,INFP,Pre-Med Student,True,True,True,False,False,"""Have fun.""",2
+22,Survivor: Redemption Island,3,3,Russell,Russell Hantz,US0300,Male,1972-10-10,ESTJ,Oil Company Owner,False,False,False,False,False,,0
+22,Survivor: Redemption Island,4,4,Kristina,Kristina Kell,US0324,Female,1964-12-26,INTP,Law Student,False,False,False,False,False,,0
+22,Survivor: Redemption Island,5,5,Krista,Krista Klumpp,US0325,Female,1985-07-27,ISFP,Pharmaceutical Representative,False,False,False,False,False,,0
+22,Survivor: Redemption Island,6,6,Stephanie,Stephanie Valencia,US0326,Female,1985-02-03,ESFP,Waitress,False,False,False,False,False,,0
+22,Survivor: Redemption Island,7,7,Sarita,Sarita White,US0327,Female,1974-10-02,INTP,Visual Effects Producer,True,True,True,True,True,"""Bye, guys.""",4
+22,Survivor: Redemption Island,8,8,Matt,Matt Elrod,US0323,Male,1988-10-02,INFP,Pre-Med Student,False,False,False,False,False,,0
+22,Survivor: Redemption Island,9,9,Mike,Mike Chiesl,US0328,Male,1979-09-15,ISFJ,Iraq War Veteran,False,False,False,False,False,,0
+22,Survivor: Redemption Island,10,9,David,David Murphy,US0329,Male,1979-07-16,INTJ,Defense Attorney,False,False,False,False,False,,0
+22,Survivor: Redemption Island,11,10,Julie,Julie Wolfe,US0330,Female,1960-05-11,ISTJ,Firefighter,False,False,False,False,False,,0
+22,Survivor: Redemption Island,12,11,Ralph,Ralph Kiser,US0331,Male,1965-10-27,ESTP,Farmer,False,False,False,False,False,,0
+22,Survivor: Redemption Island,13,11,Steve,Steve Wright,US0332,Male,1959-04-08,ISFJ,Ex-NFL Player,False,False,False,False,False,,0
+22,Survivor: Redemption Island,14,12,Andrea,Andrea Boehlke,US0333,Female,1989-05-10,ENFP,Student;Entertainment Host/Writer,False,False,False,False,False,,0
+22,Survivor: Redemption Island,15,13,Grant,Grant Mattos,US0334,Male,1981-03-12,ISFP,Ex-NFL Player,True,False,True,False,False,"""See you guys shortly.""",1
+22,Survivor: Redemption Island,16,14,Andrea,Andrea Boehlke,US0333,Female,1989-05-10,ENFP,Student;Entertainment Host/Writer,False,False,False,False,False,,0
+22,Survivor: Redemption Island,17,14,Ashley,Ashley Underwood,US0335,Female,1985-02-08,ESTP,Nurse,True,True,False,True,True,,3
+23,Survivor: South Pacific,1,1,Semhar,Semhar Tadesse,US0338,Female,1986-09-12,ENFP,Spoken Word Artist,False,False,False,False,False,,0
+23,Survivor: South Pacific,2,2,Christine,Christine Shields Markoski,US0339,Female,1971-06-17,ESTP,Teacher,False,False,False,False,False,,0
+23,Survivor: South Pacific,3,3,Papa Bear,Mark Caruso,US0340,Male,1963-07-07,ESFJ,Retired NYPD Detective,True,True,True,False,True,"""Goodbye, everybody""",3
+23,Survivor: South Pacific,4,4,Stacey,Stacey Powell,US0341,Female,1967-11-21,ISTJ,Mortician,False,False,False,False,False,,0
+23,Survivor: South Pacific,5,5,Elyse,Elyse Umemoto,US0342,Female,1984-05-10,ENFP,Dance Team Manager,False,False,False,False,False,,0
+23,Survivor: South Pacific,6,6,Mikayla,Mikayla Wingle,US0343,Female,1989-05-31,ISFP,Lingerie Football Player,False,False,False,False,False,,0
+23,Survivor: South Pacific,7,7,Ozzy,Oscar Lusth,US0201,Male,1981-08-23,ISFP,Waiter;Photographer,True,True,False,True,True,"""Bye. Be right back.""",3
+23,Survivor: South Pacific,8,8,Keith,Keith Tollefson,US0344,Male,1985-10-01,ISFP,Water Treatment Tech,False,False,False,False,False,,0
+23,Survivor: South Pacific,9,9,Ozzy,Oscar Lusth,US0201,Male,1981-08-23,ISFP,Waiter;Photographer,True,True,True,False,True,"""You better believe it."" ",3
+23,Survivor: South Pacific,10,9,Jim,Jim Rice,US0345,Male,1975-09-14,ENTP,Medical Marijuana Dispenser,False,False,False,False,False,,0
+23,Survivor: South Pacific,11,10,Dawn,Dawn Meehan,US0346,Female,1970-06-29,ESFJ,English Professor,False,False,False,False,False,,0
+23,Survivor: South Pacific,12,10,Whitney,Whitney Duncan,US0347,Female,1984-08-03,ESFP,Country Music Singer,False,False,False,False,False,,0
+23,Survivor: South Pacific,13,12,Cochran,John Cochran,US0348,Male,1987-01-17,INTP,Harvard Law Student,True,True,False,True,True,,3
+23,Survivor: South Pacific,14,13,Edna,Edna Ma,US0349,Female,1975-08-22,ISTJ,Anesthesiologist,False,False,False,False,False,,0
+23,Survivor: South Pacific,15,14,Brandon,Brandon Hantz,US0350,Male,1991-10-15,ESFP,Oil Tanker Crewman;Chemical Disposal,False,False,False,False,False,,0
+23,Survivor: South Pacific,16,15,Rick,Rick Nelson,US0351,Male,1959-10-24,ISFJ,Rancher,False,False,False,False,False,,0
+23,Survivor: South Pacific,17,15,Ozzy,Oscar Lusth,US0201,Male,1981-08-23,ISFP,Waiter;Photographer,True,False,True,False,True,"""It was great. Thanks a lot for the chance.""",2
+24,Survivor: One World,1,2,Nina,Nina Acosta,US0355,Female,1960-04-03,ISTJ,Retired LAPD Officer,False,False,False,False,False,,0
+24,Survivor: One World,2,3,Matt,Matt Quinlan,US0356,Male,1978-04-05,ENTJ,Attorney,False,False,False,False,False,,0
+24,Survivor: One World,3,4,Bill,Bill Posley,US0357,Male,1983-09-28,ENFP,Stand-Up Comedian,False,False,False,False,False,,0
+24,Survivor: One World,4,5,Monica,Monica Culpepper,US0358,Female,1970-06-15,ESFJ,Ex-NFL Player's Wife;Homemaker,False,False,False,False,False,,0
+24,Survivor: One World,5,7,Jonas,Jonas Otsuji,US0360,Male,1974-03-25,ENTP,Sushi Chef,True,True,True,True,True,"""Hey, good luck with that food situation.""",4
+24,Survivor: One World,6,8,Michael,Michael Jefferson,US0361,Male,1981-08-29,ISTJ,Banker,False,False,False,False,False,,0
+24,Survivor: One World,7,9,Jay,Jay Byars,US0362,Male,1986-11-05,ISFP,Model,False,False,False,False,False,,0
+24,Survivor: One World,8,10,Leif,Leif Manson,US0363,Male,1984-02-01,ISFP,Phlebotomist,True,True,True,False,False,"""Bye, guys.""",2
+24,Survivor: One World,9,11,Troyzan,Troy Robertson,US0364,Male,1961-07-30,ESFP,Swimsuit Photographer,True,True,False,False,True,,2
+24,Survivor: One World,10,12,Kat,Kat Edorsson,US0365,Female,1989-06-22,ENFP,Timeshare Representative;Full Time Student/Sales,False,False,False,False,False,,0
+24,Survivor: One World,11,13,Tarzan,Greg Smith,US0366,Male,1947-12-12,INTP,Plastic Surgeon,True,True,True,True,False,"""I want to thank you ladies and you gentlemen for the adventure and for allowing me to see my wife. Adios.""",3
+24,Survivor: One World,12,14,Alicia,Alicia Rosa,US0367,Female,1987-01-11,ESTJ,Special Education Teacher,False,False,False,False,False,,0
+24,Survivor: One World,13,14,Christina,Christina Cha,US0368,Female,1982-09-26,INFP,Career Consultant,False,False,False,False,False,,0
+25,Survivor: Philippines,1,1,Zane,Zane Knight,US0372,Male,1984-02-20,ENTP,Tire Repair,False,False,False,False,False,,0
+25,Survivor: Philippines,2,2,Roxy,Roxanne Morris,US0373,Female,1984-06-03,ESFP,Seminary Student,False,False,False,False,False,,0
+25,Survivor: Philippines,3,3,Angie,Angie Layton,US0374,Female,1991-10-08,INFP,Student,True,True,True,True,True,"""Good luck, guys. Kick some ass.""",4
+25,Survivor: Philippines,4,4,Russell,Russell Swan,US0288,Male,1967-02-17,ESFJ,Attorney,False,False,False,False,False,,0
+25,Survivor: Philippines,5,5,Dawson,Sarah Dawson,US0376,Female,1983-11-15,ENFP,Insurance Sales,True,True,False,True,False,,2
+25,Survivor: Philippines,6,6,Katie,Katie Hanson,US0377,Female,1989-11-29,ENTP,Former Miss Delaware,False,False,False,False,False,,0
+25,Survivor: Philippines,7,7,RC,Roberta Saint-Amour,US0378,Female,1985-05-10,ENTJ,Investment Banker,True,True,False,True,False,,2
+25,Survivor: Philippines,8,8,Jeff,Jeff Kent,US0379,Male,1968-03-07,ISTP,Retired MLB Player,False,False,False,False,False,,0
+25,Survivor: Philippines,9,9,Artis,Artis Silvester,US0380,Male,1959-04-18,ISTJ,Computer Engineer,False,False,False,False,False,,0
+25,Survivor: Philippines,10,10,Pete,Peter Yurkowski,US0381,Male,1988-03-03,INTP,Engineering Graduate,True,True,False,True,False,,2
+25,Survivor: Philippines,11,11,Jonathan,Jonathan Penner,US0196,Male,1962-03-05,ENTP,Writer,True,True,True,True,False,"""Guys... Keep your sunny side up.""",3
+25,Survivor: Philippines,12,12,Carter,Carter Williams,US0382,Male,1987-05-26,ISFP,Track Coach,False,False,False,False,False,,0
+25,Survivor: Philippines,13,13,Abi-Maria,Abi-Maria Gomes,US0383,Female,1979-10-21,ESFP,Business Student,False,False,False,False,False,,0
+25,Survivor: Philippines,14,14,Malcolm,Malcolm Freberg,US0384,Male,1987-05-07,ENTP,Bartender,False,False,False,False,False,,0
+26,Survivor: Caramoan,1,1,Francesca,Francesca Hogi,US0322,Female,1973-11-03,INFJ,Attorney,False,False,False,False,False,,0
+26,Survivor: Caramoan,2,2,Allie,Alexandra Pohevitz,US0387,Female,1987-12-24,ESTP,Bartender,True,True,True,False,False,"""Good luck, you guys.""",2
+26,Survivor: Caramoan,3,3,Hope,Hope Driskill,US0388,Female,1989-07-06,ISFP,Pre-Law Student,False,False,False,False,False,,0
+26,Survivor: Caramoan,4,4,Laura,Laura Alexander,US0390,Female,1989-09-12,ENTP,Administrative Officer,True,True,True,False,False,"""Good luck, guys.""",2
+26,Survivor: Caramoan,5,5,Brandon,Brandon Hantz,US0350,Male,1991-10-15,ESFP,Oil Tanker Crewman;Chemical Disposal,True,True,True,False,False,"""Kick their asses... Phillip, you're a bitch""",2
+26,Survivor: Caramoan,6,6,Matt,Matt Bischoff,US0391,Male,1974-04-04,INFP,BMX Bike Sales,True,True,True,True,True,"""Seeya, guys.""",4
+26,Survivor: Caramoan,7,7,Julia,Julia Landauer,US0392,Female,1991-11-12,ISTJ,Racecar Driver,True,True,True,True,True,"""It's been fun. Good luck."" ",4
+26,Survivor: Caramoan,8,8,Corinne,Corinne Kaplan,US0259,Female,1979-01-17,ENTJ,Pharmaceutical Sales;Clinical Consultant,False,False,False,False,False,,0
+26,Survivor: Caramoan,9,9,Michael,Michael Snow,US0393,Male,1968-08-30,INFJ,Event Planner,True,True,True,True,False,"""You turkeys.""",3
+26,Survivor: Caramoan,10,10,Phillip,Phillip Sheppard,US0337,Male,1958-03-12,ESTJ,Former Federal Agent;Software Sales,False,False,False,False,False,,0
+26,Survivor: Caramoan,11,11,Malcolm,Malcolm Freberg,US0384,Male,1987-05-07,ENTP,Bartender,True,True,True,True,True,"""Best of luck, guys.""",4
+26,Survivor: Caramoan,12,12,Reynold,Reynold Toepfer,US0394,Male,1982-10-06,ESTP,Real Estate Sales,True,True,True,False,True,"""Been a blast you guys, I can't wait to see wat happens.""",3
+26,Survivor: Caramoan,13,12,Andrea,Andrea Boehlke,US0333,Female,1989-05-10,ENFP,Student;Entertainment Host/Writer,False,False,False,False,False,,0
+26,Survivor: Caramoan,14,13,Brenda,Brenda Lowe,US0312,Female,1982-11-03,INTJ,Paddleboard Company Owner,True,True,True,True,True,"""It hurts.""",4
+26,Survivor: Caramoan,15,14,Eddie,Edward Fox,US0395,Male,1989-04-15,ESFP,Fireman/EMT,True,True,True,True,True,"""What a game, guys.""",4
+27,Survivor: Blood vs. Water,1,1,Laura B.,Laura Boneham,US0397,Female,1968-08-29,,Merchandiser,False,False,False,False,False,,0
+27,Survivor: Blood vs. Water,2,1,Candice,Candice Cody,US0195,Female,1982-11-12,ISTJ,Pre-Med Student;Physician/Anesthesiology Resident,False,False,False,False,False,,0
+27,Survivor: Blood vs. Water,3,1,Marissa,Marissa Peterson,US0398,Female,1991-09-25,ESTJ,Student,True,True,False,True,False,,2
+27,Survivor: Blood vs. Water,4,2,Rachel,Rachel Foulger,US0399,Female,1979-07-28,ISFJ,Cocktail Waitress/Graphic Designer,True,True,True,True,False,"""Peace guys.""",3
+27,Survivor: Blood vs. Water,5,3,John,John Cody,US0400,Male,1983-05-12,ISFJ,"Physician, Army Orthopedic Surgery Resident",False,False,False,False,False,,0
+27,Survivor: Blood vs. Water,6,4,Brad,Brad Culpepper,US0401,Male,1969-05-08,ESTJ,Attorney/Retired NFL Player,False,False,False,False,False,,0
+27,Survivor: Blood vs. Water,7,5,Laura M.,Laura Morett,US0292,Female,1969-07-30,ENFJ,Office Manager;Fitness Instructor,False,False,False,False,False,,0
+27,Survivor: Blood vs. Water,8,6,Kat,Kat Edorsson,US0365,Female,1989-06-22,ENFP,Timeshare Representative;Full Time Student/Sales,False,False,False,False,False,,0
+27,Survivor: Blood vs. Water,9,7,Laura B.,Laura Boneham,US0397,Female,1968-08-29,,Merchandiser,True,True,True,True,False,"""Bye, guys.""",3
+27,Survivor: Blood vs. Water,10,8,Aras,Aras Baskauskas,US0182,Male,1981-09-26,INFP,Yoga Instructor;Musician,True,True,True,True,True,"""See you guys. Have fun.""",4
+27,Survivor: Blood vs. Water,11,9,Vytas,Vytas Baskauskas,US0402,Male,1979-12-08,INFJ,Yoga Instructor/Math Professor,False,False,False,False,False,,0
+27,Survivor: Blood vs. Water,12,9,Tina,Tina Wesson,US0032,Female,1960-12-26,ESFJ,Personal Nurse;Motivational Speaker,True,True,True,True,False,"""See y'all tomorrow.""",3
+27,Survivor: Blood vs. Water,13,10,Laura M.,Laura Morett,US0292,Female,1969-07-30,ENFJ,Office Manager;Fitness Instructor,True,True,True,True,True,"""Love you.""",4
+27,Survivor: Blood vs. Water,14,11,Caleb,Caleb Bankston,US0403,Male,1987-03-26,ISTP,Post Office Manager/Farmer,False,False,False,False,False,,0
+27,Survivor: Blood vs. Water,15,12,Katie,Katie Collins,US0404,Female,1987-06-27,INTP,Hedge Fund Support,True,True,True,True,False,"""Good luck""",3
+27,Survivor: Blood vs. Water,16,13,Hayden,Hayden Moss,US0405,Male,1986-05-27,ESFP,Real Estate,True,True,True,True,True,"""See y'all later.""",4
+27,Survivor: Blood vs. Water,17,14,Ciera,Ciera Eastin,US0406,Female,1989-03-05,INFP,Cosmetology Student,True,True,True,True,False,"""Bye guys.""",3
+27,Survivor: Blood vs. Water,18,14,Tina,Tina Wesson,US0032,Female,1960-12-26,ESFJ,Personal Nurse;Motivational Speaker,False,False,False,False,False,,0
+28,Survivor: Cagayan,1,1,David,David Samson,US0407,Male,1968-02-26,ENTJ,Miami Marlins President,False,False,False,False,False,,0
+28,Survivor: Cagayan,2,1,Garrett,Garrett Adelstein,US0408,Male,1986-05-16,INTP,Pro Poker Player,False,False,False,False,False,,0
+28,Survivor: Cagayan,3,2,Brice,Brice Johnston,US0409,Male,1986-02-20,ENFP,Social Worker,False,False,False,False,False,,0
+28,Survivor: Cagayan,4,3,J'Tia,J'Tia Taylor,US0410,Female,1981-09-01,ENTJ,Nuclear Engineer,False,False,False,False,False,,0
+28,Survivor: Cagayan,5,4,Cliff,Cliff Robinson,US0411,Male,1966-12-16,ISTP,Former NBA All-Star,True,True,True,True,True,"""Good luck, guys.""",4
+28,Survivor: Cagayan,6,5,Alexis,Alexis Maxwell,US0413,Female,1992-03-17,ENFP,Student,False,False,False,False,False,,0
+28,Survivor: Cagayan,7,6,Sarah,Sarah Lacina,US0414,Female,1984-07-09,ENTJ,Police Officer,True,True,True,True,True,"""Good luck, guys.""",4
+28,Survivor: Cagayan,8,7,Morgan,Morgan McLeod,US0415,Female,1992-07-09,ISFP,Ex-NFL Cheerleader,True,True,True,True,True,"""Good luck, you guys.""",4
+28,Survivor: Cagayan,9,8,LJ,LJ McKanas,US0416,Male,1979-01-08,ISTP,Horse Trainer,True,False,True,False,False,"""Good luck, guys.""",1
+28,Survivor: Cagayan,10,9,Jeremiah,Jeremiah Wood,US0417,Male,1979-06-15,ISFP,Male Model,True,True,True,True,True,Inaudible,4
+28,Survivor: Cagayan,11,10,Jefra,Jefra Bland,US0418,Female,1990-07-02,ISFJ,Miss Kentucky Teen USA,True,True,True,True,True,"""Good luck, guys. It's been fun.""",4
+28,Survivor: Cagayan,12,11,Tasha,Latasha Fox,US0419,Female,1977-01-03,ENFJ,Accountant,False,False,False,False,False,,0
+28,Survivor: Cagayan,13,12,Trish,Trish Hegarty,US0420,Female,1965-10-09,ENFJ,Pilates Trainer,True,True,True,False,False,"""Good luck.""",2
+28,Survivor: Cagayan,14,13,Spencer,Spencer Bledsoe,US0421,Male,1992-06-12,INTJ,Economics Student,True,True,True,True,False,"""Adios""",3
+28,Survivor: Cagayan,15,13,Kass,Kassandra McQuillen,US0422,Female,1971-11-08,INTJ,Attorney,False,False,False,False,False,,0
+29,Survivor: San Juan del Sur,1,1,Nadiya,Nadiya Anderson,US0425,Female,1986-04-11,ESFP,Crossfit Coach/Project Coordinator,False,False,False,False,False, ,0
+29,Survivor: San Juan del Sur,2,2,Val,Val Collins,US0426,Female,1978-11-08,INTJ,Foxboro Police Officer,False,False,False,False,False,,0
+29,Survivor: San Juan del Sur,3,3,John,John Rocker,US0427,Male,1974-10-17,ESTP,Former MLB Player,False,False,False,False,False,,0
+29,Survivor: San Juan del Sur,4,4,Drew,Drew Christy,US0428,Male,1989-05-18,ESTP,Traveling Sales Representative,False,False,False,False,False,,0
+29,Survivor: San Juan del Sur,5,5,Kelley,Kelley Wentworth,US0429,Female,1986-06-07,ENTP,Marketing Manager,False,False,False,False,False,,0
+29,Survivor: San Juan del Sur,6,6,Dale,Dale Wentworth,US0430,Male,1959-03-07,ISTJ,Farmer,False,False,False,False,False,,0
+29,Survivor: San Juan del Sur,7,8,Josh,Josh Canfield,US0432,Male,1981-07-01,INFJ,Singer/Actor/Writer,True,True,True,True,False,"""I'll eat a cheeseburger for everybody.""",3
+29,Survivor: San Juan del Sur,8,9,Jeremy,Jeremy Collins,US0433,Male,1978-04-16,ESTJ,Cambridge Firefighter,False,False,False,False,False,,0
+29,Survivor: San Juan del Sur,9,10,Wes,Wes Nale,US0434,Male,1990-06-19,ISTP,Firefighter,True,True,False,True,False,,2
+29,Survivor: San Juan del Sur,10,11,Reed,Reed Kelly,US0435,Male,1982-09-05,ENTJ,Broadway Performer/Model/Aerialist,False,False,False,False,False,,0
+29,Survivor: San Juan del Sur,11,12,Alec,Alec Christy,US0436,Male,1991-09-07,ISFP,Student,False,False,False,False,False,,0
+29,Survivor: San Juan del Sur,12,13,Jon,Jon Misch,US0437,Male,1988-03-29,ESFP,Financial Assistant,True,True,True,True,False,"""See ya guys. Good luck."" ",3
+29,Survivor: San Juan del Sur,13,14,Baylor,Baylor Wilson,US0438,Female,1994-01-25,ESFP,Student,True,True,True,True,False,"""Love y'all.""",3
+29,Survivor: San Juan del Sur,14,14,Keith,Keith Nale,US0439,Male,1960-08-16,ISTP,Fire Captain,True,False,True,True,False,"""See y'all.""",2
+30,Survivor: Worlds Apart,1,1,So,So Kim,US0443,Female,1983-01-13,INTJ,Retail Buyer,True,True,True,False,True,"""Good luck, guys.""",3
+30,Survivor: Worlds Apart,2,2,Vince,Vince Sly,US0444,Male,1982-02-16,INFP,Coconut Vendor,True,True,True,False,False,"""Good play.""",2
+30,Survivor: Worlds Apart,3,3,Nina,Nina Poersch,US0445,Female,1963-01-17,ISFJ,Hearing Advocate,False,False,False,False,False,,0
+30,Survivor: Worlds Apart,4,4,Lindsey,Lindsey Cascaddan,US0446,Female,1989-08-24,ENFP,Hairdresser,False,False,False,False,False,,0
+30,Survivor: Worlds Apart,5,5,Max,Max Dawson,US0447,Male,1977-03-31,ENTP,Media Consultant,False,False,False,False,False,,0
+30,Survivor: Worlds Apart,6,6,Joaquin,Joaquin Souberbielle,US0448,Male,1986-08-16,ISTP,Marketing Director,False,False,False,False,False,,0
+30,Survivor: Worlds Apart,7,7,Kelly,Kelly Remington,US0449,Female,1970-04-27,ISTJ,State Trooper,False,False,False,False,False,,0
+30,Survivor: Worlds Apart,8,8,Hali,Hali Ford,US0450,Female,1989-07-20,INFP,Law Student,True,True,True,True,True,"""Love you, America.""",4
+30,Survivor: Worlds Apart,9,9,Joe,Joe Anglim,US0451,Male,1988-09-30,ISFP,Jewelry Designer;Multimedia Artist,True,True,True,True,False,"""Hey, love you all. Good luck.""",3
+30,Survivor: Worlds Apart,10,10,Jenn,Jenn Brown,US0452,Female,1992-01-27,ESTP,Sailing Instructor,True,True,True,True,True,"""Bye, guys. Good luck. And play nice, alright? I'll see you soon.""",4
+30,Survivor: Worlds Apart,11,11,Shirin,Shirin Oskooi,US0453,Female,1983-02-25,ENFP,Yahoo! Executive,True,True,True,True,True,"""Bye, guys.""",4
+30,Survivor: Worlds Apart,12,12,Tyler,Tyler Fredrickson,US0454,Male,1981-02-26,ENFP,Ex-Talent Agent Assistant,False,False,False,False,False,,0
+30,Survivor: Worlds Apart,13,13,Dan,Dan Foley,US0455,Male,1967-02-05,ESTJ,Postal Worker,False,False,False,False,False,,0
+30,Survivor: Worlds Apart,14,14,Sierra,Sierra Dawn Thomas,US0456,Female,1986-12-18,ISFJ,Barrel Racer,True,True,True,True,True,"""Sneaky""",4
+30,Survivor: Worlds Apart,15,14,Rodney,Rodney Lavoie Jr.,US0457,Male,1989-09-02,ESTJ,General Contractor,True,True,True,True,False,"""Alright, guys""",3
+31,Survivor: Cambodia,1,1,Vytas,Vytas Baskauskas,US0402,Male,1979-12-08,INFJ,Yoga Instructor/Math Professor,True,True,True,True,True,"""No hard feelings, you guys. You played such a great game. It's all good.""",4
+31,Survivor: Cambodia,2,2,Shirin,Shirin Oskooi,US0453,Female,1983-02-25,ENFP,Yahoo! Executive,False,False,False,False,False,,0
+31,Survivor: Cambodia,3,3,Peih-Gee,Peih-Gee Law,US0233,Female,1978-04-07,ENTP,Jeweler,False,False,False,False,False,,0
+31,Survivor: Cambodia,4,4,Jeff,Jeff Varner,US0023,Male,1966-04-16,ENFP,Internet Projects Manager,True,True,False,False,False,,1
+31,Survivor: Cambodia,5,5,Monica,Monica Padilla,US0295,Female,1984-07-14,ENFP,Law Student,True,True,False,False,False,,1
+31,Survivor: Cambodia,6,6,Woo,Yung Hwang,US0423,Male,1984-03-16,ISFP,Martial Arts Instructor,False,False,False,False,False,,0
+31,Survivor: Cambodia,7,7,Kass,Kassandra McQuillen,US0422,Female,1971-11-08,INTJ,Attorney,False,False,False,False,False,,0
+31,Survivor: Cambodia,8,8,Andrew,Andrew Savage,US0105,Male,1963-07-29,ESTJ,Attorney,True,True,False,True,False,,2
+31,Survivor: Cambodia,9,9,Kelly,Kelly Wiglesworth,US0015,Female,1977-06-24,ISFP,River Guide,False,False,False,False,False,,0
+31,Survivor: Cambodia,10,10,Ciera,Ciera Eastin,US0406,Female,1989-03-05,INFP,Cosmetology Student,False,False,False,False,False,,0
+31,Survivor: Cambodia,11,11,Stephen,Stephen Fishbach,US0280,Male,1979-01-24,INTP,Corporate Consultant,False,False,False,False,False,,0
+31,Survivor: Cambodia,12,12,Joe,Joe Anglim,US0451,Male,1988-09-30,ISFP,Jewelry Designer;Multimedia Artist,False,False,False,False,False,"""Good luck, y'all. Boys: Best of luck.""",0
+31,Survivor: Cambodia,13,13,Abi-Maria,Abi-Maria Gomes,US0383,Female,1979-10-21,ESFP,Business Student,True,True,True,True,False,"""Well played.""",3
+31,Survivor: Cambodia,14,14,Kimmi,Kimmi Kappenberg,US0021,Female,1972-11-11,ENFP,Bartender,True,True,True,True,True,"""Thank you very much for a great game.""",4
+31,Survivor: Cambodia,15,14,Keith,Keith Nale,US0439,Male,1960-08-16,ISTP,Fire Captain,True,True,True,True,False,"""Hang in there.""",3
+31,Survivor: Cambodia,16,14,Kelley,Kelley Wentworth,US0429,Female,1986-06-07,ENTP,Marketing Manager,True,True,True,True,True,"""Good luck guys. See you tomorrow.""",4
+32,Survivor: Kaoh Rong,1,1,Darnell,Darnell Hamilton,US0461,Male,1988-02-08,ISFP,Postal Worker,True,True,True,False,False,"""Good game.""",2
+32,Survivor: Kaoh Rong,2,2,Jennifer,Jennifer Lanzetti,US0462,Female,1977-07-14,ESTP,Contractor,True,True,True,True,True,"""See you guys. Hope you win lots more challenges.""",4
+32,Survivor: Kaoh Rong,3,3,Liz,Elisabeth Markham,US0463,Female,1988-08-14,INTJ,Quantitative Strategist,True,True,True,False,False,"""Good luck everyone!""",2
+32,Survivor: Kaoh Rong,4,4,Alecia,Alecia Holden,US0465,Female,1991-08-03,ESFP,Real Estate Agent,True,True,True,False,True,"""Good luck Cydney""",3
+32,Survivor: Kaoh Rong,5,5,Anna,Anna Khait,US0466,Female,1988-09-17,ENFP,Pro Poker Player,True,True,True,True,True,"""Good luck everyone.""",4
+32,Survivor: Kaoh Rong,6,6,Peter,Peter Baggenstos,US0467,Male,1980-07-21,ENTJ,ER Doctor,True,True,False,True,True,,3
+32,Survivor: Kaoh Rong,7,8,Nick,Nick Maiorano,US0469,Male,1985-01-28,INTP,Personal Trainer,False,False,False,False,False,,0
+32,Survivor: Kaoh Rong,8,9,Debbie,Debbie Wanner,US0470,Female,1965-11-21,ENTP,Chemist,False,False,False,False,False,,0
+32,Survivor: Kaoh Rong,9,10,Scot,Scot Pollard,US0471,Male,1975-02-12,ESTJ,Former NBA Champion,False,False,False,False,False,,0
+32,Survivor: Kaoh Rong,10,11,Julia,Julia Sokolowski,US0472,Female,1996-04-08,ENFP,College Student,False,False,False,False,False,,0
+32,Survivor: Kaoh Rong,11,12,Jason,Kyle Jason,US0473,Male,1984-07-16,ESTJ,Bounty Hunter,True,False,False,True,False,,1
+32,Survivor: Kaoh Rong,12,14,Cydney,Cydney Gillon,US0475,Female,1992-09-14,ISTP,Bodybuilder,False,False,False,False,False,,0
+33,Survivor: Millennials vs. Gen X,1,1,Rachel,Rachel Ako,US0479,Female,1978-09-08,ENFP,Recruiting Director,False,False,False,False,False,,0
+33,Survivor: Millennials vs. Gen X,2,2,Mari,Mari Takahashi,US0480,Female,1984-11-02,ESFP,Gamer,True,True,True,False,False,"""Salty""",2
+33,Survivor: Millennials vs. Gen X,3,3,Paul,Paul Wachter,US0481,Male,1963-10-10,ESTJ,Boat Mechanic,True,True,True,True,False,"""Good luck, guys.""",3
+33,Survivor: Millennials vs. Gen X,4,4,Lucy,Lucy Huang,US0482,Female,1973-09-22,ISTJ,Dietician,False,False,False,False,False,,0
+33,Survivor: Millennials vs. Gen X,5,5,CeCe,Ciandre Taylor,US0483,Female,1977-03-02,ISFJ,Insurance Adjuster,True,True,True,False,False,"""Good luck, guys.""",2
+33,Survivor: Millennials vs. Gen X,6,6,Figgy,Jessica Figueroa,US0484,Female,1992-12-12,ESFP,Bartender,True,True,True,False,False,"""Good luck, Tays.""",2
+33,Survivor: Millennials vs. Gen X,7,7,Michaela,Michaela Bradshaw,US0485,Female,1990-12-01,ISTJ,Vacation Club Sales,True,True,True,False,False,"""You going to feel like an asshole... my shoes... Damn, Jay"" ",2
+33,Survivor: Millennials vs. Gen X,8,8,Michelle,Michelle Schubert,US0486,Female,1988-03-11,INFP,Missionary Recruiter,True,True,False,True,False,,2
+33,Survivor: Millennials vs. Gen X,9,9,Taylor,Taylor Lee Stocker,US0487,Male,1991-11-20,INFP,Snowboard Instructor,True,True,True,True,False,"""Good luck, guys... Sorry for stealing food.""",3
+33,Survivor: Millennials vs. Gen X,10,10,Chris,Chris Hammons,US0488,Male,1978-04-01,ISTJ,Trial Lawyer,True,True,True,True,False,"""Boomer""",3
+33,Survivor: Millennials vs. Gen X,11,10,Jessica,Jessica Lewis,US0489,Female,1979-02-24,ENFJ,Assistant District Attorney,False,False,False,False,False,,0
+33,Survivor: Millennials vs. Gen X,12,11,Zeke,Zeke Smith,US0490,Male,1988-01-25,INTP,Asset Manager,False,False,False,False,False,,0
+33,Survivor: Millennials vs. Gen X,13,12,Will,Will Wahl,US0491,Male,1997-08-12,INTP,High School Student,True,True,True,True,False,"""I had a blast guys. Good luck to all of you.""",3
+33,Survivor: Millennials vs. Gen X,14,12,Sunday,Sunday Burquest,US0492,Female,1971-02-06,ENFJ,Youth Pastor,True,True,True,False,True,"""Good luck, guys. Have fun.""",3
+33,Survivor: Millennials vs. Gen X,15,13,Jay,Justin Starrett,US0493,Male,1989-06-03,ESTP,Real Estate Agent,False,False,False,True,False,,1
+33,Survivor: Millennials vs. Gen X,16,13,Bret,Bret LaBelle,US0494,Male,1973-08-20,ESFJ,Police Sergeant,True,True,True,False,True,"""David, good luck to you. The rest of you: You just lost a million dollars.""",3
+33,Survivor: Millennials vs. Gen X,17,13,David,David Wright,US0495,Male,1974-02-28,INFP,Television Writer,True,True,True,False,False,"""Playing Survivor is the biggest dream I ever had, and I'm so glad I got to play it with all of you. But not Vinaka.""",2
+34,Survivor: Game Changers,1,1,Ciera,Ciera Eastin,US0406,Female,1989-03-05,INFP,Cosmetology Student,True,True,True,True,True,"""Good luck everyone good job.""",4
+34,Survivor: Game Changers,2,1,Tony,Tony Vlachos,US0424,Male,1973-09-10,ESTP,Police Officer,True,True,False,False,False,,1
+34,Survivor: Game Changers,3,2,Caleb,Caleb Reynolds,US0464,Male,1987-11-27,ESFP,Army Veteran,False,False,False,False,False,,0
+34,Survivor: Game Changers,4,3,Malcolm,Malcolm Freberg,US0384,Male,1987-05-07,ENTP,Bartender,False,False,False,False,False,,0
+34,Survivor: Game Changers,5,4,J.T.,James Thomas Jr.,US0281,Male,1984-06-23,ESTP,Cattle Rancher,False,False,False,False,False,,0
+34,Survivor: Game Changers,6,5,Sandra,Sandra Diaz-Twine,US0112,Female,1974-07-30,ESTP,Office Assistant;Case Manager,True,True,True,True,True,,4
+34,Survivor: Game Changers,7,6,Jeff,Jeff Varner,US0023,Male,1966-04-16,ENFP,Internet Projects Manager,True,True,False,True,False,,2
+34,Survivor: Game Changers,8,7,Hali,Hali Ford,US0450,Female,1989-07-20,INFP,Law Student,True,True,True,True,True,"""I enjoyed meeting every one of you. May the best player win!""",4
+34,Survivor: Game Changers,9,7,Ozzy,Oscar Lusth,US0201,Male,1981-08-23,ISFP,Waiter;Photographer,True,True,True,True,True,"""Good job guys. Good luck eating.""",4
+34,Survivor: Game Changers,10,8,Debbie,Debbie Wanner,US0470,Female,1965-11-21,ENTP,Chemist,True,True,True,True,True,"""Good luck to you all.""",4
+34,Survivor: Game Changers,11,9,Zeke,Zeke Smith,US0490,Male,1988-01-25,INTP,Asset Manager,True,True,True,True,True,"""Keep playing hard gang."" ",4
+34,Survivor: Game Changers,12,10,Sierra,Sierra Dawn Thomas,US0456,Female,1986-12-18,ISFJ,Barrel Racer,True,True,True,True,True,"""Yep. Privilege guys!""",4
+34,Survivor: Game Changers,13,11,Andrea,Andrea Boehlke,US0333,Female,1989-05-10,ENFP,Student;Entertainment Host/Writer,False,False,False,False,False,,0
+34,Survivor: Game Changers,14,11,Michaela,Michaela Bradshaw,US0485,Female,1990-12-01,ISTJ,Vacation Club Sales,False,False,False,False,False,,0
+34,Survivor: Game Changers,15,12,Cirie,Cirie Fields,US0179,Female,1970-07-18,ENFJ,Nurse,True,True,True,True,True,"""Thank you Jeff""",4
+34,Survivor: Game Changers,16,12,Aubry,Aubry Bracco,US0477,Female,1985-11-14,INFJ,Social Media Marketer;Marketing Director,False,False,False,False,False,"""The full experience.""",0
+34,Survivor: Game Changers,17,12,Tai,Tai Trang,US0476,Male,1964-03-23,INFP,Gardener,False,False,False,False,False,"""Thank you Jeff for a great season. Appreicate it. Thank you.""",0
+35,Survivor: Heroes vs. Healers vs. Hustlers,1,1,Katrina,Katrina Radke,US0499,Female,1970-12-17,ENFP,Olympian,True,True,True,True,False,"""Good luck, guys.""",3
+35,Survivor: Heroes vs. Healers vs. Hustlers,2,2,Simone,Simone Nguyen,US0500,Female,1991-05-31,INTP,Diversity Advocate,True,True,True,True,True,"""Bye""",4
+35,Survivor: Heroes vs. Healers vs. Hustlers,3,3,Patrick,Patrick Bolton,US0501,Male,1992-03-06,ESTP,Small Business Owner,True,True,False,False,False,,1
+35,Survivor: Heroes vs. Healers vs. Hustlers,4,4,Alan,Alan Ball,US0502,Male,1985-03-29,ISTP,NFL Player,True,True,True,True,False,"""Good luck, everyone.""",3
+35,Survivor: Heroes vs. Healers vs. Hustlers,5,5,Roark,Roark Luskin,US0503,Female,1989-11-30,ENTP,Social Worker,True,True,True,True,False,"""Good luck, guys.""",3
+35,Survivor: Heroes vs. Healers vs. Hustlers,6,6,Ali,Alexandrea Elliott,US0504,Female,1992-11-13,INFJ,Celebrity Assistant,False,False,False,False,False,,0
+35,Survivor: Heroes vs. Healers vs. Hustlers,7,7,Jessica,Jessica Johnston,US0505,Female,1987-04-05,ENFP,Nurse Practitioner,True,True,False,True,True,,3
+35,Survivor: Heroes vs. Healers vs. Hustlers,8,8,Desi,Desiree Williams,US0506,Female,1989-06-14,ESFJ,Phyiscal Therapist,True,True,True,True,True,"""Good luck everyone.""",4
+35,Survivor: Heroes vs. Healers vs. Hustlers,9,9,Cole,Cole Medders,US0507,Male,1992-09-18,ISFP,Wilderness Therapy Guide,True,True,True,True,True,"""Good luck, guys. Have fun out there."" ",4
+35,Survivor: Heroes vs. Healers vs. Hustlers,10,10,JP,John Hilsabeck,US0508,Male,1988-06-22,ISFP,Firefighter,False,False,False,False,False,,0
+35,Survivor: Heroes vs. Healers vs. Hustlers,11,10,Joe,Joe Mena,US0509,Male,1983-03-15,ESTJ,Probation Officer,False,False,False,False,False,,0
+35,Survivor: Heroes vs. Healers vs. Hustlers,12,11,Lauren,Lauren Rimmer,US0510,Female,1982-03-06,ISTJ,Fisherman,True,True,True,True,True,"""Good luck, guys.""",4
+35,Survivor: Heroes vs. Healers vs. Hustlers,13,12,Ashley,Ashley Nolan,US0511,Female,1990-09-17,ESFP,Lifeguard,True,True,True,True,False,"""Good luck, you guys.""",3
+35,Survivor: Heroes vs. Healers vs. Hustlers,14,13,Mike,Mike Zahalsky,US0512,Male,1973-09-11,ENFP,Urologist,True,False,True,True,False,"""Good luck, everybody.""",2
+35,Survivor: Heroes vs. Healers vs. Hustlers,15,13,Devon,Devon Pinto,US0513,Male,1993-03-06,INFJ,Surf Instructor,True,True,False,True,True,,3
+36,Survivor: Ghost Island,1,1,Gonzalez,Stephanie Gonzalez,US0517,Female,1991-04-22,ESTJ,Graphic Sales,False,False,False,False,False,,0
+36,Survivor: Ghost Island,2,1,Jacob,Jacob Derwin,US0518,Male,1995-06-01,INFP,Music Teacher,True,True,True,True,True,"""Y'all did good.""",4
+36,Survivor: Ghost Island,3,2,Morgan,Morgan Ricke,US0519,Female,1987-08-07,ENFP,Marine Animal Trainer,True,True,True,True,True,"""Don't trust the cute blondes.""",4
+36,Survivor: Ghost Island,4,3,Brendan,Brendan Shapiro,US0520,Male,1976-06-17,ENFJ,Physical Education Teacher,False,False,False,False,False,,0
+36,Survivor: Ghost Island,5,4,Stephanie,Stephanie Johnson,US0521,Female,1982-09-10,ENFP,Yoga Instructor,True,True,True,True,False,"""Bye guys.""",3
+36,Survivor: Ghost Island,6,5,James,James Lim,US0522,Male,1993-03-17,INTJ,Business Analyst,True,True,True,True,True,"""Great blindside, y'all. It's been a true pleasure playing with you all. Best of luck.""",4
+36,Survivor: Ghost Island,7,6,Bradley,Bradley Kleihege,US0523,Male,1990-09-14,ENTJ,Law Student,False,False,False,False,False,,0
+36,Survivor: Ghost Island,8,7,Chris,Chris Noble,US0524,Male,1989-12-04,ESTJ,Male Model,False,False,False,False,False,,0
+36,Survivor: Ghost Island,9,8,Libby,Libby Vincek,US0525,Female,1992-08-24,ESFJ,Social Media Strategist,True,True,True,True,True,"""See you, guys.""",4
+36,Survivor: Ghost Island,10,9,Desiree,Desiree Afuye,US0526,Female,1996-02-03,ESFP,Student,True,False,True,False,False,"""Ladies y'all better keep winning.""",1
+36,Survivor: Ghost Island,11,10,Jenna,Jenna Bowman,US0527,Female,1993-11-10,ISTJ,Advertising Account Executive,False,False,False,False,False,,0
+36,Survivor: Ghost Island,12,10,Michael,Michael Yerger,US0528,Male,1998-07-20,INFJ,Real Estate Agent,True,True,True,True,False,"""It's been one hell of a time, guys. Vinaka.""",3
+36,Survivor: Ghost Island,13,11,Chelsea,Chelsea Townsend,US0529,Female,1992-05-25,ISFP,EMT/Pro Cheerleader,False,False,False,False,False,,0
+36,Survivor: Ghost Island,14,12,Kellyn,Kellyn Bechtold,US0530,Female,1986-11-01,ESFJ,Career Counselor,True,True,True,True,True,"""It's truly been a pleasure. From the bottom of my heart, I wish you all the best of look.""",4
+36,Survivor: Ghost Island,15,13,Sebastian,Sebastian Noel,US0531,Male,1994-07-20,ESFP,Fishing Guide,True,True,True,True,True,"""You guys have no idea how much fun I had with all you. It was truly a pleasure.""",4
+36,Survivor: Ghost Island,16,13,Donathan,Donathan Hurley,US0532,Male,1991-07-19,ENFP,Caretaker,False,False,False,False,False,,0
+36,Survivor: Ghost Island,17,13,Angela,Angela Perkins,US0533,Female,1974-11-02,ISTJ,Army Veteran,True,True,True,True,False,"""Good luck.""",3
+37,Survivor: David vs. Goliath,1,2,Jessica,Jessica Peet,US0538,Female,1998-10-22,ENFP,Waitress,True,True,True,False,False,"""Bye, guys.""",2
+37,Survivor: David vs. Goliath,2,3,Jeremy,Jeremy Crawford,US0539,Male,1978-04-26,ENFJ,Attorney,False,False,False,False,False,,0
+37,Survivor: David vs. Goliath,3,4,Natalia,Natalia Azoqa,US0541,Female,1992-04-02,ESTJ,Industrial Engineer,True,True,True,True,False,"""Did you know? Why are you smiling. Oh my God I can't handle you right now.""",3
+37,Survivor: David vs. Goliath,4,5,Natalie,Natalie Cole,US0542,Female,1961-02-26,ESTJ,Publishing CEO,False,False,False,False,False,,0
+37,Survivor: David vs. Goliath,5,6,Lyrsa,Lyrsa Torres,US0543,Female,1981-09-12,ISFP,Airline Agent,True,True,True,False,False,"""Bye, guys.""",2
+37,Survivor: David vs. Goliath,6,7,Elizabeth,Elizabeth Olson,US0544,Female,1987-01-22,ESTP,Kitchen Staff,True,True,True,False,True,"""Good luck, you guys. I love you all. I really do.""",3
+37,Survivor: David vs. Goliath,7,8,John,John Hennigan,US0545,Male,1979-10-03,INFJ,Pro Wrestler,True,True,True,True,True,"""Guys""",4
+37,Survivor: David vs. Goliath,8,9,Dan,Dan Rengering,US0546,Male,1990-04-07,ESFP,S.W.A.T. Officer,False,False,False,False,False,,0
+37,Survivor: David vs. Goliath,9,10,Alec,Alec Merlino,US0547,Male,1993-10-15,ESFP,Bartender,True,True,False,True,True,,3
+37,Survivor: David vs. Goliath,10,10,Carl,Carl Boudreaux,US0548,Male,1976-10-29,ISFJ,Truck Driver,True,True,True,True,False,"""Go get 'em. Good job, guys.""",3
+37,Survivor: David vs. Goliath,11,11,Gabby,Gabby Pascuzzi,US0549,Female,1993-03-23,INFP,Technical Writer,True,True,True,True,True,"""Sorry, Christian. I love you.""",4
+37,Survivor: David vs. Goliath,12,12,Christian,Christian Hubicki,US0550,Male,1985-12-06,ENFP,Robotics Scientist,True,True,True,True,False,"""Good luck to you all. Well played.""",3
+37,Survivor: David vs. Goliath,13,13,Davie,Davie Rickenbacker,US0551,Male,1987-09-14,ENFP,Social Media Manager,True,True,True,True,False,"""I will say this. The person who orchestrated this, you now have my vote for a million dollars. It's up to someone else to make a bigger move.""",3
+37,Survivor: David vs. Goliath,14,13,Alison,Alison Raybould,US0552,Female,1989-07-12,ENFJ,Physician,True,True,True,True,True,"""Good luck. I'll see you all soon.""",4
+37,Survivor: David vs. Goliath,15,13,Kara,Kara Kay,US0553,Female,1987-11-20,ENFJ,Realtor,True,True,True,True,True,"Bye guys. See you soon.""",4
+38,Survivor: Edge of Extinction,1,1,Reem,Reem Daly,US0557,Female,1971-07-08,ESTP,Sales Representative,True,True,True,False,False,"""Thank you.""",2
+38,Survivor: Edge of Extinction,2,2,Keith,Keith Sowell,US0558,Male,1998-07-16,INFP,Pre-Med Student,False,False,False,False,False,,0
+38,Survivor: Edge of Extinction,3,3,Chris,Chris Underwood,US0559,Male,1992-10-06,ENTP,District Sales Manager,False,False,False,False,False,,0
+38,Survivor: Edge of Extinction,4,4,Rick,Rick Devens,US0560,Male,1984-04-05,ENTP,Morning News Anchor,True,True,True,True,True,,4
+38,Survivor: Edge of Extinction,5,5,Aubry,Aubry Bracco,US0477,Female,1985-11-14,INFJ,Social Media Marketer;Marketing Director,True,True,True,False,False,"""Good luck, guys. Kill it.""",2
+38,Survivor: Edge of Extinction,6,5,Wendy,Wendy Diaz,US0561,Female,1992-09-26,ENFP,Small Business Owner,True,True,True,True,True,,4
+38,Survivor: Edge of Extinction,7,6,Joe,Joe Anglim,US0451,Male,1988-09-30,ISFP,Jewelry Designer;Multimedia Artist,True,True,True,False,False,"""You made a big mistake."" ",2
+38,Survivor: Edge of Extinction,8,7,Eric,Eric Hafemann,US0562,Male,1983-04-13,ESTP,Firefighter,True,True,True,False,False,"""The lord gives. The lord takes away. What a fun experience. Hopefully I'll see you soon.""",2
+38,Survivor: Edge of Extinction,9,8,Julia,Julia Carter,US0563,Female,1993-04-18,ESFJ,Medical Assistant,True,True,True,False,True,"""It's been such a pleasure, guys. I know it's a game but, really, take care of yourselves and each other. Good luck.""",3
+38,Survivor: Edge of Extinction,10,9,David,David Wright,US0495,Male,1974-02-28,INFP,Television Writer,True,True,True,False,True,"""No hard feelings guys. You know I had to try. But I am going to follow my way back in."" ",3
+38,Survivor: Edge of Extinction,11,9,Kelley,Kelley Wentworth,US0429,Female,1986-06-07,ENTP,Marketing Manager,True,True,True,False,True,"""Good luck. See you soon.""",3
+38,Survivor: Edge of Extinction,12,10,Wardog,Dan DaSilva,US0564,Male,1980-03-31,ENTP,Law Student/Former Military,True,True,True,True,True,"""Y'all made the right decision. Love you.""",4
+38,Survivor: Edge of Extinction,13,11,Ron,Ron Clark,US0565,Male,1971-10-24,,Teacher,True,True,True,True,True,"""Devins, you're a great player. It was a lot of fun. Bye. Thanks.""",4
+38,Survivor: Edge of Extinction,14,12,Aurora,Aurora McCreary,US0566,Female,1985-12-21,ISTP,Divorce Lawyer,True,True,True,True,True,"""Good game guys. Good luck. Get him out.""",4
+38,Survivor: Edge of Extinction,15,13,Victoria,Victoria Baamonde,US0567,Female,1994-07-18,INTP,Waitress,True,True,True,True,True,"""I'm not sure which one of you did it. Devins, great play. Gavin, I'm voing for you, man.""",4
+38,Survivor: Edge of Extinction,16,13,Lauren,Lauren O'Connell,US0568,Female,1996-10-25,ESFP,Student,True,True,True,True,True,"""Bye guys. Seriously, good luck.""",4
+38,Survivor: Edge of Extinction,17,13,Rick,Rick Devens,US0560,Male,1984-04-05,ENTP,Morning News Anchor,True,True,True,True,True,"""Thank you.""",4
+39,Survivor: Island of the Idols,1,1,Ronnie,Ronnie Bardah,US0571,Male,1982-08-29,ISTP,Professional Poker Player,True,True,True,True,False,"""OK guys.""",3
+39,Survivor: Island of the Idols,2,2,Molly,Molly Byman,US0572,Female,1990-10-05,INTJ,Law Student,True,True,True,True,True,"""Good luck, guys.""",4
+39,Survivor: Island of the Idols,3,3,Vince,Vince Moua,US0573,Male,1991-04-09,ENFP,Admissions Counselor,True,True,True,True,True,"""Good luck, all.""",4
+39,Survivor: Island of the Idols,4,4,Chelsea,Chelsea Walker,US0574,Female,1992-03-10,ENTP,Digital Content Creator,True,True,True,True,True,"""Good luck, guys.""",4
+39,Survivor: Island of the Idols,5,5,Tom,Tom Laidlaw,US0575,Male,1958-04-15,ESFJ,Former NHL Player,True,False,True,True,False,"""See ya, guys. Good luck.""",2
+39,Survivor: Island of the Idols,6,6,Jason,Jason Linden,US0576,Male,1986-08-04,ENTP,Personal Injury Lawyer,False,False,False,False,False,,0
+39,Survivor: Island of the Idols,7,7,Jack,Jack Nichting,US0577,Male,1995-06-05,ENFP,Graduate Student,True,True,True,True,True,"""See you all.""",4
+39,Survivor: Island of the Idols,8,8,Kellee,Kellee Kim,US0578,Female,1989-10-17,INTP,MBA Student,True,True,True,True,True,"""Good luck, guys.""",4
+39,Survivor: Island of the Idols,9,8,Jamal,Jamal Shipman,US0579,Male,1985-05-09,ENFJ,College Administrator,False,False,False,False,False,,0
+39,Survivor: Island of the Idols,10,9,Aaron,Aaron Meredith,US0580,Male,1982-12-16,ESTJ,Gym Owner,False,False,False,False,False,,0
+39,Survivor: Island of the Idols,11,9,Missy,Missy Byrd,US0581,Female,1994-07-01,INTJ,Air Force Veteran,True,True,True,True,True,"""Dang, Elaine, I knew it. All right. I'll see you all later. Wednesday night at 8.""",4
+39,Survivor: Island of the Idols,12,10,Elizabeth,Elizabeth Beisel,US0582,Female,1992-08-18,ENFJ,Olympic Medalist,True,True,True,True,True,"""Love you.""",4
+39,Survivor: Island of the Idols,13,11,Karishma,Karishma Patel,US0583,Female,1981-12-07,INFP,Personal Injury Lawyer,False,False,False,False,False,,0
+39,Survivor: Island of the Idols,14,12,Elaine,Elaine Stott,US0584,Female,1978-01-13,ENFP,Factory Worker,True,True,True,True,False,"""Love y'all.""",3
+39,Survivor: Island of the Idols,15,13,Janet,Janet Carbin,US0586,Female,1959-06-15,ENFJ,Chief Lifeguard,True,True,True,True,False,"""Bye guys.""",3
+39,Survivor: Island of the Idols,16,13,Lauren,Lauren Beck,US0587,Female,1989-11-16,ENFP,Nanny,True,True,True,True,True,"""Bye guys, good luck. Love you Tommy.""",4
+40,Survivor: Winners at War,1,1,Natalie,Natalie Anderson,US0442,Female,1986-04-11,ESTP,Crossfit Coach/Physical Therapy Student;CrossFit Trainer,False,False,False,False,False,,0
+40,Survivor: Winners at War,2,1,Amber,Amber Mariano,US0027,Female,1978-08-11,ISFP,Administrative Assistant;Director of Marketing and Communications,False,False,False,False,False,,0
+40,Survivor: Winners at War,3,2,Danni,Danni Boatwright,US0166,Female,1975-07-13,ENFJ,Sports Radio Host;Entrepreneur,False,False,False,False,False,,0
+40,Survivor: Winners at War,4,3,Ethan,Ethan Zohn,US0048,Male,1973-11-12,ISFP,Professional Soccer Player;Social Entrepreneur/Keynote Speaker,True,True,True,False,False,"""Good luck.""",2
+40,Survivor: Winners at War,5,4,Tyson,Tyson Apostol,US0274,Male,1979-06-17,ESTP,Former Professional Cyclist/Missionary;Shop Manager,False,False,False,False,False,,0
+40,Survivor: Winners at War,6,5,Boston Rob,Rob Mariano,US0055,Male,1975-12-25,ESTJ,Construction Worker,False,False,False,False,False,,0
+40,Survivor: Winners at War,7,6,Parvati,Parvati Shallow,US0197,Female,1982-09-21,ENFJ,Boxer;Charity Organizer;Yoga Teacher/Life Coach/Speaker,True,True,True,False,False,"""Good luck, guys.""",2
+40,Survivor: Winners at War,8,6,Sandra,Sandra Diaz-Twine,US0112,Female,1974-07-30,ESTP,Office Assistant;Case Manager,True,True,True,False,True,"""Day 16 got me again.""",3
+40,Survivor: Winners at War,9,7,Yul,Yul Kwon,US0202,Male,1975-02-14,INTJ,Management Consultant;Product Management,True,True,True,True,False,"""Alright, you guys.""",3
+40,Survivor: Winners at War,10,8,Wendell,Wendell Holland,US0536,Male,1984-03-08,INFJ,Furniture Company Owner;Furniture Designer,True,True,True,False,False,"""Keep playing, guys.""",2
+40,Survivor: Winners at War,11,9,Adam,Adam Klein,US0498,Male,1991-01-15,ENTP,Homeless Shelter Manager;Keynote Speaker and Host,True,True,True,False,False,"""Good luck, guys.""",2
+40,Survivor: Winners at War,12,10,Tyson,Tyson Apostol,US0274,Male,1979-06-17,ESTP,Former Professional Cyclist/Missionary;Shop Manager,True,True,True,False,False,"""See you guy soon.""",2
+40,Survivor: Winners at War,13,11,Sophie,Sophie Clarke,US0353,Female,1989-07-10,INTJ,Medical Student;Healthcare Consultant,True,True,True,True,False,"""Good luck, guys. Did not see it coming.""",3
+40,Survivor: Winners at War,14,12,Kim,Kim Spradlin-Wolfe,US0371,Female,1983-01-30,INFJ,Bridal Shop Owner;Interior Designer,True,True,False,True,False,,2
+40,Survivor: Winners at War,15,13,Jeremy,Jeremy Collins,US0433,Male,1978-04-16,ESTJ,Cambridge Firefighter,False,False,False,False,False,,0
+40,Survivor: Winners at War,16,13,Nick,Nick Wilson,US0556,Male,1990-06-11,ENTP,Public Defender;Attorney,True,True,True,True,False,"""I'll do my best to join you again tomorrow.""",3
+40,Survivor: Winners at War,17,14,Denise,Denise Stapley,US0386,Female,1971-01-01,INFJ,Sex Therapist,True,True,True,True,False,"""Kick ass.""",3
+40,Survivor: Winners at War,18,14,Ben,Ben Driebergen,US0516,Male,1983-01-01,ESFP,Marine;Real Estate/Stay-at-home Dad,False,False,False,False,False,,0
+40,Survivor: Winners at War,19,14,Sarah,Sarah Lacina,US0414,Female,1984-07-09,ENTJ,Police Officer,True,True,True,True,False,"""It was a pleasure. Tony: I love you. Crush it tomorrow, alright?""",3
+41,Survivor: 41,1,1,Abraham,Eric Abraham,US0591,Male,1970-06-10,ESTJ,Cyber Security Analyst,True,True,True,True,False,"""Enjoy this ride.""",3
+41,Survivor: 41,2,1,Sara,Sara Wilson,US0592,Female,1997-06-28,INTJ,Healthcare Consultant,True,True,True,True,True,"""Good bye. Good luck.""",4
+41,Survivor: 41,3,2,Voce,David Voce,US0607,Male,1986-05-01,ENTJ,Neurosurgeon,False,False,False,False,False,,0
+41,Survivor: 41,4,3,Brad,Brad Reese,US0602,Male,1971-07-21,ESFP,Rancher,False,False,False,False,False,,0
+41,Survivor: 41,5,4,JD,Jairus Robinson,US0603,Male,2001-03-18,ESFP,College Student,True,True,False,True,False,,2
+41,Survivor: 41,6,5,Genie,Genie Chen,US0595,Female,1975-03-04,ISFP,Grocery Clerk,True,True,True,True,False,"""Bye guys.""",3
+41,Survivor: 41,7,7,Sydney,Sydney Segal,US0605,Female,1995-07-19,ESTP,Law Student,False,False,False,False,False,,0
+41,Survivor: 41,8,8,Tiffany,Tiffany Seely,US0604,Female,1973-12-08,ENTP,Teacher,True,True,True,True,True,"""Good luck, guys.""",4
+41,Survivor: 41,9,9,Naseer,Naseer Muttalif,US0600,Male,1984-06-21,ESFJ,Sales Manager,True,True,True,True,True,"""Good job, guys.""",4
+41,Survivor: 41,10,9,Evvie,Evvie Jagoda,US0598,Non-binary,1992-10-26,ENFP,Ph.D. Student,True,True,True,True,False,"""Well played, guys.""",3
+41,Survivor: 41,11,10,Shan,Shantel Smith,US0606,Female,1987-03-11,ENFJ,Pastor,False,False,False,False,False,,0
+41,Survivor: 41,12,11,Liana,Liana Wallace,US0608,Female,2000-10-25,ESTJ,College Student,True,True,True,True,True,"""Bye y'all. Play hard.""",4
+41,Survivor: 41,13,12,Danny,Danny McCray,US0599,Male,1988-03-10,INFJ,Ex-NFL Player,True,True,True,True,True,"""Apprecite you. Go Cowboys.""",4
+41,Survivor: 41,14,13,Ricard,Ricard Foye,US0596,Male,1989-12-04,ENTJ,Flight Attendant,True,True,False,True,True,,3
+41,Survivor: 41,15,13,Heather,Heather Aldret,US0593,Female,1969-03-01,ISFJ,Stay-at-home Mom,True,True,True,True,True,"""Bye, guys.""",4
+42,Survivor: 42,1,1,Zach,Zach Wurthenberger,US0626,Male,2000-01-26,INTP,Student,True,True,True,True,True,"""I really did have a blast.""",4
+42,Survivor: 42,2,2,Marya,Marya Sherron,US0618,Female,1974-03-26,INFP,Stay-at-home Mom,True,True,True,True,True,"""See you guys. Bring it home.""",4
+42,Survivor: 42,3,3,Jenny,Jenny Kim,US0614,Female,1978-06-30,INFJ,Creative Director,False,False,False,False,False,,0
+42,Survivor: 42,4,4,Swati,Swati Goel,US0624,Female,2002-03-20,ISTJ,Ivy League Student,False,False,False,False,False,,0
+42,Survivor: 42,5,5,Daniel,Daniel Strunk,US0610,Male,1991-03-26,ENTP,Law Clerk,True,True,False,False,False,,1
+42,Survivor: 42,6,7,Lydia,Lydia Meredith,US0617,Female,1999-05-23,INFP,Waitress,True,True,True,False,True,"""Good luck guys.""",3
+42,Survivor: 42,7,8,Chanelle,Chanelle Howell,US0609,Female,1992-08-22,ENTJ,Executive Recruiter,False,False,False,False,False,,0
+42,Survivor: 42,8,9,Rocksroy,Rocksroy Bailey,US0622,Male,1978-01-12,ESTJ,Stay-at-home Dad,True,True,True,True,False,"""Good luck.""",3
+42,Survivor: 42,9,9,Tori,Tori Meehan,US0625,Female,1996-09-03,ENFJ,Therapist,True,True,True,True,True,"""Have fun, y'all""",4
+42,Survivor: 42,10,10,Hai,Hai Giang,US0612,Male,1992-12-31,INFP,Data Scientist,True,True,True,True,True,"""Bye guys.""",4
+42,Survivor: 42,11,11,Drea,Drea Wheeler,US0611,Female,1986-08-27,ENTJ,Fitness Consultant,True,True,True,True,True,"""Love you.""",4
+42,Survivor: 42,12,12,Omar,Omar Zaheer,US0621,Male,1990-10-24,ENTP,Veterinarian,True,True,True,True,True,"""Love you, guys. See you soon.""",4
+42,Survivor: 42,13,13,Lindsay,Lindsay Dolashewich,US0616,Female,1991-02-01,ESFP,Dietitian,True,True,True,True,True,"Good luck, guys. Gonna eat so much food.""",4
+42,Survivor: 42,14,13,Jonathan,Jonathan Young,US0615,Male,1993-01-13,ENFJ,Beach Service Company Owner,True,True,True,True,False,"""Hey, my friends. All love.""",3
+43,Survivor: 43,1,1,Morriah,Morriah Young,US0639,Female,1993-12-03,ENFP,Teacher,True,True,True,True,True,"""Bye guys.""",4
+43,Survivor: 43,2,2,Justine,Justine Brennan,US0635,Female,1993-01-07,ESTJ,Cyber Security Sales,True,True,True,True,True,,4
+43,Survivor: 43,3,3,Nneka,Nneka Ejere,US0640,Female,1979-06-24,ESFJ,Pharmacist,True,True,True,False,True,"""Bye guys.""",3
+43,Survivor: 43,4,4,Lindsay,Lindsay Carmine,US0637,Female,1980-01-21,ISTJ,Pediatric Nurse,False,False,False,False,False,,0
+43,Survivor: 43,5,5,Geo,Geo Bustamante,US0631,Male,1986-08-22,ISFP,Project Manager,False,False,False,False,False,,0
+43,Survivor: 43,6,6,Elie,Elie Scott,US0630,Female,1991-08-17,ENFJ,Clinical Psychologist,False,False,False,False,False,,0
+43,Survivor: 43,7,7,Dwight,Dwight Moore,US0629,Male,2000-08-30,ENTP,Graduate Student,True,True,True,True,True,"""Thank you""",4
+43,Survivor: 43,8,8,Jeanine,Jeanine Zheng,US0633,Female,1997-12-19,ENFP,UX Designer,True,True,True,True,False,"""See you guys in the real world.""",3
+43,Survivor: 43,9,9,James,James Jones,US0632,Male,1985-05-07,ENFP,Event Planner,False,False,False,False,False,,0
+43,Survivor: 43,10,9,Ryan,Ryan Medrano,US0643,Male,1997-08-26,ISFJ,Warehouse Associate,False,False,False,False,False,,0
+43,Survivor: 43,11,10,Noelle,Noelle Lambert,US0641,Female,1997-01-24,ESTP,U.S. Paralympian,True,True,True,True,True,"""Good luck everyone.""",4
+43,Survivor: 43,12,11,Sami,Sami Layadi,US0644,Male,2002-10-13,ENTP,Pet Cremator,True,True,True,True,True,"""Lot of fun, peeps.""",4
+43,Survivor: 43,13,12,Cody,Cody Assenmacher,US0628,Male,1986-12-09,ESFP,Elevator Sales,True,True,True,True,True," ""A hui hou ... and aloha""",4
+43,Survivor: 43,14,13,Karla,Karla Cruz Godoy,US0636,Female,1994-02-19,ENTJ,Educational Project Manager,True,True,True,False,True,"""Good luck, y'all. I love y'all.""",3
+43,Survivor: 43,15,13,Jesse,Jesse Lopez,US0634,Male,1991-11-29,INFJ,Political Science Ph.D.,False,False,False,True,False,,1
+44,Survivor: 44,1,1,Maddy,Maddy Pomilla,US0649,Female,1994-04-11,ESTP,Charity Projects Manager,True,True,True,True,True,"""Good luck you guys.""",4
+44,Survivor: 44,2,2,Helen,Helen Li,US0660,Female,1993-12-07,INTJ,Product Manager,False,False,False,False,False,,0
+44,Survivor: 44,3,3,Claire,Claire Rafson,US0651,Female,1997-05-15,ENTJ,Tech Investor,True,True,True,False,False,"""Good luck.""",2
+44,Survivor: 44,4,4,Sarah,Sarah Wade,US0661,Female,1995-08-31,INTJ,Management Consultant,False,False,False,False,False,,0
+44,Survivor: 44,5,6,Josh,Josh Wilder,US0655,Male,1988-04-01,,Surgical Podiatrist,True,True,True,True,False,"""Bye guys.""",3
+44,Survivor: 44,6,7,Matt,Matt Blankinship,US0656,Male,1995-03-27,INFP,Security Software Engineer,True,True,True,True,False,"""Proud of you, Frannie, for winning today.""",3
+44,Survivor: 44,7,8,Brandon,Brandon Cottom,US0645,Male,1992-12-21,ESFJ,Security Specialist,True,True,True,True,False,"""Well played.""",3
+44,Survivor: 44,8,9,Kane,Kane Fritzler,US0647,Male,1998-01-31,ENTP,Law Student,True,True,True,False,True,"""Enjoy your rice, you bitches.""",3
+44,Survivor: 44,9,10,Frannie,Frannie Marin,US0653,Female,1999-03-13,ENFP,Research Coordinator,True,True,False,True,True,,3
+44,Survivor: 44,10,11,Danny,Danny Massa,US0652,Male,1990-07-31,ESTP,Firefighter,True,True,True,True,True,"""You're awesome.""",4
+44,Survivor: 44,11,12,Jaime,Jaime Lynn Ruiz,US0646,Female,1987-03-07,ESFP,Yogi,True,True,True,True,True,"""Love you guys."" ",4
+44,Survivor: 44,12,13,Lauren,Lauren Harpe,US0648,Female,1991-07-30,ESTJ,Elementary School Teacher,True,True,False,True,True,,3
+44,Survivor: 44,13,13,Carson,Carson Garrett,US0659,Male,2001-12-10,ENTP,NASA Engineering Student,True,True,True,False,True,"""Good luck, y'all. Y'all are amazing.""",3
+45,Survivor: 45,1,1,Hannah,Hannah Rose,US0669,Female,1990-09-26,,Therapist,True,True,True,True,True,"""I love you guys so much.""",4
+45,Survivor: 45,2,2,Brandon,Brandon Donlon,US0665,Male,1997-06-02,,Content Producer,True,True,True,False,True,"""This is cool. It's really cool.""",3
+45,Survivor: 45,3,3,Sabiyah,Sabiyah Broderick,US0677,Female,1995-08-25,,Truck Driver,True,True,True,False,True,"""Who? ... Who?""",3
+45,Survivor: 45,4,4,Sean,Sean Edwards,US0678,Male,1988-06-23,,School Principal,False,False,False,False,False,,0
+45,Survivor: 45,5,5,Brando,Brando Meyer,US0664,Male,2000-06-09,,Software Developer,True,True,True,True,True,"""Hey, one of y'all win it for me. I love you all. Good luck.""",4
+45,Survivor: 45,6,6,J. Maya,J. Maya,US0670,Female,1998-10-05,,Singer,True,True,False,True,True,,3
+45,Survivor: 45,7,7,Sifu,Sifu Alsup,US0679,Male,1992-12-01,,Gym Owner,True,True,True,True,False,"""Thank you, everybody. It's been a pleasure.""",3
+45,Survivor: 45,8,7,Kaleb,Kaleb Gebrewold,US0673,Male,1994-09-16,,Software Sales,True,True,True,True,True,"""Always a pleasure.""",4
+45,Survivor: 45,9,8,Kellie,Kellie Nalbandian,US0675,Female,1993-09-05,,Critical Care Nurse,True,True,True,False,False,"""Bye.""",2
+45,Survivor: 45,10,9,Kendra,Kendra McQuarrie,US0676,Female,1992-09-25,,Bartender,True,True,False,False,False,,1
+45,Survivor: 45,11,10,Bruce,Bruce Perreault,US0657,Male,1976-08-05,INTJ,Insurance Agent,True,False,False,True,False,,1
+45,Survivor: 45,12,11,Emily,Emily Flippen,US0668,Female,1994-10-06,,Investment Analyst,True,True,True,True,True,"""My vote's going to the best player.""",4
+45,Survivor: 45,13,12,Drew,Drew Basile,US0667,Male,2000-09-25,,Grad Student,False,False,False,False,False,,0
+45,Survivor: 45,14,13,Julie,Julie Alley,US0672,Female,1974-03-11,,Estate Attorney,True,True,False,True,True,,3
+45,Survivor: 45,15,13,Katurah,Katurah Topps,US0674,Female,1988-09-03,,Civil Rights Attorney,True,False,True,False,True,"""Love you guys. Good luck! Give 'em hell.""",2
+46,Survivor: 46,1,1,Jelinsky,David Jelinsky,US0683,Male,2001-11-02,,Slot Machine Salesman,False,False,False,False,False,,0
+46,Survivor: 46,2,2,Jess,Jess Chong,US0686,Female,1986-03-06,,Software Engineer,True,True,True,True,True,"""Bye""",4
+46,Survivor: 46,3,4,Bhanu,Bhanu Gopal,US0681,Male,1982-11-14,,IT Quality Analyst,True,True,False,True,False,,2
+46,Survivor: 46,4,5,Jem,Jem Hussain-Adams,US0685,Female,1991-12-04,,International Brand Mentor,False,False,False,False,False,,0
+46,Survivor: 46,5,6,Moriah,Moriah Gaynor,US0690,Female,1995-03-14,,Program Coordinator,True,True,False,True,False,,2
+46,Survivor: 46,6,7,Tim,Tim Spicer,US0696,Male,1992-07-27,,College Coach,True,True,True,True,False,"""Love y'all.""",3
+46,Survivor: 46,7,7,Soda,Soda Thompson,US0693,Female,1996-04-04,,Special Ed Teacher,True,True,False,True,False,,2
+46,Survivor: 46,8,8,Tevin,Tevin Davis,US0694,Male,1999-04-24,,Actor,True,True,True,True,False,"""It doesn't rock.""",3
+46,Survivor: 46,9,9,Hunter,Hunter McKnight,US0684,Male,1996-02-24,,Science Teacher,False,False,False,False,False,,0
+46,Survivor: 46,10,10,Tiffany,Tiffany Nicole Ervin,US0695,Female,1991-02-08,,Artist,True,True,False,True,False,,2
+46,Survivor: 46,11,11,Venus,Venus Vafa,US0697,Female,1999-02-12,,Data Analyst,True,True,True,False,True,"""Great game, you guys.""",3
+46,Survivor: 46,12,12,Q,Q Burdette,US0691,Male,1994-03-08,,Real Estate Agent,True,True,True,True,False,"""See y'all now""",3
+46,Survivor: 46,13,13,Maria,Maria Shrime Gonzalez,US0689,Female,1975-10-13,,Parent Coach,True,True,True,False,True,"""It's been a pleasure, you guys.""",3
+46,Survivor: 46,14,13,Liz,Liz Wilcox,US0688,Female,1988-03-18,,Marketing Strategist,False,False,False,False,False,,0

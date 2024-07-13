@@ -1,694 +1,694 @@
-season,episode,voted_out,voted_out_id,vote
-1,1,Sonja,US0001,1
-1,2,B.B.,US0002,2
-1,3,Stacey,US0003,3
-1,4,Ramona,US0004,4
-1,5,Dirk,US0005,5
-1,6,Joel,US0006,6
-1,7,Gretchen,US0007,7
-1,8,Greg,US0008,8
-1,9,Jenna,US0009,9
-1,10,Gervase,US0010,10
-1,11,Colleen,US0011,11
-1,12,Sean,US0012,12
-1,13,Sue,US0013,13
-1,13,Rudy,US0014,14
-2,1,Debb,US0017,1
-2,2,Kel,US0018,2
-2,3,Maralyn,US0019,3
-2,4,Mitchell,US0020,4
-2,5,Kimmi,US0021,5
-2,7,Jeff,US0023,6
-2,8,Alicia,US0024,7
-2,10,Jerri,US0025,8
-2,11,Nick,US0026,9
-2,12,Amber,US0027,10
-2,13,Rodger,US0028,11
-2,14,Elisabeth,US0029,12
-2,15,Keith,US0030,13
-3,1,Diane,US0033,1
-3,2,Jessie,US0034,2
-3,3,Carl,US0035,3
-3,4,Linda,US0036,4
-3,5,Silas,US0037,5
-3,6,Lindsey,US0038,6
-3,7,Clarence,US0039,7
-3,9,Kelly,US0040,8
-3,10,Brandon,US0041,9
-3,11,Frank,US0042,10
-3,12,Kim P.,US0043,11
-3,13,Teresa,US0044,12
-3,14,Tom,US0045,13
-3,14,Lex,US0046,14
-4,1,Peter,US0049,1
-4,2,Patricia,US0050,2
-4,3,Hunter,US0051,3
-4,4,Sarah,US0052,4
-4,5,Gabriel,US0053,5
-4,6,Gina,US0054,6
-4,7,Boston Rob,US0055,7
-4,8,John,US0056,8
-4,10,Zoe,US0057,9
-4,11,Tammy,US0058,10
-4,12,Robert,US0059,11
-4,13,Sean,US0060,12
-4,14,Paschal,US0061,13
-4,14,Kathy,US0062,14
-5,1,John,US0065,1
-5,2,Tanya,US0066,2
-5,3,Jed,US0067,3
-5,4,Ghandia,US0068,4
-5,5,Stephanie,US0069,5
-5,6,Robb,US0070,6
-5,7,Shii Ann,US0071,7
-5,8,Erin,US0072,8
-5,9,Ken,US0073,9
-5,10,Penny,US0074,10
-5,12,Jake,US0075,11
-5,13,Ted,US0076,12
-5,14,Helen,US0077,13
-5,14,Jan,US0078,14
-6,1,Ryan,US0081,1
-6,2,Janet,US0082,2
-6,3,Daniel,US0083,3
-6,4,JoAnna,US0084,4
-6,5,Jeanne,US0085,5
-6,6,Shawna,US0086,6
-6,7,Roger,US0087,7
-6,8,Dave,US0088,8
-6,9,Deena,US0089,9
-6,11,Alex,US0090,10
-6,12,Christy,US0091,11
-6,13,Heidi,US0092,12
-6,14,Butch,US0093,13
-6,14,Rob,US0094,14
-7,1,Nicole,US0097,1
-7,2,Ryan S.,US0098,2
-7,3,Lillian,US0099,3
-7,4,Burton,US0100,4
-7,5,Michelle,US0101,5
-7,6,Trish,US0102,6
-7,7,Shawn,US0103,7
-7,7,Osten,US0104,8
-7,8,Andrew,US0105,9
-7,9,Ryan O.,US0106,10
-7,10,Rupert,US0107,11
-7,11,Tijuana,US0108,12
-7,12,Christa,US0109,13
-7,13,Burton,US0100,14
-7,14,Darrah,US0110,15
-7,14,Jonny Fairplay,US0111,16
-8,1,Tina,US0032,1
-8,2,Rudy,US0014,2
-8,4,Rob C.,US0094,3
-8,5,Richard,US0016,4
-8,7,Colby,US0031,5
-8,8,Ethan,US0048,6
-8,10,Jerri,US0025,7
-8,11,Lex,US0046,8
-8,12,Kathy,US0062,9
-8,13,Alicia,US0024,10
-8,14,Shii Ann,US0071,11
-8,15,Tom,US0045,12
-8,16,Rupert,US0107,13
-8,16,Jenna L.,US0009,14
-9,1,Brook,US0113,1
-9,2,Dolly,US0114,2
-9,3,John P.,US0115,3
-9,3,Mia,US0116,4
-9,4,Brady,US0117,5
-9,5,Travis,US0118,6
-9,6,Lisa,US0119,7
-9,7,John K.,US0120,8
-9,8,Rory,US0121,9
-9,9,Lea,US0122,10
-9,10,Chad,US0123,11
-9,11,Leann,US0124,12
-9,12,Ami,US0125,13
-9,13,Julie,US0126,14
-9,14,Eliza,US0127,15
-9,14,Scout,US0128,16
-10,1,Jolanda,US0133,1
-10,2,Ashlee,US0134,2
-10,3,Jeff,US0135,3
-10,4,Kim,US0136,4
-10,5,Willard,US0137,5
-10,5,Angie,US0138,6
-10,6,James,US0139,7
-10,7,Ibrehem,US0140,8
-10,8,Bobby Jon,US0141,9
-10,9,Coby,US0142,10
-10,11,Stephenie,US0144,11
-10,12,Gregg,US0145,12
-10,13,Caryn,US0146,13
-10,14,Jenn,US0147,14
-10,14,Ian,US0148,15
-11,1,Jim,US0151,1
-11,2,Morgan,US0152,2
-11,3,Brianna,US0153,3
-11,4,Brooke,US0154,4
-11,5,Blake,US0155,5
-11,6,Margaret,US0156,6
-11,6,Brian,US0157,7
-11,7,Amy,US0158,8
-11,8,Brandon,US0159,9
-11,9,Bobby Jon,US0141,10
-11,10,Jamie,US0160,11
-11,11,Gary,US0161,12
-11,12,Judd,US0162,13
-11,13,Cindy,US0163,14
-11,14,Lydia,US0164,15
-11,14,Rafe,US0165,16
-12,1,Tina,US0167,1
-12,2,Melinda,US0168,2
-12,3,Misty,US0169,3
-12,4,Ruth Marie,US0170,4
-12,5,Bobby,US0171,5
-12,6,Dan,US0172,6
-12,8,Nick,US0173,7
-12,9,Austin,US0174,8
-12,10,Sally,US0175,9
-12,12,Courtney,US0177,10
-12,13,Shane,US0178,11
-12,14,Cirie,US0179,12
-12,15,Terry,US0180,13
-13,1,Sekou,US0183,1
-13,2,Billy,US0184,2
-13,3,Cecilia,US0185,3
-13,4,J.P.,US0186,4
-13,5,Stephannie,US0187,5
-13,6,Cao Boi,US0188,6
-13,6,Cristina,US0189,7
-13,8,Jessica,US0190,8
-13,9,Brad,US0191,9
-13,10,Rebecca,US0192,10
-13,10,Jenny,US0193,11
-13,11,Nate,US0194,12
-13,12,Candice,US0195,13
-13,13,Jonathan,US0196,14
-13,14,Parvati,US0197,15
-13,15,Adam,US0198,16
-13,15,Sundra,US0199,17
-14,1,Jessica,US0203,1
-14,2,Erica,US0204,2
-14,3,Sylvia,US0205,3
-14,4,Liliana,US0207,4
-14,5,Rita,US0208,5
-14,6,Anthony,US0209,6
-14,7,Rocky,US0210,7
-14,8,Lisi,US0211,8
-14,9,Michelle,US0212,9
-14,10,Edgardo,US0213,10
-14,11,Mookie,US0214,11
-14,12,Alex,US0215,12
-14,13,Stacy,US0216,13
-14,14,Boo,US0217,14
-14,14,Yau-Man,US0218,15
-15,1,Chicken,US0222,1
-15,2,Ashley,US0223,2
-15,3,Leslie,US0224,3
-15,4,Dave,US0225,4
-15,5,Aaron,US0226,5
-15,6,Sherea,US0227,6
-15,7,Jaime,US0228,7
-15,8,Jean-Robert,US0229,8
-15,9,Frosti,US0230,9
-15,11,James,US0231,10
-15,12,Erik,US0232,11
-15,13,Peih-Gee,US0233,12
-15,14,Denise,US0234,13
-16,1,Jonny Fairplay,US0111,1
-16,2,Mary,US0238,2
-16,3,Yau-Man,US0218,3
-16,4,Mikey B,US0239,4
-16,5,Joel,US0240,5
-16,6,Chet,US0241,6
-16,7,Tracy,US0243,7
-16,8,Ami,US0125,8
-16,9,Eliza,US0127,9
-16,10,Ozzy,US0201,10
-16,11,Jason,US0244,11
-16,12,Alexis,US0245,12
-16,13,Erik,US0246,13
-16,14,Natalie,US0247,14
-16,14,Cirie,US0179,15
-17,1,Michelle,US0248,1
-17,1,Gillian,US0249,2
-17,2,Paloma,US0250,3
-17,3,Jacquie,US0251,4
-17,4,GC,US0252,5
-17,5,Kelly,US0253,6
-17,6,Ace,US0254,7
-17,6,Dan,US0255,8
-17,7,Marcus,US0256,9
-17,8,Charlie,US0257,10
-17,9,Randy,US0258,11
-17,11,Corinne,US0259,12
-17,12,Crystal,US0260,13
-17,13,Ken,US0261,14
-17,13,Matty,US0262,15
-18,1,Carolina,US0266,1
-18,2,Candace,US0267,2
-18,3,Jerry,US0268,3
-18,4,Sandy,US0269,4
-18,5,Spencer,US0270,5
-18,7,Sydney,US0271,6
-18,9,Brendan,US0273,7
-18,10,Tyson,US0274,8
-18,11,Sierra,US0275,9
-18,12,Debbie,US0276,10
-18,13,Coach,US0277,11
-18,14,Taj,US0278,12
-18,14,Erinn,US0279,13
-19,1,Marisa,US0282,1
-19,2,Betsy,US0284,2
-19,3,Ben,US0285,3
-19,4,Yasmin,US0286,4
-19,5,Ashley,US0287,5
-19,7,Liz,US0289,6
-19,8,Erik,US0290,7
-19,9,Kelly,US0291,8
-19,10,Laura,US0292,9
-19,12,John,US0293,10
-19,13,Dave,US0294,11
-19,13,Monica,US0295,12
-19,14,Shambo,US0296,13
-19,15,Jaison,US0297,14
-19,15,Brett,US0298,15
-20,1,Sugar,US0263,1
-20,2,Stephenie,US0144,2
-20,3,Randy,US0258,3
-20,4,Cirie,US0179,4
-20,5,Tom,US0150,5
-20,6,Tyson,US0274,6
-20,6,James,US0231,7
-20,7,Boston Rob,US0055,8
-20,8,Coach,US0277,9
-20,9,Courtney,US0236,10
-20,10,J.T.,US0281,11
-20,11,Amanda,US0235,12
-20,12,Candice,US0195,13
-20,12,Danielle,US0181,14
-20,13,Rupert,US0107,15
-20,14,Colby,US0031,16
-20,14,Jerri,US0025,17
-21,1,Wendy,US0302,1
-21,2,Shannon,US0303,2
-21,3,Jimmy J.,US0304,3
-21,4,Jimmy T.,US0305,4
-21,5,Tyrone,US0306,5
-21,6,Kelly B.,US0307,6
-21,6,Yve,US0308,7
-21,7,Jill,US0309,8
-21,8,Alina,US0310,9
-21,9,Marty,US0311,10
-21,10,Brenda,US0312,11
-21,13,Benry,US0315,12
-21,14,Jane,US0316,13
-21,15,Dan,US0317,14
-21,15,Holly,US0318,15
-22,1,Francesca,US0322,1
-22,2,Matt,US0323,2
-22,3,Russell,US0300,3
-22,4,Kristina,US0324,4
-22,5,Krista,US0325,5
-22,6,Stephanie,US0326,6
-22,7,Sarita,US0327,7
-22,8,Matt,US0323,8
-22,9,Mike,US0328,9
-22,9,David,US0329,10
-22,10,Julie,US0330,11
-22,11,Ralph,US0331,12
-22,11,Steve,US0332,13
-22,12,Andrea,US0333,14
-22,13,Grant,US0334,15
-22,14,Andrea,US0333,16
-22,14,Ashley,US0335,17
-23,1,Semhar,US0338,1
-23,2,Christine,US0339,2
-23,3,Papa Bear,US0340,3
-23,4,Stacey,US0341,4
-23,5,Elyse,US0342,5
-23,6,Mikayla,US0343,6
-23,7,Ozzy,US0201,7
-23,8,Keith,US0344,8
-23,9,Ozzy,US0201,9
-23,9,Jim,US0345,10
-23,10,Dawn,US0346,11
-23,10,Whitney,US0347,12
-23,12,Cochran,US0348,13
-23,13,Edna,US0349,14
-23,14,Brandon,US0350,15
-23,15,Rick,US0351,16
-23,15,Ozzy,US0201,17
-24,2,Nina,US0355,1
-24,3,Matt,US0356,2
-24,4,Bill,US0357,3
-24,5,Monica,US0358,4
-24,7,Jonas,US0360,5
-24,8,Michael,US0361,6
-24,9,Jay,US0362,7
-24,10,Leif,US0363,8
-24,11,Troyzan,US0364,9
-24,12,Kat,US0365,10
-24,13,Tarzan,US0366,11
-24,14,Alicia,US0367,12
-24,14,Christina,US0368,13
-25,1,Zane,US0372,1
-25,2,Roxy,US0373,2
-25,3,Angie,US0374,3
-25,4,Russell,US0288,4
-25,5,Dawson,US0376,5
-25,6,Katie,US0377,6
-25,7,RC,US0378,7
-25,8,Jeff,US0379,8
-25,9,Artis,US0380,9
-25,10,Pete,US0381,10
-25,11,Jonathan,US0196,11
-25,12,Carter,US0382,12
-25,13,Abi-Maria,US0383,13
-25,14,Malcolm,US0384,14
-26,1,Francesca,US0322,1
-26,2,Allie,US0387,2
-26,3,Hope,US0388,3
-26,4,Laura,US0390,4
-26,5,Brandon,US0350,5
-26,6,Matt,US0391,6
-26,7,Julia,US0392,7
-26,8,Corinne,US0259,8
-26,9,Michael,US0393,9
-26,10,Phillip,US0337,10
-26,11,Malcolm,US0384,11
-26,12,Reynold,US0394,12
-26,12,Andrea,US0333,13
-26,13,Brenda,US0312,14
-26,14,Eddie,US0395,15
-27,1,Laura B.,US0397,1
-27,1,Candice,US0195,2
-27,1,Marissa,US0398,3
-27,2,Rachel,US0399,4
-27,3,John,US0400,5
-27,4,Brad,US0401,6
-27,5,Laura M.,US0292,7
-27,6,Kat,US0365,8
-27,7,Laura B.,US0397,9
-27,8,Aras,US0182,10
-27,9,Vytas,US0402,11
-27,9,Tina,US0032,12
-27,10,Laura M.,US0292,13
-27,11,Caleb,US0403,14
-27,12,Katie,US0404,15
-27,13,Hayden,US0405,16
-27,14,Ciera,US0406,17
-27,14,Tina,US0032,18
-28,1,David,US0407,1
-28,1,Garrett,US0408,2
-28,2,Brice,US0409,3
-28,3,J'Tia,US0410,4
-28,4,Cliff,US0411,5
-28,5,Alexis,US0413,6
-28,6,Sarah,US0414,7
-28,7,Morgan,US0415,8
-28,8,LJ,US0416,9
-28,9,Jeremiah,US0417,10
-28,10,Jefra,US0418,11
-28,11,Tasha,US0419,12
-28,12,Trish,US0420,13
-28,13,Spencer,US0421,14
-28,13,Kass,US0422,15
-29,1,Nadiya,US0425,1
-29,2,Val,US0426,2
-29,3,John,US0427,3
-29,4,Drew,US0428,4
-29,5,Kelley,US0429,5
-29,6,Dale,US0430,6
-29,8,Josh,US0432,7
-29,9,Jeremy,US0433,8
-29,10,Wes,US0434,9
-29,11,Reed,US0435,10
-29,12,Alec,US0436,11
-29,13,Jon,US0437,12
-29,14,Baylor,US0438,13
-29,14,Keith,US0439,14
-30,1,So,US0443,1
-30,2,Vince,US0444,2
-30,3,Nina,US0445,3
-30,4,Lindsey,US0446,4
-30,5,Max,US0447,5
-30,6,Joaquin,US0448,6
-30,7,Kelly,US0449,7
-30,8,Hali,US0450,8
-30,9,Joe,US0451,9
-30,10,Jenn,US0452,10
-30,11,Shirin,US0453,11
-30,12,Tyler,US0454,12
-30,13,Dan,US0455,13
-30,14,Sierra,US0456,14
-30,14,Rodney,US0457,15
-31,1,Vytas,US0402,1
-31,2,Shirin,US0453,2
-31,3,Peih-Gee,US0233,3
-31,4,Jeff,US0023,4
-31,5,Monica,US0295,5
-31,6,Woo,US0423,6
-31,7,Kass,US0422,7
-31,8,Andrew,US0105,8
-31,9,Kelly,US0015,9
-31,10,Ciera,US0406,10
-31,11,Stephen,US0280,11
-31,12,Joe,US0451,12
-31,13,Abi-Maria,US0383,13
-31,14,Kimmi,US0021,14
-31,14,Keith,US0439,15
-31,14,Kelley,US0429,16
-32,1,Darnell,US0461,1
-32,2,Jennifer,US0462,2
-32,3,Liz,US0463,3
-32,4,Alecia,US0465,4
-32,5,Anna,US0466,5
-32,6,Peter,US0467,6
-32,8,Nick,US0469,7
-32,9,Debbie,US0470,8
-32,10,Scot,US0471,9
-32,11,Julia,US0472,10
-32,12,Jason,US0473,11
-32,14,Cydney,US0475,12
-33,1,Rachel,US0479,1
-33,2,Mari,US0480,2
-33,3,Paul,US0481,3
-33,4,Lucy,US0482,4
-33,5,CeCe,US0483,5
-33,6,Figgy,US0484,6
-33,7,Michaela,US0485,7
-33,8,Michelle,US0486,8
-33,9,Taylor,US0487,9
-33,10,Chris,US0488,10
-33,10,Jessica,US0489,11
-33,11,Zeke,US0490,12
-33,12,Will,US0491,13
-33,12,Sunday,US0492,14
-33,13,Jay,US0493,15
-33,13,Bret,US0494,16
-33,13,David,US0495,17
-34,1,Ciera,US0406,1
-34,1,Tony,US0424,2
-34,2,Caleb,US0464,3
-34,3,Malcolm,US0384,4
-34,4,J.T.,US0281,5
-34,5,Sandra,US0112,6
-34,6,Jeff,US0023,7
-34,7,Hali,US0450,8
-34,7,Ozzy,US0201,9
-34,8,Debbie,US0470,10
-34,9,Zeke,US0490,11
-34,10,Sierra,US0456,12
-34,11,Andrea,US0333,13
-34,11,Michaela,US0485,14
-34,12,Cirie,US0179,15
-34,12,Aubry,US0477,16
-34,12,Tai,US0476,17
-35,1,Katrina,US0499,1
-35,2,Simone,US0500,2
-35,3,Patrick,US0501,3
-35,4,Alan,US0502,4
-35,5,Roark,US0503,5
-35,6,Ali,US0504,6
-35,7,Jessica,US0505,7
-35,8,Desi,US0506,8
-35,9,Cole,US0507,9
-35,10,JP,US0508,10
-35,10,Joe,US0509,11
-35,11,Lauren,US0510,12
-35,12,Ashley,US0511,13
-35,13,Mike,US0512,14
-35,13,Devon,US0513,15
-36,1,Gonzalez,US0517,1
-36,1,Jacob,US0518,2
-36,2,Morgan,US0519,3
-36,3,Brendan,US0520,4
-36,4,Stephanie,US0521,5
-36,5,James,US0522,6
-36,6,Bradley,US0523,7
-36,7,Chris,US0524,8
-36,8,Libby,US0525,9
-36,9,Desiree,US0526,10
-36,10,Jenna,US0527,11
-36,10,Michael,US0528,12
-36,11,Chelsea,US0529,13
-36,12,Kellyn,US0530,14
-36,13,Sebastian,US0531,15
-36,13,Donathan,US0532,16
-36,13,Angela,US0533,17
-37,2,Jessica,US0538,1
-37,3,Jeremy,US0539,2
-37,4,Natalia,US0541,3
-37,5,Natalie,US0542,4
-37,6,Lyrsa,US0543,5
-37,7,Elizabeth,US0544,6
-37,8,John,US0545,7
-37,9,Dan,US0546,8
-37,10,Alec,US0547,9
-37,10,Carl,US0548,10
-37,11,Gabby,US0549,11
-37,12,Christian,US0550,12
-37,13,Davie,US0551,13
-37,13,Alison,US0552,14
-37,13,Kara,US0553,15
-38,1,Reem,US0557,1
-38,2,Keith,US0558,2
-38,3,Chris,US0559,3
-38,4,Rick,US0560,4
-38,5,Aubry,US0477,5
-38,5,Wendy,US0561,6
-38,6,Joe,US0451,7
-38,7,Eric,US0562,8
-38,8,Julia,US0563,9
-38,9,David,US0495,10
-38,9,Kelley,US0429,11
-38,10,Wardog,US0564,12
-38,11,Ron,US0565,13
-38,12,Aurora,US0566,14
-38,13,Victoria,US0567,15
-38,13,Lauren,US0568,16
-38,13,Rick,US0560,17
-39,1,Ronnie,US0571,1
-39,2,Molly,US0572,2
-39,3,Vince,US0573,3
-39,4,Chelsea,US0574,4
-39,5,Tom,US0575,5
-39,6,Jason,US0576,6
-39,7,Jack,US0577,7
-39,8,Kellee,US0578,8
-39,8,Jamal,US0579,9
-39,9,Aaron,US0580,10
-39,9,Missy,US0581,11
-39,10,Elizabeth,US0582,12
-39,11,Karishma,US0583,13
-39,12,Elaine,US0584,14
-39,13,Janet,US0586,15
-39,13,Lauren,US0587,16
-40,1,Natalie,US0442,1
-40,1,Amber,US0027,2
-40,2,Danni,US0166,3
-40,3,Ethan,US0048,4
-40,4,Tyson,US0274,5
-40,5,Boston Rob,US0055,6
-40,6,Parvati,US0197,7
-40,6,Sandra,US0112,8
-40,7,Yul,US0202,9
-40,8,Wendell,US0536,10
-40,9,Adam,US0498,11
-40,10,Tyson,US0274,12
-40,11,Sophie,US0353,13
-40,12,Kim,US0371,14
-40,13,Jeremy,US0433,15
-40,13,Nick,US0556,16
-40,14,Denise,US0386,17
-40,14,Ben,US0516,18
-40,14,Sarah,US0414,19
-41,1,Abraham,US0591,1
-41,1,Sara,US0592,2
-41,2,Voce,US0607,3
-41,3,Brad,US0602,4
-41,4,JD,US0603,5
-41,5,Genie,US0595,6
-41,7,Sydney,US0605,7
-41,8,Tiffany,US0604,8
-41,9,Naseer,US0600,9
-41,9,Evvie,US0598,10
-41,10,Shan,US0606,11
-41,11,Liana,US0608,12
-41,12,Danny,US0599,13
-41,13,Ricard,US0596,14
-41,13,Heather,US0593,15
-42,1,Zach,US0626,1
-42,2,Marya,US0618,2
-42,3,Jenny,US0614,3
-42,4,Swati,US0624,4
-42,5,Daniel,US0610,5
-42,7,Lydia,US0617,6
-42,8,Chanelle,US0609,7
-42,9,Rocksroy,US0622,8
-42,9,Tori,US0625,9
-42,10,Hai,US0612,10
-42,11,Drea,US0611,11
-42,12,Omar,US0621,12
-42,13,Lindsay,US0616,13
-42,13,Jonathan,US0615,14
-43,1,Morriah,US0639,1
-43,2,Justine,US0635,2
-43,3,Nneka,US0640,3
-43,4,Lindsay,US0637,4
-43,5,Geo,US0631,5
-43,6,Elie,US0630,6
-43,7,Dwight,US0629,7
-43,8,Jeanine,US0633,8
-43,9,James,US0632,9
-43,9,Ryan,US0643,10
-43,10,Noelle,US0641,11
-43,11,Sami,US0644,12
-43,12,Cody,US0628,13
-43,13,Karla,US0636,14
-43,13,Jesse,US0634,15
-44,1,Maddy,US0649,1
-44,2,Helen,US0660,2
-44,3,Claire,US0651,3
-44,4,Sarah,US0661,4
-44,6,Josh,US0655,5
-44,7,Matt,US0656,6
-44,8,Brandon,US0645,7
-44,9,Kane,US0647,8
-44,10,Frannie,US0653,9
-44,11,Danny,US0652,10
-44,12,Jaime,US0646,11
-44,13,Lauren,US0648,12
-44,13,Carson,US0659,13
-45,1,Hannah,US0669,1
-45,2,Brandon,US0665,2
-45,3,Sabiyah,US0677,3
-45,4,Sean,US0678,4
-45,5,Brando,US0664,5
-45,6,J. Maya,US0670,6
-45,7,Sifu,US0679,7
-45,7,Kaleb,US0673,8
-45,8,Kellie,US0675,9
-45,9,Kendra,US0676,10
-45,10,Bruce,US0657,11
-45,11,Emily,US0668,12
-45,12,Drew,US0667,13
-45,13,Julie,US0672,14
-45,13,Katurah,US0674,15
-46,1,Jelinsky,US0683,1
-46,2,Jess,US0686,2
-46,4,Bhanu,US0681,3
-46,5,Jem,US0685,4
-46,6,Moriah,US0690,5
-46,7,Tim,US0696,6
-46,7,Soda,US0693,7
-46,8,Tevin,US0694,8
-46,9,Hunter,US0684,9
-46,10,Tiffany,US0695,10
-46,11,Venus,US0697,11
-46,12,Q,US0691,12
-46,13,Maria,US0689,13
-46,13,Liz,US0688,14
+season,season_name,episode,voted_out,voted_out_id,version,vote,castaway_id,full_name,date_of_birth,gender,personality_type,occupation
+1.0,Survivor: Borneo,1.0,Sonja,US0001,US,1,US0001,Sonja Christopher,1937-01-28,Female,ENFP,Musician
+1.0,Survivor: Borneo,2.0,B.B.,US0002,US,2,US0002,B.B. Andersen,1936-01-18,Male,ESTJ,Real Estate Developer
+1.0,Survivor: Borneo,3.0,Stacey,US0003,US,3,US0003,Stacey Stillman,1972-08-11,Female,ENTJ,Attorney
+1.0,Survivor: Borneo,4.0,Ramona,US0004,US,4,US0004,Ramona Gray,1971-01-20,Female,ISTJ,Biochemist/Chemist
+1.0,Survivor: Borneo,5.0,Dirk,US0005,US,5,US0005,Dirk Been,1976-06-15,Male,ISFP,Dairy Farmer
+1.0,Survivor: Borneo,6.0,Joel,US0006,US,6,US0006,Joel Klug,1972-04-13,Male,ESTJ,Health Club Consultant
+1.0,Survivor: Borneo,7.0,Gretchen,US0007,US,7,US0007,Gretchen Cordy,1962-02-07,Female,ESFJ,Teacher
+1.0,Survivor: Borneo,8.0,Greg,US0008,US,8,US0008,Greg Buis,1975-12-31,Male,INTP,Ivy League Graduate
+1.0,Survivor: Borneo,9.0,Jenna,US0009,US,9,US0009,Jenna Lewis,1977-07-16,Female,ENFP,Student
+1.0,Survivor: Borneo,10.0,Gervase,US0010,US,10,US0010,Gervase Peterson,1969-11-02,Male,ESTP,YMCA Basketball Coach;Cigar Lounge Owner
+1.0,Survivor: Borneo,11.0,Colleen,US0011,US,11,US0011,Colleen Haskell,1976-12-06,Female,INFP,Student
+1.0,Survivor: Borneo,12.0,Sean,US0012,US,12,US0012,Sean Kenniff,1969-11-27,Male,INTP,Doctor
+1.0,Survivor: Borneo,13.0,Sue,US0013,US,13,US0013,Susan Hawk,1961-08-17,Female,ESTP,Truck Driver
+1.0,Survivor: Borneo,13.0,Rudy,US0014,US,14,US0014,Rudy Boesch,1928-01-20,Male,ISTJ,Retired Navy SEAL
+2.0,Survivor: The Australian Outback,1.0,Debb,US0017,US,1,US0017,Debb Eaton,1955-06-11,Female,ISFP,Corrections Officer
+2.0,Survivor: The Australian Outback,2.0,Kel,US0018,US,2,US0018,Kel Gleason,1968-01-05,Male,ISTJ,Army Intelligence Officer
+2.0,Survivor: The Australian Outback,3.0,Maralyn,US0019,US,3,US0019,Maralyn Hershey,1949-01-24,Female,ESTP,Retired Police Officer
+2.0,Survivor: The Australian Outback,4.0,Mitchell,US0020,US,4,US0020,Mitchell Olson,1977-03-17,Male,ENFP,Singer/Songwriter
+2.0,Survivor: The Australian Outback,5.0,Kimmi,US0021,US,5,US0021,Kimmi Kappenberg,1972-11-11,Female,ENFP,Bartender
+2.0,Survivor: The Australian Outback,7.0,Jeff,US0023,US,6,US0023,Jeff Varner,1966-04-16,Male,ENFP,Internet Projects Manager
+2.0,Survivor: The Australian Outback,8.0,Alicia,US0024,US,7,US0024,Alicia Calaway,1968-05-01,Female,ESTJ,Personal Trainer
+2.0,Survivor: The Australian Outback,10.0,Jerri,US0025,US,8,US0025,Jerri Manthey,1970-09-05,Female,ESFP,Aspiring Actress
+2.0,Survivor: The Australian Outback,11.0,Nick,US0026,US,9,US0026,Nick Brown,1977-04-02,Male,ISTJ,Harvard Law Student
+2.0,Survivor: The Australian Outback,12.0,Amber,US0027,US,10,US0027,Amber Mariano,1978-08-11,Female,ISFP,Administrative Assistant;Director of Marketing and Communications
+2.0,Survivor: The Australian Outback,13.0,Rodger,US0028,US,11,US0028,Rodger Bingham,1947-07-05,Male,ISFJ,Teacher/Farmer
+2.0,Survivor: The Australian Outback,14.0,Elisabeth,US0029,US,12,US0029,Elisabeth Filarski,1977-05-28,Female,INFP,Footwear Designer
+2.0,Survivor: The Australian Outback,15.0,Keith,US0030,US,13,US0030,Keith Famie,1960-02-11,Male,ESTJ,Chef
+3.0,Survivor: Africa,1.0,Diane,US0033,US,1,US0033,Diane Ogden,1959-04-27,Female,ESTP,U.S. Mail Carrier
+3.0,Survivor: Africa,2.0,Jessie,US0034,US,2,US0034,Jessie Camacho,1974-09-24,Female,ISFP,Deputy Sheriff
+3.0,Survivor: Africa,3.0,Carl,US0035,US,3,US0035,Carl Bilancione,1955-06-20,Male,ESTJ,Dentist
+3.0,Survivor: Africa,4.0,Linda,US0036,US,4,US0036,Linda Spencer,1957-01-01,Female,ESFJ,Career Counselor
+3.0,Survivor: Africa,5.0,Silas,US0037,US,5,US0037,Silas Gaither,1978-01-28,Male,ESTJ,Bartender
+3.0,Survivor: Africa,6.0,Lindsey,US0038,US,6,US0038,Lindsey Richter,1974-08-31,Female,ESFP,Advertising Executive
+3.0,Survivor: Africa,7.0,Clarence,US0039,US,7,US0039,Clarence Black,1976-12-21,Male,ISTP,Basketball Coach
+3.0,Survivor: Africa,9.0,Kelly,US0040,US,8,US0040,Kelly Goldsmith,1979-04-27,Female,ENTP,Behavioral Research Analyst
+3.0,Survivor: Africa,10.0,Brandon,US0041,US,9,US0041,Brandon Quinton,1976-01-22,Male,ENFP,Bartender
+3.0,Survivor: Africa,11.0,Frank,US0042,US,10,US0042,Frank Garrison,1958-07-22,Male,ISTJ,Telephone Technician
+3.0,Survivor: Africa,12.0,Kim P.,US0043,US,11,US0043,Kim Powers,1971-12-03,Female,INFP,Freelance Marketer
+3.0,Survivor: Africa,13.0,Teresa,US0044,US,12,US0044,Teresa Cooper,1959-05-05,Female,ENFP,Flight Attendant
+3.0,Survivor: Africa,14.0,Tom,US0045,US,13,US0045,Tom Buchanan,1955-10-30,Male,ESTP,Goat Farmer
+3.0,Survivor: Africa,14.0,Lex,US0046,US,14,US0046,Lex van den Berghe,1963-06-18,Male,ENTJ,Marketing Manager
+4.0,Survivor: Marquesas,1.0,Peter,US0049,US,1,US0049,Peter Harkey,1956-01-17,Male,ENFP,Bowling Alley Owner
+4.0,Survivor: Marquesas,2.0,Patricia,US0050,US,2,US0050,Patricia Jackson,1952-04-08,Female,ISFJ,Truck Assembler
+4.0,Survivor: Marquesas,3.0,Hunter,US0051,US,3,US0051,Hunter Ellis,1968-07-05,Male,ESTJ,Former Navy Fighter Pilot
+4.0,Survivor: Marquesas,4.0,Sarah,US0052,US,4,US0052,Sarah Jones,1977-08-11,Female,ISFP,Account Manager
+4.0,Survivor: Marquesas,5.0,Gabriel,US0053,US,5,US0053,Gabriel Cade,1978-07-01,Male,INFP,Bartender
+4.0,Survivor: Marquesas,6.0,Gina,US0054,US,6,US0054,Gina Crews,1973-02-07,Female,ISFJ,Nature Guide
+4.0,Survivor: Marquesas,7.0,Boston Rob,US0055,US,7,US0055,Rob Mariano,1975-12-25,Male,ESTJ,Construction Worker
+4.0,Survivor: Marquesas,8.0,John,US0056,US,8,US0056,John Carroll,1965-06-14,Male,ENTJ,Registered Nurse
+4.0,Survivor: Marquesas,10.0,Zoe,US0057,US,9,US0057,Zoe Zanidakis,1966-03-17,Female,ISTJ,Fishing Boat Captain
+4.0,Survivor: Marquesas,11.0,Tammy,US0058,US,10,US0058,Tammy Leitner,1972-07-03,Female,ENFJ,Crime Reporter
+4.0,Survivor: Marquesas,12.0,Robert,US0059,US,11,US0059,Robert DeCanio,1963-06-19,Male,ISTJ,Limousine Driver
+4.0,Survivor: Marquesas,13.0,Sean,US0060,US,12,US0060,Sean Rector,1971-08-20,Male,ENTP,Teacher
+4.0,Survivor: Marquesas,14.0,Paschal,US0061,US,13,US0061,Paschal English,1945-03-05,Male,ISFJ,Judge
+4.0,Survivor: Marquesas,14.0,Kathy,US0062,US,14,US0062,Kathy Vavrick-O'Brien,1955-01-06,Female,ESFJ,Real Estate Agent
+5.0,Survivor: Thailand,1.0,John,US0065,US,1,US0065,John Raymond,1962-02-21,Male,ENFP,Pastor
+5.0,Survivor: Thailand,2.0,Tanya,US0066,US,2,US0066,Tanya Vance,1974-11-29,Female,ESTJ,Social Worker
+5.0,Survivor: Thailand,3.0,Jed,US0067,US,3,US0067,Jed Hildebrand,1976-12-05,Male,ISFP,Dental Student
+5.0,Survivor: Thailand,4.0,Ghandia,US0068,US,4,US0068,Ghandia Johnson,1969-01-03,Female,ESFP,Legal Secretary
+5.0,Survivor: Thailand,5.0,Stephanie,US0069,US,5,US0069,Stephanie Dill,1972-11-15,Female,ISTJ,Firefighter
+5.0,Survivor: Thailand,6.0,Robb,US0070,US,6,US0070,Robert Zbacnik,1978-09-12,Male,ESFP,Bartender
+5.0,Survivor: Thailand,7.0,Shii Ann,US0071,US,7,US0071,Shii Ann Huang,1974-01-24,Female,INTJ,Executive Recruiter
+5.0,Survivor: Thailand,8.0,Erin,US0072,US,8,US0072,Erin Collins,1976-01-07,Female,ESFP,Real Estate Agent
+5.0,Survivor: Thailand,9.0,Ken,US0073,US,9,US0073,Ken Stafford,1972-06-20,Male,ESTJ,Police Officer
+5.0,Survivor: Thailand,10.0,Penny,US0074,US,10,US0074,Penny Ramsey,1975-04-24,Female,ESFJ,Pharmaceutical Sales
+5.0,Survivor: Thailand,12.0,Jake,US0075,US,11,US0075,Jake Billingsley,1941-08-21,Male,ISFJ,Land Broker
+5.0,Survivor: Thailand,13.0,Ted,US0076,US,12,US0076,Ted Rogers Jr.,1964-12-28,Male,ESTP,Software Development Manager
+5.0,Survivor: Thailand,14.0,Helen,US0077,US,13,US0077,Helen Glover,1955-04-28,Female,ISTJ,Navy Swim Instructor
+5.0,Survivor: Thailand,14.0,Jan,US0078,US,14,US0078,Jan Gentry,1948-10-31,Female,ENFP,Teacher
+6.0,Survivor: The Amazon,1.0,Ryan,US0081,US,1,US0081,Ryan Aiken,1979-02-13,Male,ESFP,Model
+6.0,Survivor: The Amazon,2.0,Janet,US0082,US,2,US0082,Janet Koth,1955-11-18,Female,ISFJ,Homemaker
+6.0,Survivor: The Amazon,3.0,Daniel,US0083,US,3,US0083,Daniel Lue,1975-11-29,Male,INFP,Tax Accountant
+6.0,Survivor: The Amazon,4.0,JoAnna,US0084,US,4,US0084,JoAnna Ward,1971-04-29,Female,ISTJ,Guidance Counselor
+6.0,Survivor: The Amazon,5.0,Jeanne,US0085,US,5,US0085,Jeanne Hebert,1962-01-06,Female,ISTJ,Marketing Director
+6.0,Survivor: The Amazon,6.0,Shawna,US0086,US,6,US0086,Shawna Mitchell,1979-07-28,Female,ENFP,Retail Saleswoman
+6.0,Survivor: The Amazon,7.0,Roger,US0087,US,7,US0087,Roger Sexton,1946-09-26,Male,ISTJ,Construction Company V.P.
+6.0,Survivor: The Amazon,8.0,Dave,US0088,US,8,US0088,Dave Johnson,1979-01-16,Male,ISTJ,Rocket Scientist
+6.0,Survivor: The Amazon,9.0,Deena,US0089,US,9,US0089,Deena Bennett,1967-02-12,Female,ENTJ,Deputy District Attorney
+6.0,Survivor: The Amazon,11.0,Alex,US0090,US,10,US0090,Alex Bell,1970-05-16,Male,ENFJ,Triathlon Coach
+6.0,Survivor: The Amazon,12.0,Christy,US0091,US,11,US0091,Christy Smith,1978-09-13,Female,INFP,Children's Adventure Guide
+6.0,Survivor: The Amazon,13.0,Heidi,US0092,US,12,US0092,Heidi Strobel,1978-10-29,Female,ENTJ,Gym Teacher
+6.0,Survivor: The Amazon,14.0,Butch,US0093,US,13,US0093,Butch Lockley,1952-08-28,Male,ISFJ,Principal
+6.0,Survivor: The Amazon,14.0,Rob,US0094,US,14,US0094,Rob Cesternino,1978-10-20,Male,ENTP,Computer Projects Coordinator
+7.0,Survivor: Pearl Islands,1.0,Nicole,US0097,US,1,US0097,Nicole Delma,1978-09-19,Female,INTP,Massage Therapist
+7.0,Survivor: Pearl Islands,2.0,Ryan S.,US0098,US,2,US0098,Ryan Shoulders,1980-03-28,Male,INFP,Produce Clerk
+7.0,Survivor: Pearl Islands,3.0,Lillian,US0099,US,3,US0099,Lillian Morris,1952-04-03,Female,INFP,Scout Troop Leader
+7.0,Survivor: Pearl Islands,4.0,Burton,US0100,US,4,US0100,Burton Roberts,1972-04-10,Male,ISTJ,Marketing Executive
+7.0,Survivor: Pearl Islands,5.0,Michelle,US0101,US,5,US0101,Michelle Tesauro,1981-01-16,Female,ENFP,Student
+7.0,Survivor: Pearl Islands,6.0,Trish,US0102,US,6,US0102,Trish Dunn,1960-10-29,Female,ENFJ,Sales Executive
+7.0,Survivor: Pearl Islands,7.0,Shawn,US0103,US,7,US0103,Shawn Cohen,1974-09-20,Male,ESTP,Advertising Sales
+7.0,Survivor: Pearl Islands,7.0,Osten,US0104,US,8,US0104,Osten Taylor,1975-12-10,Male,ESFP,Equity Trade Manager
+7.0,Survivor: Pearl Islands,8.0,Andrew,US0105,US,9,US0105,Andrew Savage,1963-07-29,Male,ESTJ,Attorney
+7.0,Survivor: Pearl Islands,9.0,Ryan O.,US0106,US,10,US0106,Ryan Opray,1972-08-06,Male,ISFJ,Electrician
+7.0,Survivor: Pearl Islands,10.0,Rupert,US0107,US,11,US0107,Rupert Boneham,1964-01-27,Male,ESFJ,Troubled Teens Mentor
+7.0,Survivor: Pearl Islands,11.0,Tijuana,US0108,US,12,US0108,Tijuana Bradley,1976-07-23,Female,ESFP,Pharmaceutical Sales
+7.0,Survivor: Pearl Islands,12.0,Christa,US0109,US,13,US0109,Christa Hastie,1978-11-06,Female,ESFP,Computer Programmer
+7.0,Survivor: Pearl Islands,13.0,Burton,US0100,US,14,US0100,Burton Roberts,1972-04-10,Male,ISTJ,Marketing Executive
+7.0,Survivor: Pearl Islands,14.0,Darrah,US0110,US,15,US0110,Darrah Johnson,1981-05-19,Female,ISTP,Mortician
+7.0,Survivor: Pearl Islands,14.0,Jonny Fairplay,US0111,US,16,US0111,Jon Dalton,1974-03-11,Male,ENTP,Art Consultant
+8.0,Survivor: All-Stars,1.0,Tina,US0032,US,1,US0032,Tina Wesson,1960-12-26,Female,ESFJ,Personal Nurse;Motivational Speaker
+8.0,Survivor: All-Stars,2.0,Rudy,US0014,US,2,US0014,Rudy Boesch,1928-01-20,Male,ISTJ,Retired Navy SEAL
+8.0,Survivor: All-Stars,4.0,Rob C.,US0094,US,3,US0094,Rob Cesternino,1978-10-20,Male,ENTP,Computer Projects Coordinator
+8.0,Survivor: All-Stars,5.0,Richard,US0016,US,4,US0016,Richard Hatch,1961-04-08,Male,ENTP,Corporate Trainer
+8.0,Survivor: All-Stars,7.0,Colby,US0031,US,5,US0031,Colby Donaldson,1974-04-01,Male,ISTP,Auto Customizer
+8.0,Survivor: All-Stars,8.0,Ethan,US0048,US,6,US0048,Ethan Zohn,1973-11-12,Male,ISFP,Professional Soccer Player;Social Entrepreneur/Keynote Speaker
+8.0,Survivor: All-Stars,10.0,Jerri,US0025,US,7,US0025,Jerri Manthey,1970-09-05,Female,ESFP,Aspiring Actress
+8.0,Survivor: All-Stars,11.0,Lex,US0046,US,8,US0046,Lex van den Berghe,1963-06-18,Male,ENTJ,Marketing Manager
+8.0,Survivor: All-Stars,12.0,Kathy,US0062,US,9,US0062,Kathy Vavrick-O'Brien,1955-01-06,Female,ESFJ,Real Estate Agent
+8.0,Survivor: All-Stars,13.0,Alicia,US0024,US,10,US0024,Alicia Calaway,1968-05-01,Female,ESTJ,Personal Trainer
+8.0,Survivor: All-Stars,14.0,Shii Ann,US0071,US,11,US0071,Shii Ann Huang,1974-01-24,Female,INTJ,Executive Recruiter
+8.0,Survivor: All-Stars,15.0,Tom,US0045,US,12,US0045,Tom Buchanan,1955-10-30,Male,ESTP,Goat Farmer
+8.0,Survivor: All-Stars,16.0,Rupert,US0107,US,13,US0107,Rupert Boneham,1964-01-27,Male,ESFJ,Troubled Teens Mentor
+8.0,Survivor: All-Stars,16.0,Jenna L.,US0009,US,14,US0009,Jenna Lewis,1977-07-16,Female,ENFP,Student
+9.0,Survivor: Vanuatu,1.0,Brook,US0113,US,1,US0113,Brook Geraghty,1976-11-20,Male,INTP,Document Manager
+9.0,Survivor: Vanuatu,2.0,Dolly,US0114,US,2,US0114,Dolly Neely,1978-11-18,Female,ISFP,Sheep Farmer
+9.0,Survivor: Vanuatu,3.0,John P.,US0115,US,3,US0115,John Palyok,1973-05-13,Male,ESTP,Sales Manager
+9.0,Survivor: Vanuatu,3.0,Mia,US0116,US,4,US0116,Mia Galeotalanza,1974-08-17,Female,ESFP,Bookkeeper
+9.0,Survivor: Vanuatu,4.0,Brady,US0117,US,5,US0117,Brady Finta,1970-12-17,Male,ISTJ,FBI Agent
+9.0,Survivor: Vanuatu,5.0,Travis,US0118,US,6,US0118,Travis Sampson,1971-02-19,Male,ISFP,Security Officer
+9.0,Survivor: Vanuatu,6.0,Lisa,US0119,US,7,US0119,Lisa Keiffer,1960-05-03,Female,ESFJ,Real Estate Agent
+9.0,Survivor: Vanuatu,7.0,John K.,US0120,US,8,US0120,John Kenney,1981-09-26,Male,ESFP,Mechanical Bull Operator;Model
+9.0,Survivor: Vanuatu,8.0,Rory,US0121,US,9,US0121,Rory Freeman,1968-10-30,Male,INTP,Housing Case Manager
+9.0,Survivor: Vanuatu,9.0,Lea,US0122,US,10,US0122,Lea Masters,1964-03-28,Male,ESFJ,Drill Sergeant
+9.0,Survivor: Vanuatu,10.0,Chad,US0123,US,11,US0123,James Crittenden,1969-08-08,Male,ESTP,Teacher
+9.0,Survivor: Vanuatu,11.0,Leann,US0124,US,12,US0124,Leann Slaby,1969-07-08,Female,INFJ,Equity Research Assistant
+9.0,Survivor: Vanuatu,12.0,Ami,US0125,US,13,US0125,Ami Cusack,1973-01-25,Female,ENTJ,Coffee Barista;Nanny
+9.0,Survivor: Vanuatu,13.0,Julie,US0126,US,14,US0126,Julie Berry,1980-12-15,Female,INFP,Youth Mentor
+9.0,Survivor: Vanuatu,14.0,Eliza,US0127,US,15,US0127,Eliza Orlins,1982-12-25,Female,ENTJ,Pre-Law Student;Law School Student
+9.0,Survivor: Vanuatu,14.0,Scout,US0128,US,16,US0128,Scout Cloud Lee,1944-11-08,Female,INFJ,Rancher
+10.0,Survivor: Palau,1.0,Jolanda,US0133,US,1,US0133,Jolanda Jones,1965-11-06,Female,ESTJ,Lawyer
+10.0,Survivor: Palau,2.0,Ashlee,US0134,US,2,US0134,Ashlee Ashby,1982-05-02,Female,ISFJ,Student
+10.0,Survivor: Palau,3.0,Jeff,US0135,US,3,US0135,Jeff Wilson,1983-02-09,Male,ESFP,Personal Trainer
+10.0,Survivor: Palau,4.0,Kim,US0136,US,4,US0136,Kimberly Mullen,1979-03-13,Female,INTJ,Graduate Student
+10.0,Survivor: Palau,5.0,Willard,US0137,US,5,US0137,Willard Smith,1947-11-30,Male,INTP,Lawyer
+10.0,Survivor: Palau,5.0,Angie,US0138,US,6,US0138,Angie Jakusz,1980-03-27,Female,INFP,Bartender
+10.0,Survivor: Palau,6.0,James,US0139,US,7,US0139,James Miller,1971-07-08,Male,ESTP,Steelworker
+10.0,Survivor: Palau,7.0,Ibrehem,US0140,US,8,US0140,Ibrehem Rahman,1977-03-04,Male,ISTJ,Waiter
+10.0,Survivor: Palau,8.0,Bobby Jon,US0141,US,9,US0141,Bobby Jon Drinkard,1977-05-10,Male,ISTP,Waiter
+10.0,Survivor: Palau,9.0,Coby,US0142,US,10,US0142,Coby Archa,1972-09-08,Male,ENFP,Hairstylist
+10.0,Survivor: Palau,11.0,Stephenie,US0144,US,11,US0144,Stephenie LaGrossa,1979-12-06,Female,ESTJ,Pharmaceutical Sales Representative
+10.0,Survivor: Palau,12.0,Gregg,US0145,US,12,US0145,Gregg Carey,1977-01-09,Male,INTP,Business Consultant
+10.0,Survivor: Palau,13.0,Caryn,US0146,US,13,US0146,Caryn Groedel,1958-08-13,Female,ISTJ,Civil Rights Lawyer
+10.0,Survivor: Palau,14.0,Jenn,US0147,US,14,US0147,Jennifer Lyon,1972-02-27,Female,ISFP,Nanny
+10.0,Survivor: Palau,14.0,Ian,US0148,US,15,US0148,Ian Rosenberger,1981-08-24,Male,ESFP,Dolphin Trainer
+11.0,Survivor: Guatemala,1.0,Jim,US0151,US,1,US0151,Jim Lynch,1942-01-07,Male,ISTJ,Retired Fire Captain
+11.0,Survivor: Guatemala,2.0,Morgan,US0152,US,2,US0152,Morgan McDevitt,1983-11-24,Female,INFP,Magician's Assistant
+11.0,Survivor: Guatemala,3.0,Brianna,US0153,US,3,US0153,Brianna Varela,1983-10-29,Female,ENFP,Retail Salesperson
+11.0,Survivor: Guatemala,4.0,Brooke,US0154,US,4,US0154,Brooke Struck,1979-07-30,Female,ISTJ,Law Student
+11.0,Survivor: Guatemala,5.0,Blake,US0155,US,5,US0155,Blake Towsley,1981-05-05,Male,ESTP,Real Estate Broker
+11.0,Survivor: Guatemala,6.0,Margaret,US0156,US,6,US0156,Margaret Bobonich,1962-06-05,Female,ESFJ,Nurse Practitioner
+11.0,Survivor: Guatemala,6.0,Brian,US0157,US,7,US0157,Brian Corridan,1983-02-10,Male,ENTP,Ivy League Student
+11.0,Survivor: Guatemala,7.0,Amy,US0158,US,8,US0158,Amy O'Hara,1965-11-02,Female,ESTP,Police Sergeant
+11.0,Survivor: Guatemala,8.0,Brandon,US0159,US,9,US0159,Brandon Bellinger,1983-01-22,Male,ISTP,Farmer
+11.0,Survivor: Guatemala,9.0,Bobby Jon,US0141,US,10,US0141,Bobby Jon Drinkard,1977-05-10,Male,ISTP,Waiter
+11.0,Survivor: Guatemala,10.0,Jamie,US0160,US,11,US0160,Jamie Newton,1981-01-26,Male,ISTP,Water Skiing Instructor
+11.0,Survivor: Guatemala,11.0,Gary,US0161,US,12,US0161,Gary Hogeboom,1958-08-21,Male,INFJ,Ex-NFL Quarterback
+11.0,Survivor: Guatemala,12.0,Judd,US0162,US,13,US0162,Judd Sergeant,1970-09-13,Male,ESTP,Hotel Doorman
+11.0,Survivor: Guatemala,13.0,Cindy,US0163,US,14,US0163,Cindy Hall,1974-06-28,Female,ISFP,Zookeeper
+11.0,Survivor: Guatemala,14.0,Lydia,US0164,US,15,US0164,Lydia Morales,1963-01-19,Female,ISFJ,Fishmonger
+11.0,Survivor: Guatemala,14.0,Rafe,US0165,US,16,US0165,Rafe Judkins,1983-01-08,Male,INFP,Wilderness Guide
+12.0,Survivor: Panama,1.0,Tina,US0167,US,1,US0167,Tina Scheer,1960-11-17,Female,ESTP,Lumberjill
+12.0,Survivor: Panama,2.0,Melinda,US0168,US,2,US0168,Melinda Hyder,1973-05-23,Female,ESFJ,Singer/Entertainer
+12.0,Survivor: Panama,3.0,Misty,US0169,US,3,US0169,Misty Giles,1981-02-25,Female,INTP,Missile Engineer
+12.0,Survivor: Panama,4.0,Ruth Marie,US0170,US,4,US0170,Ruth Marie Milliman,1957-04-11,Female,ISFJ,Real Estate
+12.0,Survivor: Panama,5.0,Bobby,US0171,US,5,US0171,Bobby Mason,1973-08-20,Male,ISTP,Attorney
+12.0,Survivor: Panama,6.0,Dan,US0172,US,6,US0172,Dan Barry,1953-12-30,Male,ISFJ,Astronaut
+12.0,Survivor: Panama,8.0,Nick,US0173,US,7,US0173,Nick Stanbury,1980-07-21,Male,ISFP,Financial Sales
+12.0,Survivor: Panama,9.0,Austin,US0174,US,8,US0174,Austin Carty,1981-04-29,Male,INFP,Writer
+12.0,Survivor: Panama,10.0,Sally,US0175,US,9,US0175,Sally Schumann,1978-12-10,Female,INFP,Social Worker
+12.0,Survivor: Panama,12.0,Courtney,US0177,US,10,US0177,Courtney Marit,1974-05-24,Female,ENFP,Fire Dancer
+12.0,Survivor: Panama,13.0,Shane,US0178,US,11,US0178,Shane Powers,1970-11-28,Male,ESFP,Marketing Executive
+12.0,Survivor: Panama,14.0,Cirie,US0179,US,12,US0179,Cirie Fields,1970-07-18,Female,ENFJ,Nurse
+12.0,Survivor: Panama,15.0,Terry,US0180,US,13,US0180,Terry Deitz,1959-10-10,Male,ESTJ,Pilot
+13.0,Survivor: Cook Islands,1.0,Sekou,US0183,US,1,US0183,Sekou Bunch,1960-09-09,Male,ESFJ,Jazz Musician
+13.0,Survivor: Cook Islands,2.0,Billy,US0184,US,2,US0184,Virgilio Garcia,1970-04-22,Male,INFJ,Heavy Metal Musician
+13.0,Survivor: Cook Islands,3.0,Cecilia,US0185,US,3,US0185,Cecilia Mansilla,1977-01-13,Female,ISTJ,Risk Consultant
+13.0,Survivor: Cook Islands,4.0,J.P.,US0186,US,4,US0186,John Calderon,1975-09-05,Male,ESFP,Volleyball Pro
+13.0,Survivor: Cook Islands,5.0,Stephannie,US0187,US,5,US0187,Stephannie Favor,1970-07-12,Female,ISFJ,Nursing Student
+13.0,Survivor: Cook Islands,6.0,Cao Boi,US0188,US,6,US0188,Anh-Tuan Bui,1964-04-10,Male,ENFP,Nail Salon Manager
+13.0,Survivor: Cook Islands,6.0,Cristina,US0189,US,7,US0189,Cristina Coria,1971-04-18,Female,ISFJ,Police Officer
+13.0,Survivor: Cook Islands,8.0,Jessica,US0190,US,8,US0190,Jessica Smith,1979-01-22,Female,ENFP,Roller Girl
+13.0,Survivor: Cook Islands,9.0,Brad,US0191,US,9,US0191,Brad Virata,1976-11-23,Male,INFJ,Fashion Director
+13.0,Survivor: Cook Islands,10.0,Rebecca,US0192,US,10,US0192,Rebecca Borman,1971-08-31,Female,ISFJ,Make-Up Artist
+13.0,Survivor: Cook Islands,10.0,Jenny,US0193,US,11,US0193,Jenny Guzon-Bae,1970-05-08,Female,ISTJ,Real Estate Agent
+13.0,Survivor: Cook Islands,11.0,Nate,US0194,US,12,US0194,Nathan Gonzalez,1980-07-26,Male,ESTP,Shoe Salesman
+13.0,Survivor: Cook Islands,12.0,Candice,US0195,US,13,US0195,Candice Cody,1982-11-12,Female,ISTJ,Pre-Med Student;Physician/Anesthesiology Resident
+13.0,Survivor: Cook Islands,13.0,Jonathan,US0196,US,14,US0196,Jonathan Penner,1962-03-05,Male,ENTP,Writer
+13.0,Survivor: Cook Islands,14.0,Parvati,US0197,US,15,US0197,Parvati Shallow,1982-09-21,Female,ENFJ,Boxer;Charity Organizer;Yoga Teacher/Life Coach/Speaker
+13.0,Survivor: Cook Islands,15.0,Adam,US0198,US,16,US0198,Adam Gentry,1978-08-21,Male,ESTP,Copier Sales
+13.0,Survivor: Cook Islands,15.0,Sundra,US0199,US,17,US0199,Sundra Oakley,1975-01-02,Female,INFP,Actress
+14.0,Survivor: Fiji,1.0,Jessica,US0203,US,1,US0203,Jessica deBen,1979-04-25,Female,INFJ,Fashion Stylist
+14.0,Survivor: Fiji,2.0,Erica,US0204,US,2,US0204,Erica Durousseau,1979-12-11,Female,ESFP,Non-Profit Fundraiser
+14.0,Survivor: Fiji,3.0,Sylvia,US0205,US,3,US0205,Sylvia Kwan,1954-08-18,Female,ISTJ,Architect
+14.0,Survivor: Fiji,4.0,Liliana,US0207,US,4,US0207,Liliana Gomez,1981-04-05,Female,ISTJ,Loan Officer
+14.0,Survivor: Fiji,5.0,Rita,US0208,US,5,US0208,Rita Verreos,1968-07-19,Female,ISFJ,Single Mom
+14.0,Survivor: Fiji,6.0,Anthony,US0209,US,6,US0209,Anthony Robinson,1974-06-25,Male,INFP,Expert Witness Locator
+14.0,Survivor: Fiji,7.0,Rocky,US0210,US,7,US0210,James Reid,1978-09-11,Male,ESTP,Bartender
+14.0,Survivor: Fiji,8.0,Lisi,US0211,US,8,US0211,Lisette Linares,1970-06-09,Female,ESFP,Customer Service Representative
+14.0,Survivor: Fiji,9.0,Michelle,US0212,US,9,US0212,Michelle Yi,1983-12-02,Female,ENFP,Student
+14.0,Survivor: Fiji,10.0,Edgardo,US0213,US,10,US0213,Edgardo Rivera,1978-10-05,Male,ESTP,Ad Executive
+14.0,Survivor: Fiji,11.0,Mookie,US0214,US,11,US0214,Mookie Lee,1981-11-10,Male,ESFP,Business Consultant
+14.0,Survivor: Fiji,12.0,Alex,US0215,US,12,US0215,Alex Angarita,1978-04-20,Male,ENTJ,Attorney
+14.0,Survivor: Fiji,13.0,Stacy,US0216,US,13,US0216,Stacy Kimball,1979-10-01,Female,INTJ,Web Producer
+14.0,Survivor: Fiji,14.0,Boo,US0217,US,14,US0217,Kenward Bernis,1972-06-21,Male,ISTP,Construction Worker
+14.0,Survivor: Fiji,14.0,Yau-Man,US0218,US,15,US0218,Yau-Man Chan,1952-08-26,Male,INTP,Computer Engineer
+15.0,Survivor: China,1.0,Chicken,US0222,US,1,US0222,Steve Morris,1959-09-02,Male,ISFP,Chicken Farmer
+15.0,Survivor: China,2.0,Ashley,US0223,US,2,US0223,Ashley Massaro,1979-05-26,Female,ESFP,Professional Wrestler
+15.0,Survivor: China,3.0,Leslie,US0224,US,3,US0224,Leslie Nease,1969-03-25,Female,ENFP,Christian Radio Host
+15.0,Survivor: China,4.0,Dave,US0225,US,4,US0225,Dave Cruser,1969-10-26,Male,ESTP,Former Model
+15.0,Survivor: China,5.0,Aaron,US0226,US,5,US0226,Aaron Reisberger,1975-04-25,Male,ISTJ,Surfing Instructor
+15.0,Survivor: China,6.0,Sherea,US0227,US,6,US0227,Sherea Lloyd,1981-07-31,Female,ESFP,Elementary Teacher
+15.0,Survivor: China,7.0,Jaime,US0228,US,7,US0228,Jaime Dugan,1985-06-30,Female,ESFJ,Student
+15.0,Survivor: China,8.0,Jean-Robert,US0229,US,8,US0229,Jean-Robert Bellande,1970-09-17,Male,INTP,Poker Player
+15.0,Survivor: China,9.0,Frosti,US0230,US,9,US0230,Michael Zernow,1987-02-15,Male,ESFP,Student/Athlete
+15.0,Survivor: China,11.0,James,US0231,US,10,US0231,James Clement,1977-03-09,Male,ISTP,Gravedigger
+15.0,Survivor: China,12.0,Erik,US0232,US,11,US0232,Erik Huffman,1981-01-31,Male,ISFP,Musician
+15.0,Survivor: China,13.0,Peih-Gee,US0233,US,12,US0233,Peih-Gee Law,1978-04-07,Female,ENTP,Jeweler
+15.0,Survivor: China,14.0,Denise,US0234,US,13,US0234,Denise Martin,1967-05-05,Female,ISFP,School Lunch Lady
+16.0,Survivor: Micronesia,1.0,Jonny Fairplay,US0111,US,1,US0111,Jon Dalton,1974-03-11,Male,ENTP,Art Consultant
+16.0,Survivor: Micronesia,2.0,Mary,US0238,US,2,US0238,Mary Sartain,1978-11-11,Female,ISFJ,Real Estate Manager
+16.0,Survivor: Micronesia,3.0,Yau-Man,US0218,US,3,US0218,Yau-Man Chan,1952-08-26,Male,INTP,Computer Engineer
+16.0,Survivor: Micronesia,4.0,Mikey B,US0239,US,4,US0239,Michael Bortone,1973-12-29,Male,ENTP,Aspiring Writer
+16.0,Survivor: Micronesia,5.0,Joel,US0240,US,5,US0240,Joel Anderson,1975-06-01,Male,ESTJ,Firefighter
+16.0,Survivor: Micronesia,6.0,Chet,US0241,US,6,US0241,Chet Welch,1959-10-22,Male,INFP,Pageant Coach
+16.0,Survivor: Micronesia,7.0,Tracy,US0243,US,7,US0243,Tracy Hughes-Wolf,1964-07-09,Female,ENFJ,Residential Builder
+16.0,Survivor: Micronesia,8.0,Ami,US0125,US,8,US0125,Ami Cusack,1973-01-25,Female,ENTJ,Coffee Barista;Nanny
+16.0,Survivor: Micronesia,9.0,Eliza,US0127,US,9,US0127,Eliza Orlins,1982-12-25,Female,ENTJ,Pre-Law Student;Law School Student
+16.0,Survivor: Micronesia,10.0,Ozzy,US0201,US,10,US0201,Oscar Lusth,1981-08-23,Male,ISFP,Waiter;Photographer
+16.0,Survivor: Micronesia,11.0,Jason,US0244,US,11,US0244,Jason Siska,1985-03-04,Male,ESFP,Gymnastics Coach
+16.0,Survivor: Micronesia,12.0,Alexis,US0245,US,12,US0245,Alexis Jones,1983-07-06,Female,ENFJ,Motivational Speaker
+16.0,Survivor: Micronesia,13.0,Erik,US0246,US,13,US0246,Erik Reichenbach,1985-11-27,Male,INTP,Ice Cream Scooper;Comic Book Artist
+16.0,Survivor: Micronesia,14.0,Natalie,US0247,US,14,US0247,Natalie Bolton,1975-12-31,Female,INTJ,Personal Trainer
+16.0,Survivor: Micronesia,14.0,Cirie,US0179,US,15,US0179,Cirie Fields,1970-07-18,Female,ENFJ,Nurse
+17.0,Survivor: Gabon,1.0,Michelle,US0248,US,1,US0248,Michelle Chase,1984-03-07,Female,INTP,Music Producer
+17.0,Survivor: Gabon,1.0,Gillian,US0249,US,2,US0249,Gillian Larson,1947-02-24,Female,ENFP,Retired Nurse
+17.0,Survivor: Gabon,2.0,Paloma,US0250,US,3,US0250,Paloma Soto-Castillo,1984-08-24,Female,ENFP,Student
+17.0,Survivor: Gabon,3.0,Jacquie,US0251,US,4,US0251,Jacquie Berg,1982-09-10,Female,ENFJ,Medical Sales
+17.0,Survivor: Gabon,4.0,GC,US0252,US,5,US0252,Danny Brown,1982-07-13,Male,INFP,Maintenance Man
+17.0,Survivor: Gabon,5.0,Kelly,US0253,US,6,US0253,Kelly Czarnecki,1986-04-04,Female,INFP,Retail Sales
+17.0,Survivor: Gabon,6.0,Ace,US0254,US,7,US0254,Ace Gordon,1980-09-03,Male,INTJ,Jewelry Sales and Photographer
+17.0,Survivor: Gabon,6.0,Dan,US0255,US,8,US0255,Dan Kay,1976-06-30,Male,ISFP,Lawyer
+17.0,Survivor: Gabon,7.0,Marcus,US0256,US,9,US0256,Marcus Lehman,1979-10-03,Male,ENTJ,Doctor
+17.0,Survivor: Gabon,8.0,Charlie,US0257,US,10,US0257,Charlie Herschel,1979-05-12,Male,ENFP,Lawyer
+17.0,Survivor: Gabon,9.0,Randy,US0258,US,11,US0258,Randy Bailey,1959-03-31,Male,INTJ,Wedding Videographer
+17.0,Survivor: Gabon,11.0,Corinne,US0259,US,12,US0259,Corinne Kaplan,1979-01-17,Female,ENTJ,Pharmaceutical Sales;Clinical Consultant
+17.0,Survivor: Gabon,12.0,Crystal,US0260,US,13,US0260,Crystal Cox,1979-03-28,Female,ESFP,Former Olympic Athlete
+17.0,Survivor: Gabon,13.0,Ken,US0261,US,14,US0261,Ken Hoang,1985-10-10,Male,INTP,Professional Gamer
+17.0,Survivor: Gabon,13.0,Matty,US0262,US,15,US0262,Matty Whitmore,1978-12-18,Male,ESFP,Personal Trainer
+18.0,Survivor: Tocantins,1.0,Carolina,US0266,US,1,US0266,Carolina Eastwood,1981-10-27,Female,ESTJ,Bartender
+18.0,Survivor: Tocantins,2.0,Candace,US0267,US,2,US0267,Candace Smith,1977-02-01,Female,ISTJ,Attorney
+18.0,Survivor: Tocantins,3.0,Jerry,US0268,US,3,US0268,Jerry Sims,1959-05-18,Male,ISTJ,Sgt - U.S. Army
+18.0,Survivor: Tocantins,4.0,Sandy,US0269,US,4,US0269,Sandy Burgin,1955-07-01,Female,ESFP,Bus Driver
+18.0,Survivor: Tocantins,5.0,Spencer,US0270,US,5,US0270,Spencer Duhm,1989-12-20,Male,INFP,Student
+18.0,Survivor: Tocantins,7.0,Sydney,US0271,US,6,US0271,Sydney Wheeler,1984-05-11,Female,ISFP,Model
+18.0,Survivor: Tocantins,9.0,Brendan,US0273,US,7,US0273,Brendan Synnott,1978-09-28,Male,ENTP,Entrepreneur
+18.0,Survivor: Tocantins,10.0,Tyson,US0274,US,8,US0274,Tyson Apostol,1979-06-17,Male,ESTP,Former Professional Cyclist/Missionary;Shop Manager
+18.0,Survivor: Tocantins,11.0,Sierra,US0275,US,9,US0275,Sierra Reed,1985-09-29,Female,INFP,Model
+18.0,Survivor: Tocantins,12.0,Debbie,US0276,US,10,US0276,Debra Beebe,1962-09-28,Female,ESFJ,Middle School Principal
+18.0,Survivor: Tocantins,13.0,Coach,US0277,US,11,US0277,Benjamin Wade,1971-09-18,Male,ENFJ,Soccer Coach/Musician
+18.0,Survivor: Tocantins,14.0,Taj,US0278,US,12,US0278,Tamara Johnson-George,1971-04-29,Female,ENFJ,Former Pop Star
+18.0,Survivor: Tocantins,14.0,Erinn,US0279,US,13,US0279,Erinn Lobdell,1982-10-21,Female,ENFP,Hairstylist
+19.0,Survivor: Samoa,1.0,Marisa,US0282,US,1,US0282,Marisa Calihan,1983-07-26,Female,INFP,Student
+19.0,Survivor: Samoa,2.0,Betsy,US0284,US,2,US0284,Betsy Bolan,1961-03-20,Female,ESTJ,Police Officer
+19.0,Survivor: Samoa,3.0,Ben,US0285,US,3,US0285,Ben Browning,1980-08-28,Male,ESTP,Bar Manager
+19.0,Survivor: Samoa,4.0,Yasmin,US0286,US,4,US0286,Yasmin Giles,1975-08-29,Female,ESFP,Hairstylist
+19.0,Survivor: Samoa,5.0,Ashley,US0287,US,5,US0287,Ashley Trainer,1987-02-27,Female,ENFP,Spa Sales
+19.0,Survivor: Samoa,7.0,Liz,US0289,US,6,US0289,Elizabeth Kim,1975-11-24,Female,INTP,Urban Planner
+19.0,Survivor: Samoa,8.0,Erik,US0290,US,7,US0290,Erik Cardona,1981-04-13,Male,ENTP,Bartender
+19.0,Survivor: Samoa,9.0,Kelly,US0291,US,8,US0291,Kelly Sharbaugh,1983-12-26,Female,ISFP,Hairstylist
+19.0,Survivor: Samoa,10.0,Laura,US0292,US,9,US0292,Laura Morett,1969-07-30,Female,ENFJ,Office Manager;Fitness Instructor
+19.0,Survivor: Samoa,12.0,John,US0293,US,10,US0293,John Fincher,1983-08-16,Male,INTP,Rocket Scientist
+19.0,Survivor: Samoa,13.0,Dave,US0294,US,11,US0294,Dave Ball,1970-08-13,Male,INTP,Fitness Instructor
+19.0,Survivor: Samoa,13.0,Monica,US0295,US,12,US0295,Monica Padilla,1984-07-14,Female,ENFP,Law Student
+19.0,Survivor: Samoa,14.0,Shambo,US0296,US,13,US0296,Shannon Waters,1964-04-25,Female,ESFP,Sales
+19.0,Survivor: Samoa,15.0,Jaison,US0297,US,14,US0297,Jaison Robinson,1980-09-25,Male,INTJ,Law Student
+19.0,Survivor: Samoa,15.0,Brett,US0298,US,15,US0298,Brett Clouser,1985-12-27,Male,ISFP,T-Shirt Designer
+20.0,Survivor: Heroes vs. Villains,1.0,Sugar,US0263,US,1,US0263,Jessica Kiper,1979-02-22,Female,ENFP,Pin-Up Model
+20.0,Survivor: Heroes vs. Villains,2.0,Stephenie,US0144,US,2,US0144,Stephenie LaGrossa,1979-12-06,Female,ESTJ,Pharmaceutical Sales Representative
+20.0,Survivor: Heroes vs. Villains,3.0,Randy,US0258,US,3,US0258,Randy Bailey,1959-03-31,Male,INTJ,Wedding Videographer
+20.0,Survivor: Heroes vs. Villains,4.0,Cirie,US0179,US,4,US0179,Cirie Fields,1970-07-18,Female,ENFJ,Nurse
+20.0,Survivor: Heroes vs. Villains,5.0,Tom,US0150,US,5,US0150,Tom Westman,1964-01-04,Male,ESTJ,Firefighter;Motivational Speaker
+20.0,Survivor: Heroes vs. Villains,6.0,Tyson,US0274,US,6,US0274,Tyson Apostol,1979-06-17,Male,ESTP,Former Professional Cyclist/Missionary;Shop Manager
+20.0,Survivor: Heroes vs. Villains,6.0,James,US0231,US,7,US0231,James Clement,1977-03-09,Male,ISTP,Gravedigger
+20.0,Survivor: Heroes vs. Villains,7.0,Boston Rob,US0055,US,8,US0055,Rob Mariano,1975-12-25,Male,ESTJ,Construction Worker
+20.0,Survivor: Heroes vs. Villains,8.0,Coach,US0277,US,9,US0277,Benjamin Wade,1971-09-18,Male,ENFJ,Soccer Coach/Musician
+20.0,Survivor: Heroes vs. Villains,9.0,Courtney,US0236,US,10,US0236,Courtney Yates,1981-03-26,Female,ENTP,Waitress
+20.0,Survivor: Heroes vs. Villains,10.0,J.T.,US0281,US,11,US0281,James Thomas Jr.,1984-06-23,Male,ESTP,Cattle Rancher
+20.0,Survivor: Heroes vs. Villains,11.0,Amanda,US0235,US,12,US0235,Amanda Kimmel,1984-08-03,Female,ISFP,Hiking Guide;Aspiring Designer
+20.0,Survivor: Heroes vs. Villains,12.0,Candice,US0195,US,13,US0195,Candice Cody,1982-11-12,Female,ISTJ,Pre-Med Student;Physician/Anesthesiology Resident
+20.0,Survivor: Heroes vs. Villains,12.0,Danielle,US0181,US,14,US0181,Danielle DiLorenzo,1981-06-03,Female,ESFP,Medical Sales Rep.
+20.0,Survivor: Heroes vs. Villains,13.0,Rupert,US0107,US,15,US0107,Rupert Boneham,1964-01-27,Male,ESFJ,Troubled Teens Mentor
+20.0,Survivor: Heroes vs. Villains,14.0,Colby,US0031,US,16,US0031,Colby Donaldson,1974-04-01,Male,ISTP,Auto Customizer
+20.0,Survivor: Heroes vs. Villains,14.0,Jerri,US0025,US,17,US0025,Jerri Manthey,1970-09-05,Female,ESFP,Aspiring Actress
+21.0,Survivor: Nicaragua,1.0,Wendy,US0302,US,1,US0302,Wendy-Jo DeSmidt-Kohlhoff,1961-12-13,Female,ISFP,Goat Rancher
+21.0,Survivor: Nicaragua,2.0,Shannon,US0303,US,2,US0303,Shannon Elkins,1979-12-04,Male,ESTJ,Pest Control Company Owner
+21.0,Survivor: Nicaragua,3.0,Jimmy J.,US0304,US,3,US0304,Jimmy Johnson,1943-07-16,Male,ESFJ,Former NFL Coach
+21.0,Survivor: Nicaragua,4.0,Jimmy T.,US0305,US,4,US0305,James Tarantino,1962-09-07,Male,ESTP,Commercial Fisherman
+21.0,Survivor: Nicaragua,5.0,Tyrone,US0306,US,5,US0306,Tyrone Davis,1967-09-24,Male,ESTJ,Fire Captain
+21.0,Survivor: Nicaragua,6.0,Kelly B.,US0307,US,6,US0307,Kelly Bruno,1984-03-23,Female,ISFP,Medical Student
+21.0,Survivor: Nicaragua,6.0,Yve,US0308,US,7,US0308,Yve Rojas,1969-03-09,Female,ISFJ,Homemaker
+21.0,Survivor: Nicaragua,7.0,Jill,US0309,US,8,US0309,Jill Behm,1967-01-18,Female,ISTJ,ER Doctor
+21.0,Survivor: Nicaragua,8.0,Alina,US0310,US,9,US0310,Alina Wilson,1987-02-20,Female,INFP,Art Student
+21.0,Survivor: Nicaragua,9.0,Marty,US0311,US,10,US0311,Marty Piombo,1961-11-11,Male,ENTJ,Technology Executive
+21.0,Survivor: Nicaragua,10.0,Brenda,US0312,US,11,US0312,Brenda Lowe,1982-11-03,Female,INTJ,Paddleboard Company Owner
+21.0,Survivor: Nicaragua,13.0,Benry,US0315,US,12,US0315,Ben Henry,1986-06-25,Male,ESTP,Club Promoter
+21.0,Survivor: Nicaragua,14.0,Jane,US0316,US,13,US0316,Jane Bright,1953-12-13,Female,ISTP,Dog Trainer
+21.0,Survivor: Nicaragua,15.0,Dan,US0317,US,14,US0317,Dan Lembo,1946-11-05,Male,ISTP,Real Estate Executive
+21.0,Survivor: Nicaragua,15.0,Holly,US0318,US,15,US0318,Holly Hoffman,1966-03-15,Female,ENFJ,Swim Coach
+22.0,Survivor: Redemption Island,1.0,Francesca,US0322,US,1,US0322,Francesca Hogi,1973-11-03,Female,INFJ,Attorney
+22.0,Survivor: Redemption Island,2.0,Matt,US0323,US,2,US0323,Matt Elrod,1988-10-02,Male,INFP,Pre-Med Student
+22.0,Survivor: Redemption Island,3.0,Russell,US0300,US,3,US0300,Russell Hantz,1972-10-10,Male,ESTJ,Oil Company Owner
+22.0,Survivor: Redemption Island,4.0,Kristina,US0324,US,4,US0324,Kristina Kell,1964-12-26,Female,INTP,Law Student
+22.0,Survivor: Redemption Island,5.0,Krista,US0325,US,5,US0325,Krista Klumpp,1985-07-27,Female,ISFP,Pharmaceutical Representative
+22.0,Survivor: Redemption Island,6.0,Stephanie,US0326,US,6,US0326,Stephanie Valencia,1985-02-03,Female,ESFP,Waitress
+22.0,Survivor: Redemption Island,7.0,Sarita,US0327,US,7,US0327,Sarita White,1974-10-02,Female,INTP,Visual Effects Producer
+22.0,Survivor: Redemption Island,8.0,Matt,US0323,US,8,US0323,Matt Elrod,1988-10-02,Male,INFP,Pre-Med Student
+22.0,Survivor: Redemption Island,9.0,Mike,US0328,US,9,US0328,Mike Chiesl,1979-09-15,Male,ISFJ,Iraq War Veteran
+22.0,Survivor: Redemption Island,9.0,David,US0329,US,10,US0329,David Murphy,1979-07-16,Male,INTJ,Defense Attorney
+22.0,Survivor: Redemption Island,10.0,Julie,US0330,US,11,US0330,Julie Wolfe,1960-05-11,Female,ISTJ,Firefighter
+22.0,Survivor: Redemption Island,11.0,Ralph,US0331,US,12,US0331,Ralph Kiser,1965-10-27,Male,ESTP,Farmer
+22.0,Survivor: Redemption Island,11.0,Steve,US0332,US,13,US0332,Steve Wright,1959-04-08,Male,ISFJ,Ex-NFL Player
+22.0,Survivor: Redemption Island,12.0,Andrea,US0333,US,14,US0333,Andrea Boehlke,1989-05-10,Female,ENFP,Student;Entertainment Host/Writer
+22.0,Survivor: Redemption Island,13.0,Grant,US0334,US,15,US0334,Grant Mattos,1981-03-12,Male,ISFP,Ex-NFL Player
+22.0,Survivor: Redemption Island,14.0,Andrea,US0333,US,16,US0333,Andrea Boehlke,1989-05-10,Female,ENFP,Student;Entertainment Host/Writer
+22.0,Survivor: Redemption Island,14.0,Ashley,US0335,US,17,US0335,Ashley Underwood,1985-02-08,Female,ESTP,Nurse
+23.0,Survivor: South Pacific,1.0,Semhar,US0338,US,1,US0338,Semhar Tadesse,1986-09-12,Female,ENFP,Spoken Word Artist
+23.0,Survivor: South Pacific,2.0,Christine,US0339,US,2,US0339,Christine Shields Markoski,1971-06-17,Female,ESTP,Teacher
+23.0,Survivor: South Pacific,3.0,Papa Bear,US0340,US,3,US0340,Mark Caruso,1963-07-07,Male,ESFJ,Retired NYPD Detective
+23.0,Survivor: South Pacific,4.0,Stacey,US0341,US,4,US0341,Stacey Powell,1967-11-21,Female,ISTJ,Mortician
+23.0,Survivor: South Pacific,5.0,Elyse,US0342,US,5,US0342,Elyse Umemoto,1984-05-10,Female,ENFP,Dance Team Manager
+23.0,Survivor: South Pacific,6.0,Mikayla,US0343,US,6,US0343,Mikayla Wingle,1989-05-31,Female,ISFP,Lingerie Football Player
+23.0,Survivor: South Pacific,7.0,Ozzy,US0201,US,7,US0201,Oscar Lusth,1981-08-23,Male,ISFP,Waiter;Photographer
+23.0,Survivor: South Pacific,8.0,Keith,US0344,US,8,US0344,Keith Tollefson,1985-10-01,Male,ISFP,Water Treatment Tech
+23.0,Survivor: South Pacific,9.0,Ozzy,US0201,US,9,US0201,Oscar Lusth,1981-08-23,Male,ISFP,Waiter;Photographer
+23.0,Survivor: South Pacific,9.0,Jim,US0345,US,10,US0345,Jim Rice,1975-09-14,Male,ENTP,Medical Marijuana Dispenser
+23.0,Survivor: South Pacific,10.0,Dawn,US0346,US,11,US0346,Dawn Meehan,1970-06-29,Female,ESFJ,English Professor
+23.0,Survivor: South Pacific,10.0,Whitney,US0347,US,12,US0347,Whitney Duncan,1984-08-03,Female,ESFP,Country Music Singer
+23.0,Survivor: South Pacific,12.0,Cochran,US0348,US,13,US0348,John Cochran,1987-01-17,Male,INTP,Harvard Law Student
+23.0,Survivor: South Pacific,13.0,Edna,US0349,US,14,US0349,Edna Ma,1975-08-22,Female,ISTJ,Anesthesiologist
+23.0,Survivor: South Pacific,14.0,Brandon,US0350,US,15,US0350,Brandon Hantz,1991-10-15,Male,ESFP,Oil Tanker Crewman;Chemical Disposal
+23.0,Survivor: South Pacific,15.0,Rick,US0351,US,16,US0351,Rick Nelson,1959-10-24,Male,ISFJ,Rancher
+23.0,Survivor: South Pacific,15.0,Ozzy,US0201,US,17,US0201,Oscar Lusth,1981-08-23,Male,ISFP,Waiter;Photographer
+24.0,Survivor: One World,2.0,Nina,US0355,US,1,US0355,Nina Acosta,1960-04-03,Female,ISTJ,Retired LAPD Officer
+24.0,Survivor: One World,3.0,Matt,US0356,US,2,US0356,Matt Quinlan,1978-04-05,Male,ENTJ,Attorney
+24.0,Survivor: One World,4.0,Bill,US0357,US,3,US0357,Bill Posley,1983-09-28,Male,ENFP,Stand-Up Comedian
+24.0,Survivor: One World,5.0,Monica,US0358,US,4,US0358,Monica Culpepper,1970-06-15,Female,ESFJ,Ex-NFL Player's Wife;Homemaker
+24.0,Survivor: One World,7.0,Jonas,US0360,US,5,US0360,Jonas Otsuji,1974-03-25,Male,ENTP,Sushi Chef
+24.0,Survivor: One World,8.0,Michael,US0361,US,6,US0361,Michael Jefferson,1981-08-29,Male,ISTJ,Banker
+24.0,Survivor: One World,9.0,Jay,US0362,US,7,US0362,Jay Byars,1986-11-05,Male,ISFP,Model
+24.0,Survivor: One World,10.0,Leif,US0363,US,8,US0363,Leif Manson,1984-02-01,Male,ISFP,Phlebotomist
+24.0,Survivor: One World,11.0,Troyzan,US0364,US,9,US0364,Troy Robertson,1961-07-30,Male,ESFP,Swimsuit Photographer
+24.0,Survivor: One World,12.0,Kat,US0365,US,10,US0365,Kat Edorsson,1989-06-22,Female,ENFP,Timeshare Representative;Full Time Student/Sales
+24.0,Survivor: One World,13.0,Tarzan,US0366,US,11,US0366,Greg Smith,1947-12-12,Male,INTP,Plastic Surgeon
+24.0,Survivor: One World,14.0,Alicia,US0367,US,12,US0367,Alicia Rosa,1987-01-11,Female,ESTJ,Special Education Teacher
+24.0,Survivor: One World,14.0,Christina,US0368,US,13,US0368,Christina Cha,1982-09-26,Female,INFP,Career Consultant
+25.0,Survivor: Philippines,1.0,Zane,US0372,US,1,US0372,Zane Knight,1984-02-20,Male,ENTP,Tire Repair
+25.0,Survivor: Philippines,2.0,Roxy,US0373,US,2,US0373,Roxanne Morris,1984-06-03,Female,ESFP,Seminary Student
+25.0,Survivor: Philippines,3.0,Angie,US0374,US,3,US0374,Angie Layton,1991-10-08,Female,INFP,Student
+25.0,Survivor: Philippines,4.0,Russell,US0288,US,4,US0288,Russell Swan,1967-02-17,Male,ESFJ,Attorney
+25.0,Survivor: Philippines,5.0,Dawson,US0376,US,5,US0376,Sarah Dawson,1983-11-15,Female,ENFP,Insurance Sales
+25.0,Survivor: Philippines,6.0,Katie,US0377,US,6,US0377,Katie Hanson,1989-11-29,Female,ENTP,Former Miss Delaware
+25.0,Survivor: Philippines,7.0,RC,US0378,US,7,US0378,Roberta Saint-Amour,1985-05-10,Female,ENTJ,Investment Banker
+25.0,Survivor: Philippines,8.0,Jeff,US0379,US,8,US0379,Jeff Kent,1968-03-07,Male,ISTP,Retired MLB Player
+25.0,Survivor: Philippines,9.0,Artis,US0380,US,9,US0380,Artis Silvester,1959-04-18,Male,ISTJ,Computer Engineer
+25.0,Survivor: Philippines,10.0,Pete,US0381,US,10,US0381,Peter Yurkowski,1988-03-03,Male,INTP,Engineering Graduate
+25.0,Survivor: Philippines,11.0,Jonathan,US0196,US,11,US0196,Jonathan Penner,1962-03-05,Male,ENTP,Writer
+25.0,Survivor: Philippines,12.0,Carter,US0382,US,12,US0382,Carter Williams,1987-05-26,Male,ISFP,Track Coach
+25.0,Survivor: Philippines,13.0,Abi-Maria,US0383,US,13,US0383,Abi-Maria Gomes,1979-10-21,Female,ESFP,Business Student
+25.0,Survivor: Philippines,14.0,Malcolm,US0384,US,14,US0384,Malcolm Freberg,1987-05-07,Male,ENTP,Bartender
+26.0,Survivor: Caramoan,1.0,Francesca,US0322,US,1,US0322,Francesca Hogi,1973-11-03,Female,INFJ,Attorney
+26.0,Survivor: Caramoan,2.0,Allie,US0387,US,2,US0387,Alexandra Pohevitz,1987-12-24,Female,ESTP,Bartender
+26.0,Survivor: Caramoan,3.0,Hope,US0388,US,3,US0388,Hope Driskill,1989-07-06,Female,ISFP,Pre-Law Student
+26.0,Survivor: Caramoan,4.0,Laura,US0390,US,4,US0390,Laura Alexander,1989-09-12,Female,ENTP,Administrative Officer
+26.0,Survivor: Caramoan,5.0,Brandon,US0350,US,5,US0350,Brandon Hantz,1991-10-15,Male,ESFP,Oil Tanker Crewman;Chemical Disposal
+26.0,Survivor: Caramoan,6.0,Matt,US0391,US,6,US0391,Matt Bischoff,1974-04-04,Male,INFP,BMX Bike Sales
+26.0,Survivor: Caramoan,7.0,Julia,US0392,US,7,US0392,Julia Landauer,1991-11-12,Female,ISTJ,Racecar Driver
+26.0,Survivor: Caramoan,8.0,Corinne,US0259,US,8,US0259,Corinne Kaplan,1979-01-17,Female,ENTJ,Pharmaceutical Sales;Clinical Consultant
+26.0,Survivor: Caramoan,9.0,Michael,US0393,US,9,US0393,Michael Snow,1968-08-30,Male,INFJ,Event Planner
+26.0,Survivor: Caramoan,10.0,Phillip,US0337,US,10,US0337,Phillip Sheppard,1958-03-12,Male,ESTJ,Former Federal Agent;Software Sales
+26.0,Survivor: Caramoan,11.0,Malcolm,US0384,US,11,US0384,Malcolm Freberg,1987-05-07,Male,ENTP,Bartender
+26.0,Survivor: Caramoan,12.0,Reynold,US0394,US,12,US0394,Reynold Toepfer,1982-10-06,Male,ESTP,Real Estate Sales
+26.0,Survivor: Caramoan,12.0,Andrea,US0333,US,13,US0333,Andrea Boehlke,1989-05-10,Female,ENFP,Student;Entertainment Host/Writer
+26.0,Survivor: Caramoan,13.0,Brenda,US0312,US,14,US0312,Brenda Lowe,1982-11-03,Female,INTJ,Paddleboard Company Owner
+26.0,Survivor: Caramoan,14.0,Eddie,US0395,US,15,US0395,Edward Fox,1989-04-15,Male,ESFP,Fireman/EMT
+27.0,Survivor: Blood vs. Water,1.0,Laura B.,US0397,US,1,US0397,Laura Boneham,1968-08-29,Female,,Merchandiser
+27.0,Survivor: Blood vs. Water,1.0,Candice,US0195,US,2,US0195,Candice Cody,1982-11-12,Female,ISTJ,Pre-Med Student;Physician/Anesthesiology Resident
+27.0,Survivor: Blood vs. Water,1.0,Marissa,US0398,US,3,US0398,Marissa Peterson,1991-09-25,Female,ESTJ,Student
+27.0,Survivor: Blood vs. Water,2.0,Rachel,US0399,US,4,US0399,Rachel Foulger,1979-07-28,Female,ISFJ,Cocktail Waitress/Graphic Designer
+27.0,Survivor: Blood vs. Water,3.0,John,US0400,US,5,US0400,John Cody,1983-05-12,Male,ISFJ,"Physician, Army Orthopedic Surgery Resident"
+27.0,Survivor: Blood vs. Water,4.0,Brad,US0401,US,6,US0401,Brad Culpepper,1969-05-08,Male,ESTJ,Attorney/Retired NFL Player
+27.0,Survivor: Blood vs. Water,5.0,Laura M.,US0292,US,7,US0292,Laura Morett,1969-07-30,Female,ENFJ,Office Manager;Fitness Instructor
+27.0,Survivor: Blood vs. Water,6.0,Kat,US0365,US,8,US0365,Kat Edorsson,1989-06-22,Female,ENFP,Timeshare Representative;Full Time Student/Sales
+27.0,Survivor: Blood vs. Water,7.0,Laura B.,US0397,US,9,US0397,Laura Boneham,1968-08-29,Female,,Merchandiser
+27.0,Survivor: Blood vs. Water,8.0,Aras,US0182,US,10,US0182,Aras Baskauskas,1981-09-26,Male,INFP,Yoga Instructor;Musician
+27.0,Survivor: Blood vs. Water,9.0,Vytas,US0402,US,11,US0402,Vytas Baskauskas,1979-12-08,Male,INFJ,Yoga Instructor/Math Professor
+27.0,Survivor: Blood vs. Water,9.0,Tina,US0032,US,12,US0032,Tina Wesson,1960-12-26,Female,ESFJ,Personal Nurse;Motivational Speaker
+27.0,Survivor: Blood vs. Water,10.0,Laura M.,US0292,US,13,US0292,Laura Morett,1969-07-30,Female,ENFJ,Office Manager;Fitness Instructor
+27.0,Survivor: Blood vs. Water,11.0,Caleb,US0403,US,14,US0403,Caleb Bankston,1987-03-26,Male,ISTP,Post Office Manager/Farmer
+27.0,Survivor: Blood vs. Water,12.0,Katie,US0404,US,15,US0404,Katie Collins,1987-06-27,Female,INTP,Hedge Fund Support
+27.0,Survivor: Blood vs. Water,13.0,Hayden,US0405,US,16,US0405,Hayden Moss,1986-05-27,Male,ESFP,Real Estate
+27.0,Survivor: Blood vs. Water,14.0,Ciera,US0406,US,17,US0406,Ciera Eastin,1989-03-05,Female,INFP,Cosmetology Student
+27.0,Survivor: Blood vs. Water,14.0,Tina,US0032,US,18,US0032,Tina Wesson,1960-12-26,Female,ESFJ,Personal Nurse;Motivational Speaker
+28.0,Survivor: Cagayan,1.0,David,US0407,US,1,US0407,David Samson,1968-02-26,Male,ENTJ,Miami Marlins President
+28.0,Survivor: Cagayan,1.0,Garrett,US0408,US,2,US0408,Garrett Adelstein,1986-05-16,Male,INTP,Pro Poker Player
+28.0,Survivor: Cagayan,2.0,Brice,US0409,US,3,US0409,Brice Johnston,1986-02-20,Male,ENFP,Social Worker
+28.0,Survivor: Cagayan,3.0,J'Tia,US0410,US,4,US0410,J'Tia Taylor,1981-09-01,Female,ENTJ,Nuclear Engineer
+28.0,Survivor: Cagayan,4.0,Cliff,US0411,US,5,US0411,Cliff Robinson,1966-12-16,Male,ISTP,Former NBA All-Star
+28.0,Survivor: Cagayan,5.0,Alexis,US0413,US,6,US0413,Alexis Maxwell,1992-03-17,Female,ENFP,Student
+28.0,Survivor: Cagayan,6.0,Sarah,US0414,US,7,US0414,Sarah Lacina,1984-07-09,Female,ENTJ,Police Officer
+28.0,Survivor: Cagayan,7.0,Morgan,US0415,US,8,US0415,Morgan McLeod,1992-07-09,Female,ISFP,Ex-NFL Cheerleader
+28.0,Survivor: Cagayan,8.0,LJ,US0416,US,9,US0416,LJ McKanas,1979-01-08,Male,ISTP,Horse Trainer
+28.0,Survivor: Cagayan,9.0,Jeremiah,US0417,US,10,US0417,Jeremiah Wood,1979-06-15,Male,ISFP,Male Model
+28.0,Survivor: Cagayan,10.0,Jefra,US0418,US,11,US0418,Jefra Bland,1990-07-02,Female,ISFJ,Miss Kentucky Teen USA
+28.0,Survivor: Cagayan,11.0,Tasha,US0419,US,12,US0419,Latasha Fox,1977-01-03,Female,ENFJ,Accountant
+28.0,Survivor: Cagayan,12.0,Trish,US0420,US,13,US0420,Trish Hegarty,1965-10-09,Female,ENFJ,Pilates Trainer
+28.0,Survivor: Cagayan,13.0,Spencer,US0421,US,14,US0421,Spencer Bledsoe,1992-06-12,Male,INTJ,Economics Student
+28.0,Survivor: Cagayan,13.0,Kass,US0422,US,15,US0422,Kassandra McQuillen,1971-11-08,Female,INTJ,Attorney
+29.0,Survivor: San Juan del Sur,1.0,Nadiya,US0425,US,1,US0425,Nadiya Anderson,1986-04-11,Female,ESFP,Crossfit Coach/Project Coordinator
+29.0,Survivor: San Juan del Sur,2.0,Val,US0426,US,2,US0426,Val Collins,1978-11-08,Female,INTJ,Foxboro Police Officer
+29.0,Survivor: San Juan del Sur,3.0,John,US0427,US,3,US0427,John Rocker,1974-10-17,Male,ESTP,Former MLB Player
+29.0,Survivor: San Juan del Sur,4.0,Drew,US0428,US,4,US0428,Drew Christy,1989-05-18,Male,ESTP,Traveling Sales Representative
+29.0,Survivor: San Juan del Sur,5.0,Kelley,US0429,US,5,US0429,Kelley Wentworth,1986-06-07,Female,ENTP,Marketing Manager
+29.0,Survivor: San Juan del Sur,6.0,Dale,US0430,US,6,US0430,Dale Wentworth,1959-03-07,Male,ISTJ,Farmer
+29.0,Survivor: San Juan del Sur,8.0,Josh,US0432,US,7,US0432,Josh Canfield,1981-07-01,Male,INFJ,Singer/Actor/Writer
+29.0,Survivor: San Juan del Sur,9.0,Jeremy,US0433,US,8,US0433,Jeremy Collins,1978-04-16,Male,ESTJ,Cambridge Firefighter
+29.0,Survivor: San Juan del Sur,10.0,Wes,US0434,US,9,US0434,Wes Nale,1990-06-19,Male,ISTP,Firefighter
+29.0,Survivor: San Juan del Sur,11.0,Reed,US0435,US,10,US0435,Reed Kelly,1982-09-05,Male,ENTJ,Broadway Performer/Model/Aerialist
+29.0,Survivor: San Juan del Sur,12.0,Alec,US0436,US,11,US0436,Alec Christy,1991-09-07,Male,ISFP,Student
+29.0,Survivor: San Juan del Sur,13.0,Jon,US0437,US,12,US0437,Jon Misch,1988-03-29,Male,ESFP,Financial Assistant
+29.0,Survivor: San Juan del Sur,14.0,Baylor,US0438,US,13,US0438,Baylor Wilson,1994-01-25,Female,ESFP,Student
+29.0,Survivor: San Juan del Sur,14.0,Keith,US0439,US,14,US0439,Keith Nale,1960-08-16,Male,ISTP,Fire Captain
+30.0,Survivor: Worlds Apart,1.0,So,US0443,US,1,US0443,So Kim,1983-01-13,Female,INTJ,Retail Buyer
+30.0,Survivor: Worlds Apart,2.0,Vince,US0444,US,2,US0444,Vince Sly,1982-02-16,Male,INFP,Coconut Vendor
+30.0,Survivor: Worlds Apart,3.0,Nina,US0445,US,3,US0445,Nina Poersch,1963-01-17,Female,ISFJ,Hearing Advocate
+30.0,Survivor: Worlds Apart,4.0,Lindsey,US0446,US,4,US0446,Lindsey Cascaddan,1989-08-24,Female,ENFP,Hairdresser
+30.0,Survivor: Worlds Apart,5.0,Max,US0447,US,5,US0447,Max Dawson,1977-03-31,Male,ENTP,Media Consultant
+30.0,Survivor: Worlds Apart,6.0,Joaquin,US0448,US,6,US0448,Joaquin Souberbielle,1986-08-16,Male,ISTP,Marketing Director
+30.0,Survivor: Worlds Apart,7.0,Kelly,US0449,US,7,US0449,Kelly Remington,1970-04-27,Female,ISTJ,State Trooper
+30.0,Survivor: Worlds Apart,8.0,Hali,US0450,US,8,US0450,Hali Ford,1989-07-20,Female,INFP,Law Student
+30.0,Survivor: Worlds Apart,9.0,Joe,US0451,US,9,US0451,Joe Anglim,1988-09-30,Male,ISFP,Jewelry Designer;Multimedia Artist
+30.0,Survivor: Worlds Apart,10.0,Jenn,US0452,US,10,US0452,Jenn Brown,1992-01-27,Female,ESTP,Sailing Instructor
+30.0,Survivor: Worlds Apart,11.0,Shirin,US0453,US,11,US0453,Shirin Oskooi,1983-02-25,Female,ENFP,Yahoo! Executive
+30.0,Survivor: Worlds Apart,12.0,Tyler,US0454,US,12,US0454,Tyler Fredrickson,1981-02-26,Male,ENFP,Ex-Talent Agent Assistant
+30.0,Survivor: Worlds Apart,13.0,Dan,US0455,US,13,US0455,Dan Foley,1967-02-05,Male,ESTJ,Postal Worker
+30.0,Survivor: Worlds Apart,14.0,Sierra,US0456,US,14,US0456,Sierra Dawn Thomas,1986-12-18,Female,ISFJ,Barrel Racer
+30.0,Survivor: Worlds Apart,14.0,Rodney,US0457,US,15,US0457,Rodney Lavoie Jr.,1989-09-02,Male,ESTJ,General Contractor
+31.0,Survivor: Cambodia,1.0,Vytas,US0402,US,1,US0402,Vytas Baskauskas,1979-12-08,Male,INFJ,Yoga Instructor/Math Professor
+31.0,Survivor: Cambodia,2.0,Shirin,US0453,US,2,US0453,Shirin Oskooi,1983-02-25,Female,ENFP,Yahoo! Executive
+31.0,Survivor: Cambodia,3.0,Peih-Gee,US0233,US,3,US0233,Peih-Gee Law,1978-04-07,Female,ENTP,Jeweler
+31.0,Survivor: Cambodia,4.0,Jeff,US0023,US,4,US0023,Jeff Varner,1966-04-16,Male,ENFP,Internet Projects Manager
+31.0,Survivor: Cambodia,5.0,Monica,US0295,US,5,US0295,Monica Padilla,1984-07-14,Female,ENFP,Law Student
+31.0,Survivor: Cambodia,6.0,Woo,US0423,US,6,US0423,Yung Hwang,1984-03-16,Male,ISFP,Martial Arts Instructor
+31.0,Survivor: Cambodia,7.0,Kass,US0422,US,7,US0422,Kassandra McQuillen,1971-11-08,Female,INTJ,Attorney
+31.0,Survivor: Cambodia,8.0,Andrew,US0105,US,8,US0105,Andrew Savage,1963-07-29,Male,ESTJ,Attorney
+31.0,Survivor: Cambodia,9.0,Kelly,US0015,US,9,US0015,Kelly Wiglesworth,1977-06-24,Female,ISFP,River Guide
+31.0,Survivor: Cambodia,10.0,Ciera,US0406,US,10,US0406,Ciera Eastin,1989-03-05,Female,INFP,Cosmetology Student
+31.0,Survivor: Cambodia,11.0,Stephen,US0280,US,11,US0280,Stephen Fishbach,1979-01-24,Male,INTP,Corporate Consultant
+31.0,Survivor: Cambodia,12.0,Joe,US0451,US,12,US0451,Joe Anglim,1988-09-30,Male,ISFP,Jewelry Designer;Multimedia Artist
+31.0,Survivor: Cambodia,13.0,Abi-Maria,US0383,US,13,US0383,Abi-Maria Gomes,1979-10-21,Female,ESFP,Business Student
+31.0,Survivor: Cambodia,14.0,Kimmi,US0021,US,14,US0021,Kimmi Kappenberg,1972-11-11,Female,ENFP,Bartender
+31.0,Survivor: Cambodia,14.0,Keith,US0439,US,15,US0439,Keith Nale,1960-08-16,Male,ISTP,Fire Captain
+31.0,Survivor: Cambodia,14.0,Kelley,US0429,US,16,US0429,Kelley Wentworth,1986-06-07,Female,ENTP,Marketing Manager
+32.0,Survivor: Kaoh Rong,1.0,Darnell,US0461,US,1,US0461,Darnell Hamilton,1988-02-08,Male,ISFP,Postal Worker
+32.0,Survivor: Kaoh Rong,2.0,Jennifer,US0462,US,2,US0462,Jennifer Lanzetti,1977-07-14,Female,ESTP,Contractor
+32.0,Survivor: Kaoh Rong,3.0,Liz,US0463,US,3,US0463,Elisabeth Markham,1988-08-14,Female,INTJ,Quantitative Strategist
+32.0,Survivor: Kaoh Rong,4.0,Alecia,US0465,US,4,US0465,Alecia Holden,1991-08-03,Female,ESFP,Real Estate Agent
+32.0,Survivor: Kaoh Rong,5.0,Anna,US0466,US,5,US0466,Anna Khait,1988-09-17,Female,ENFP,Pro Poker Player
+32.0,Survivor: Kaoh Rong,6.0,Peter,US0467,US,6,US0467,Peter Baggenstos,1980-07-21,Male,ENTJ,ER Doctor
+32.0,Survivor: Kaoh Rong,8.0,Nick,US0469,US,7,US0469,Nick Maiorano,1985-01-28,Male,INTP,Personal Trainer
+32.0,Survivor: Kaoh Rong,9.0,Debbie,US0470,US,8,US0470,Debbie Wanner,1965-11-21,Female,ENTP,Chemist
+32.0,Survivor: Kaoh Rong,10.0,Scot,US0471,US,9,US0471,Scot Pollard,1975-02-12,Male,ESTJ,Former NBA Champion
+32.0,Survivor: Kaoh Rong,11.0,Julia,US0472,US,10,US0472,Julia Sokolowski,1996-04-08,Female,ENFP,College Student
+32.0,Survivor: Kaoh Rong,12.0,Jason,US0473,US,11,US0473,Kyle Jason,1984-07-16,Male,ESTJ,Bounty Hunter
+32.0,Survivor: Kaoh Rong,14.0,Cydney,US0475,US,12,US0475,Cydney Gillon,1992-09-14,Female,ISTP,Bodybuilder
+33.0,Survivor: Millennials vs. Gen X,1.0,Rachel,US0479,US,1,US0479,Rachel Ako,1978-09-08,Female,ENFP,Recruiting Director
+33.0,Survivor: Millennials vs. Gen X,2.0,Mari,US0480,US,2,US0480,Mari Takahashi,1984-11-02,Female,ESFP,Gamer
+33.0,Survivor: Millennials vs. Gen X,3.0,Paul,US0481,US,3,US0481,Paul Wachter,1963-10-10,Male,ESTJ,Boat Mechanic
+33.0,Survivor: Millennials vs. Gen X,4.0,Lucy,US0482,US,4,US0482,Lucy Huang,1973-09-22,Female,ISTJ,Dietician
+33.0,Survivor: Millennials vs. Gen X,5.0,CeCe,US0483,US,5,US0483,Ciandre Taylor,1977-03-02,Female,ISFJ,Insurance Adjuster
+33.0,Survivor: Millennials vs. Gen X,6.0,Figgy,US0484,US,6,US0484,Jessica Figueroa,1992-12-12,Female,ESFP,Bartender
+33.0,Survivor: Millennials vs. Gen X,7.0,Michaela,US0485,US,7,US0485,Michaela Bradshaw,1990-12-01,Female,ISTJ,Vacation Club Sales
+33.0,Survivor: Millennials vs. Gen X,8.0,Michelle,US0486,US,8,US0486,Michelle Schubert,1988-03-11,Female,INFP,Missionary Recruiter
+33.0,Survivor: Millennials vs. Gen X,9.0,Taylor,US0487,US,9,US0487,Taylor Lee Stocker,1991-11-20,Male,INFP,Snowboard Instructor
+33.0,Survivor: Millennials vs. Gen X,10.0,Chris,US0488,US,10,US0488,Chris Hammons,1978-04-01,Male,ISTJ,Trial Lawyer
+33.0,Survivor: Millennials vs. Gen X,10.0,Jessica,US0489,US,11,US0489,Jessica Lewis,1979-02-24,Female,ENFJ,Assistant District Attorney
+33.0,Survivor: Millennials vs. Gen X,11.0,Zeke,US0490,US,12,US0490,Zeke Smith,1988-01-25,Male,INTP,Asset Manager
+33.0,Survivor: Millennials vs. Gen X,12.0,Will,US0491,US,13,US0491,Will Wahl,1997-08-12,Male,INTP,High School Student
+33.0,Survivor: Millennials vs. Gen X,12.0,Sunday,US0492,US,14,US0492,Sunday Burquest,1971-02-06,Female,ENFJ,Youth Pastor
+33.0,Survivor: Millennials vs. Gen X,13.0,Jay,US0493,US,15,US0493,Justin Starrett,1989-06-03,Male,ESTP,Real Estate Agent
+33.0,Survivor: Millennials vs. Gen X,13.0,Bret,US0494,US,16,US0494,Bret LaBelle,1973-08-20,Male,ESFJ,Police Sergeant
+33.0,Survivor: Millennials vs. Gen X,13.0,David,US0495,US,17,US0495,David Wright,1974-02-28,Male,INFP,Television Writer
+34.0,Survivor: Game Changers,1.0,Ciera,US0406,US,1,US0406,Ciera Eastin,1989-03-05,Female,INFP,Cosmetology Student
+34.0,Survivor: Game Changers,1.0,Tony,US0424,US,2,US0424,Tony Vlachos,1973-09-10,Male,ESTP,Police Officer
+34.0,Survivor: Game Changers,2.0,Caleb,US0464,US,3,US0464,Caleb Reynolds,1987-11-27,Male,ESFP,Army Veteran
+34.0,Survivor: Game Changers,3.0,Malcolm,US0384,US,4,US0384,Malcolm Freberg,1987-05-07,Male,ENTP,Bartender
+34.0,Survivor: Game Changers,4.0,J.T.,US0281,US,5,US0281,James Thomas Jr.,1984-06-23,Male,ESTP,Cattle Rancher
+34.0,Survivor: Game Changers,5.0,Sandra,US0112,US,6,US0112,Sandra Diaz-Twine,1974-07-30,Female,ESTP,Office Assistant;Case Manager
+34.0,Survivor: Game Changers,6.0,Jeff,US0023,US,7,US0023,Jeff Varner,1966-04-16,Male,ENFP,Internet Projects Manager
+34.0,Survivor: Game Changers,7.0,Hali,US0450,US,8,US0450,Hali Ford,1989-07-20,Female,INFP,Law Student
+34.0,Survivor: Game Changers,7.0,Ozzy,US0201,US,9,US0201,Oscar Lusth,1981-08-23,Male,ISFP,Waiter;Photographer
+34.0,Survivor: Game Changers,8.0,Debbie,US0470,US,10,US0470,Debbie Wanner,1965-11-21,Female,ENTP,Chemist
+34.0,Survivor: Game Changers,9.0,Zeke,US0490,US,11,US0490,Zeke Smith,1988-01-25,Male,INTP,Asset Manager
+34.0,Survivor: Game Changers,10.0,Sierra,US0456,US,12,US0456,Sierra Dawn Thomas,1986-12-18,Female,ISFJ,Barrel Racer
+34.0,Survivor: Game Changers,11.0,Andrea,US0333,US,13,US0333,Andrea Boehlke,1989-05-10,Female,ENFP,Student;Entertainment Host/Writer
+34.0,Survivor: Game Changers,11.0,Michaela,US0485,US,14,US0485,Michaela Bradshaw,1990-12-01,Female,ISTJ,Vacation Club Sales
+34.0,Survivor: Game Changers,12.0,Cirie,US0179,US,15,US0179,Cirie Fields,1970-07-18,Female,ENFJ,Nurse
+34.0,Survivor: Game Changers,12.0,Aubry,US0477,US,16,US0477,Aubry Bracco,1985-11-14,Female,INFJ,Social Media Marketer;Marketing Director
+34.0,Survivor: Game Changers,12.0,Tai,US0476,US,17,US0476,Tai Trang,1964-03-23,Male,INFP,Gardener
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,1.0,Katrina,US0499,US,1,US0499,Katrina Radke,1970-12-17,Female,ENFP,Olympian
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,2.0,Simone,US0500,US,2,US0500,Simone Nguyen,1991-05-31,Female,INTP,Diversity Advocate
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,3.0,Patrick,US0501,US,3,US0501,Patrick Bolton,1992-03-06,Male,ESTP,Small Business Owner
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,4.0,Alan,US0502,US,4,US0502,Alan Ball,1985-03-29,Male,ISTP,NFL Player
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,5.0,Roark,US0503,US,5,US0503,Roark Luskin,1989-11-30,Female,ENTP,Social Worker
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,6.0,Ali,US0504,US,6,US0504,Alexandrea Elliott,1992-11-13,Female,INFJ,Celebrity Assistant
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,7.0,Jessica,US0505,US,7,US0505,Jessica Johnston,1987-04-05,Female,ENFP,Nurse Practitioner
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,8.0,Desi,US0506,US,8,US0506,Desiree Williams,1989-06-14,Female,ESFJ,Phyiscal Therapist
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,9.0,Cole,US0507,US,9,US0507,Cole Medders,1992-09-18,Male,ISFP,Wilderness Therapy Guide
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,10.0,JP,US0508,US,10,US0508,John Hilsabeck,1988-06-22,Male,ISFP,Firefighter
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,10.0,Joe,US0509,US,11,US0509,Joe Mena,1983-03-15,Male,ESTJ,Probation Officer
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,11.0,Lauren,US0510,US,12,US0510,Lauren Rimmer,1982-03-06,Female,ISTJ,Fisherman
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,12.0,Ashley,US0511,US,13,US0511,Ashley Nolan,1990-09-17,Female,ESFP,Lifeguard
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,13.0,Mike,US0512,US,14,US0512,Mike Zahalsky,1973-09-11,Male,ENFP,Urologist
+35.0,Survivor: Heroes vs. Healers vs. Hustlers,13.0,Devon,US0513,US,15,US0513,Devon Pinto,1993-03-06,Male,INFJ,Surf Instructor
+36.0,Survivor: Ghost Island,1.0,Gonzalez,US0517,US,1,US0517,Stephanie Gonzalez,1991-04-22,Female,ESTJ,Graphic Sales
+36.0,Survivor: Ghost Island,1.0,Jacob,US0518,US,2,US0518,Jacob Derwin,1995-06-01,Male,INFP,Music Teacher
+36.0,Survivor: Ghost Island,2.0,Morgan,US0519,US,3,US0519,Morgan Ricke,1987-08-07,Female,ENFP,Marine Animal Trainer
+36.0,Survivor: Ghost Island,3.0,Brendan,US0520,US,4,US0520,Brendan Shapiro,1976-06-17,Male,ENFJ,Physical Education Teacher
+36.0,Survivor: Ghost Island,4.0,Stephanie,US0521,US,5,US0521,Stephanie Johnson,1982-09-10,Female,ENFP,Yoga Instructor
+36.0,Survivor: Ghost Island,5.0,James,US0522,US,6,US0522,James Lim,1993-03-17,Male,INTJ,Business Analyst
+36.0,Survivor: Ghost Island,6.0,Bradley,US0523,US,7,US0523,Bradley Kleihege,1990-09-14,Male,ENTJ,Law Student
+36.0,Survivor: Ghost Island,7.0,Chris,US0524,US,8,US0524,Chris Noble,1989-12-04,Male,ESTJ,Male Model
+36.0,Survivor: Ghost Island,8.0,Libby,US0525,US,9,US0525,Libby Vincek,1992-08-24,Female,ESFJ,Social Media Strategist
+36.0,Survivor: Ghost Island,9.0,Desiree,US0526,US,10,US0526,Desiree Afuye,1996-02-03,Female,ESFP,Student
+36.0,Survivor: Ghost Island,10.0,Jenna,US0527,US,11,US0527,Jenna Bowman,1993-11-10,Female,ISTJ,Advertising Account Executive
+36.0,Survivor: Ghost Island,10.0,Michael,US0528,US,12,US0528,Michael Yerger,1998-07-20,Male,INFJ,Real Estate Agent
+36.0,Survivor: Ghost Island,11.0,Chelsea,US0529,US,13,US0529,Chelsea Townsend,1992-05-25,Female,ISFP,EMT/Pro Cheerleader
+36.0,Survivor: Ghost Island,12.0,Kellyn,US0530,US,14,US0530,Kellyn Bechtold,1986-11-01,Female,ESFJ,Career Counselor
+36.0,Survivor: Ghost Island,13.0,Sebastian,US0531,US,15,US0531,Sebastian Noel,1994-07-20,Male,ESFP,Fishing Guide
+36.0,Survivor: Ghost Island,13.0,Donathan,US0532,US,16,US0532,Donathan Hurley,1991-07-19,Male,ENFP,Caretaker
+36.0,Survivor: Ghost Island,13.0,Angela,US0533,US,17,US0533,Angela Perkins,1974-11-02,Female,ISTJ,Army Veteran
+37.0,Survivor: David vs. Goliath,2.0,Jessica,US0538,US,1,US0538,Jessica Peet,1998-10-22,Female,ENFP,Waitress
+37.0,Survivor: David vs. Goliath,3.0,Jeremy,US0539,US,2,US0539,Jeremy Crawford,1978-04-26,Male,ENFJ,Attorney
+37.0,Survivor: David vs. Goliath,4.0,Natalia,US0541,US,3,US0541,Natalia Azoqa,1992-04-02,Female,ESTJ,Industrial Engineer
+37.0,Survivor: David vs. Goliath,5.0,Natalie,US0542,US,4,US0542,Natalie Cole,1961-02-26,Female,ESTJ,Publishing CEO
+37.0,Survivor: David vs. Goliath,6.0,Lyrsa,US0543,US,5,US0543,Lyrsa Torres,1981-09-12,Female,ISFP,Airline Agent
+37.0,Survivor: David vs. Goliath,7.0,Elizabeth,US0544,US,6,US0544,Elizabeth Olson,1987-01-22,Female,ESTP,Kitchen Staff
+37.0,Survivor: David vs. Goliath,8.0,John,US0545,US,7,US0545,John Hennigan,1979-10-03,Male,INFJ,Pro Wrestler
+37.0,Survivor: David vs. Goliath,9.0,Dan,US0546,US,8,US0546,Dan Rengering,1990-04-07,Male,ESFP,S.W.A.T. Officer
+37.0,Survivor: David vs. Goliath,10.0,Alec,US0547,US,9,US0547,Alec Merlino,1993-10-15,Male,ESFP,Bartender
+37.0,Survivor: David vs. Goliath,10.0,Carl,US0548,US,10,US0548,Carl Boudreaux,1976-10-29,Male,ISFJ,Truck Driver
+37.0,Survivor: David vs. Goliath,11.0,Gabby,US0549,US,11,US0549,Gabby Pascuzzi,1993-03-23,Female,INFP,Technical Writer
+37.0,Survivor: David vs. Goliath,12.0,Christian,US0550,US,12,US0550,Christian Hubicki,1985-12-06,Male,ENFP,Robotics Scientist
+37.0,Survivor: David vs. Goliath,13.0,Davie,US0551,US,13,US0551,Davie Rickenbacker,1987-09-14,Male,ENFP,Social Media Manager
+37.0,Survivor: David vs. Goliath,13.0,Alison,US0552,US,14,US0552,Alison Raybould,1989-07-12,Female,ENFJ,Physician
+37.0,Survivor: David vs. Goliath,13.0,Kara,US0553,US,15,US0553,Kara Kay,1987-11-20,Female,ENFJ,Realtor
+38.0,Survivor: Edge of Extinction,1.0,Reem,US0557,US,1,US0557,Reem Daly,1971-07-08,Female,ESTP,Sales Representative
+38.0,Survivor: Edge of Extinction,2.0,Keith,US0558,US,2,US0558,Keith Sowell,1998-07-16,Male,INFP,Pre-Med Student
+38.0,Survivor: Edge of Extinction,3.0,Chris,US0559,US,3,US0559,Chris Underwood,1992-10-06,Male,ENTP,District Sales Manager
+38.0,Survivor: Edge of Extinction,4.0,Rick,US0560,US,4,US0560,Rick Devens,1984-04-05,Male,ENTP,Morning News Anchor
+38.0,Survivor: Edge of Extinction,5.0,Aubry,US0477,US,5,US0477,Aubry Bracco,1985-11-14,Female,INFJ,Social Media Marketer;Marketing Director
+38.0,Survivor: Edge of Extinction,5.0,Wendy,US0561,US,6,US0561,Wendy Diaz,1992-09-26,Female,ENFP,Small Business Owner
+38.0,Survivor: Edge of Extinction,6.0,Joe,US0451,US,7,US0451,Joe Anglim,1988-09-30,Male,ISFP,Jewelry Designer;Multimedia Artist
+38.0,Survivor: Edge of Extinction,7.0,Eric,US0562,US,8,US0562,Eric Hafemann,1983-04-13,Male,ESTP,Firefighter
+38.0,Survivor: Edge of Extinction,8.0,Julia,US0563,US,9,US0563,Julia Carter,1993-04-18,Female,ESFJ,Medical Assistant
+38.0,Survivor: Edge of Extinction,9.0,David,US0495,US,10,US0495,David Wright,1974-02-28,Male,INFP,Television Writer
+38.0,Survivor: Edge of Extinction,9.0,Kelley,US0429,US,11,US0429,Kelley Wentworth,1986-06-07,Female,ENTP,Marketing Manager
+38.0,Survivor: Edge of Extinction,10.0,Wardog,US0564,US,12,US0564,Dan DaSilva,1980-03-31,Male,ENTP,Law Student/Former Military
+38.0,Survivor: Edge of Extinction,11.0,Ron,US0565,US,13,US0565,Ron Clark,1971-10-24,Male,,Teacher
+38.0,Survivor: Edge of Extinction,12.0,Aurora,US0566,US,14,US0566,Aurora McCreary,1985-12-21,Female,ISTP,Divorce Lawyer
+38.0,Survivor: Edge of Extinction,13.0,Victoria,US0567,US,15,US0567,Victoria Baamonde,1994-07-18,Female,INTP,Waitress
+38.0,Survivor: Edge of Extinction,13.0,Lauren,US0568,US,16,US0568,Lauren O'Connell,1996-10-25,Female,ESFP,Student
+38.0,Survivor: Edge of Extinction,13.0,Rick,US0560,US,17,US0560,Rick Devens,1984-04-05,Male,ENTP,Morning News Anchor
+39.0,Survivor: Island of the Idols,1.0,Ronnie,US0571,US,1,US0571,Ronnie Bardah,1982-08-29,Male,ISTP,Professional Poker Player
+39.0,Survivor: Island of the Idols,2.0,Molly,US0572,US,2,US0572,Molly Byman,1990-10-05,Female,INTJ,Law Student
+39.0,Survivor: Island of the Idols,3.0,Vince,US0573,US,3,US0573,Vince Moua,1991-04-09,Male,ENFP,Admissions Counselor
+39.0,Survivor: Island of the Idols,4.0,Chelsea,US0574,US,4,US0574,Chelsea Walker,1992-03-10,Female,ENTP,Digital Content Creator
+39.0,Survivor: Island of the Idols,5.0,Tom,US0575,US,5,US0575,Tom Laidlaw,1958-04-15,Male,ESFJ,Former NHL Player
+39.0,Survivor: Island of the Idols,6.0,Jason,US0576,US,6,US0576,Jason Linden,1986-08-04,Male,ENTP,Personal Injury Lawyer
+39.0,Survivor: Island of the Idols,7.0,Jack,US0577,US,7,US0577,Jack Nichting,1995-06-05,Male,ENFP,Graduate Student
+39.0,Survivor: Island of the Idols,8.0,Kellee,US0578,US,8,US0578,Kellee Kim,1989-10-17,Female,INTP,MBA Student
+39.0,Survivor: Island of the Idols,8.0,Jamal,US0579,US,9,US0579,Jamal Shipman,1985-05-09,Male,ENFJ,College Administrator
+39.0,Survivor: Island of the Idols,9.0,Aaron,US0580,US,10,US0580,Aaron Meredith,1982-12-16,Male,ESTJ,Gym Owner
+39.0,Survivor: Island of the Idols,9.0,Missy,US0581,US,11,US0581,Missy Byrd,1994-07-01,Female,INTJ,Air Force Veteran
+39.0,Survivor: Island of the Idols,10.0,Elizabeth,US0582,US,12,US0582,Elizabeth Beisel,1992-08-18,Female,ENFJ,Olympic Medalist
+39.0,Survivor: Island of the Idols,11.0,Karishma,US0583,US,13,US0583,Karishma Patel,1981-12-07,Female,INFP,Personal Injury Lawyer
+39.0,Survivor: Island of the Idols,12.0,Elaine,US0584,US,14,US0584,Elaine Stott,1978-01-13,Female,ENFP,Factory Worker
+39.0,Survivor: Island of the Idols,13.0,Janet,US0586,US,15,US0586,Janet Carbin,1959-06-15,Female,ENFJ,Chief Lifeguard
+39.0,Survivor: Island of the Idols,13.0,Lauren,US0587,US,16,US0587,Lauren Beck,1989-11-16,Female,ENFP,Nanny
+40.0,Survivor: Winners at War,1.0,Natalie,US0442,US,1,US0442,Natalie Anderson,1986-04-11,Female,ESTP,Crossfit Coach/Physical Therapy Student;CrossFit Trainer
+40.0,Survivor: Winners at War,1.0,Amber,US0027,US,2,US0027,Amber Mariano,1978-08-11,Female,ISFP,Administrative Assistant;Director of Marketing and Communications
+40.0,Survivor: Winners at War,2.0,Danni,US0166,US,3,US0166,Danni Boatwright,1975-07-13,Female,ENFJ,Sports Radio Host;Entrepreneur
+40.0,Survivor: Winners at War,3.0,Ethan,US0048,US,4,US0048,Ethan Zohn,1973-11-12,Male,ISFP,Professional Soccer Player;Social Entrepreneur/Keynote Speaker
+40.0,Survivor: Winners at War,4.0,Tyson,US0274,US,5,US0274,Tyson Apostol,1979-06-17,Male,ESTP,Former Professional Cyclist/Missionary;Shop Manager
+40.0,Survivor: Winners at War,5.0,Boston Rob,US0055,US,6,US0055,Rob Mariano,1975-12-25,Male,ESTJ,Construction Worker
+40.0,Survivor: Winners at War,6.0,Parvati,US0197,US,7,US0197,Parvati Shallow,1982-09-21,Female,ENFJ,Boxer;Charity Organizer;Yoga Teacher/Life Coach/Speaker
+40.0,Survivor: Winners at War,6.0,Sandra,US0112,US,8,US0112,Sandra Diaz-Twine,1974-07-30,Female,ESTP,Office Assistant;Case Manager
+40.0,Survivor: Winners at War,7.0,Yul,US0202,US,9,US0202,Yul Kwon,1975-02-14,Male,INTJ,Management Consultant;Product Management
+40.0,Survivor: Winners at War,8.0,Wendell,US0536,US,10,US0536,Wendell Holland,1984-03-08,Male,INFJ,Furniture Company Owner;Furniture Designer
+40.0,Survivor: Winners at War,9.0,Adam,US0498,US,11,US0498,Adam Klein,1991-01-15,Male,ENTP,Homeless Shelter Manager;Keynote Speaker and Host
+40.0,Survivor: Winners at War,10.0,Tyson,US0274,US,12,US0274,Tyson Apostol,1979-06-17,Male,ESTP,Former Professional Cyclist/Missionary;Shop Manager
+40.0,Survivor: Winners at War,11.0,Sophie,US0353,US,13,US0353,Sophie Clarke,1989-07-10,Female,INTJ,Medical Student;Healthcare Consultant
+40.0,Survivor: Winners at War,12.0,Kim,US0371,US,14,US0371,Kim Spradlin-Wolfe,1983-01-30,Female,INFJ,Bridal Shop Owner;Interior Designer
+40.0,Survivor: Winners at War,13.0,Jeremy,US0433,US,15,US0433,Jeremy Collins,1978-04-16,Male,ESTJ,Cambridge Firefighter
+40.0,Survivor: Winners at War,13.0,Nick,US0556,US,16,US0556,Nick Wilson,1990-06-11,Male,ENTP,Public Defender;Attorney
+40.0,Survivor: Winners at War,14.0,Denise,US0386,US,17,US0386,Denise Stapley,1971-01-01,Female,INFJ,Sex Therapist
+40.0,Survivor: Winners at War,14.0,Ben,US0516,US,18,US0516,Ben Driebergen,1983-01-01,Male,ESFP,Marine;Real Estate/Stay-at-home Dad
+40.0,Survivor: Winners at War,14.0,Sarah,US0414,US,19,US0414,Sarah Lacina,1984-07-09,Female,ENTJ,Police Officer
+41.0,Survivor: 41,1.0,Abraham,US0591,US,1,US0591,Eric Abraham,1970-06-10,Male,ESTJ,Cyber Security Analyst
+41.0,Survivor: 41,1.0,Sara,US0592,US,2,US0592,Sara Wilson,1997-06-28,Female,INTJ,Healthcare Consultant
+41.0,Survivor: 41,2.0,Voce,US0607,US,3,US0607,David Voce,1986-05-01,Male,ENTJ,Neurosurgeon
+41.0,Survivor: 41,3.0,Brad,US0602,US,4,US0602,Brad Reese,1971-07-21,Male,ESFP,Rancher
+41.0,Survivor: 41,4.0,JD,US0603,US,5,US0603,Jairus Robinson,2001-03-18,Male,ESFP,College Student
+41.0,Survivor: 41,5.0,Genie,US0595,US,6,US0595,Genie Chen,1975-03-04,Female,ISFP,Grocery Clerk
+41.0,Survivor: 41,7.0,Sydney,US0605,US,7,US0605,Sydney Segal,1995-07-19,Female,ESTP,Law Student
+41.0,Survivor: 41,8.0,Tiffany,US0604,US,8,US0604,Tiffany Seely,1973-12-08,Female,ENTP,Teacher
+41.0,Survivor: 41,9.0,Naseer,US0600,US,9,US0600,Naseer Muttalif,1984-06-21,Male,ESFJ,Sales Manager
+41.0,Survivor: 41,9.0,Evvie,US0598,US,10,US0598,Evvie Jagoda,1992-10-26,Non-binary,ENFP,Ph.D. Student
+41.0,Survivor: 41,10.0,Shan,US0606,US,11,US0606,Shantel Smith,1987-03-11,Female,ENFJ,Pastor
+41.0,Survivor: 41,11.0,Liana,US0608,US,12,US0608,Liana Wallace,2000-10-25,Female,ESTJ,College Student
+41.0,Survivor: 41,12.0,Danny,US0599,US,13,US0599,Danny McCray,1988-03-10,Male,INFJ,Ex-NFL Player
+41.0,Survivor: 41,13.0,Ricard,US0596,US,14,US0596,Ricard Foye,1989-12-04,Male,ENTJ,Flight Attendant
+41.0,Survivor: 41,13.0,Heather,US0593,US,15,US0593,Heather Aldret,1969-03-01,Female,ISFJ,Stay-at-home Mom
+42.0,Survivor: 42,1.0,Zach,US0626,US,1,US0626,Zach Wurthenberger,2000-01-26,Male,INTP,Student
+42.0,Survivor: 42,2.0,Marya,US0618,US,2,US0618,Marya Sherron,1974-03-26,Female,INFP,Stay-at-home Mom
+42.0,Survivor: 42,3.0,Jenny,US0614,US,3,US0614,Jenny Kim,1978-06-30,Female,INFJ,Creative Director
+42.0,Survivor: 42,4.0,Swati,US0624,US,4,US0624,Swati Goel,2002-03-20,Female,ISTJ,Ivy League Student
+42.0,Survivor: 42,5.0,Daniel,US0610,US,5,US0610,Daniel Strunk,1991-03-26,Male,ENTP,Law Clerk
+42.0,Survivor: 42,7.0,Lydia,US0617,US,6,US0617,Lydia Meredith,1999-05-23,Female,INFP,Waitress
+42.0,Survivor: 42,8.0,Chanelle,US0609,US,7,US0609,Chanelle Howell,1992-08-22,Female,ENTJ,Executive Recruiter
+42.0,Survivor: 42,9.0,Rocksroy,US0622,US,8,US0622,Rocksroy Bailey,1978-01-12,Male,ESTJ,Stay-at-home Dad
+42.0,Survivor: 42,9.0,Tori,US0625,US,9,US0625,Tori Meehan,1996-09-03,Female,ENFJ,Therapist
+42.0,Survivor: 42,10.0,Hai,US0612,US,10,US0612,Hai Giang,1992-12-31,Male,INFP,Data Scientist
+42.0,Survivor: 42,11.0,Drea,US0611,US,11,US0611,Drea Wheeler,1986-08-27,Female,ENTJ,Fitness Consultant
+42.0,Survivor: 42,12.0,Omar,US0621,US,12,US0621,Omar Zaheer,1990-10-24,Male,ENTP,Veterinarian
+42.0,Survivor: 42,13.0,Lindsay,US0616,US,13,US0616,Lindsay Dolashewich,1991-02-01,Female,ESFP,Dietitian
+42.0,Survivor: 42,13.0,Jonathan,US0615,US,14,US0615,Jonathan Young,1993-01-13,Male,ENFJ,Beach Service Company Owner
+43.0,Survivor: 43,1.0,Morriah,US0639,US,1,US0639,Morriah Young,1993-12-03,Female,ENFP,Teacher
+43.0,Survivor: 43,2.0,Justine,US0635,US,2,US0635,Justine Brennan,1993-01-07,Female,ESTJ,Cyber Security Sales
+43.0,Survivor: 43,3.0,Nneka,US0640,US,3,US0640,Nneka Ejere,1979-06-24,Female,ESFJ,Pharmacist
+43.0,Survivor: 43,4.0,Lindsay,US0637,US,4,US0637,Lindsay Carmine,1980-01-21,Female,ISTJ,Pediatric Nurse
+43.0,Survivor: 43,5.0,Geo,US0631,US,5,US0631,Geo Bustamante,1986-08-22,Male,ISFP,Project Manager
+43.0,Survivor: 43,6.0,Elie,US0630,US,6,US0630,Elie Scott,1991-08-17,Female,ENFJ,Clinical Psychologist
+43.0,Survivor: 43,7.0,Dwight,US0629,US,7,US0629,Dwight Moore,2000-08-30,Male,ENTP,Graduate Student
+43.0,Survivor: 43,8.0,Jeanine,US0633,US,8,US0633,Jeanine Zheng,1997-12-19,Female,ENFP,UX Designer
+43.0,Survivor: 43,9.0,James,US0632,US,9,US0632,James Jones,1985-05-07,Male,ENFP,Event Planner
+43.0,Survivor: 43,9.0,Ryan,US0643,US,10,US0643,Ryan Medrano,1997-08-26,Male,ISFJ,Warehouse Associate
+43.0,Survivor: 43,10.0,Noelle,US0641,US,11,US0641,Noelle Lambert,1997-01-24,Female,ESTP,U.S. Paralympian
+43.0,Survivor: 43,11.0,Sami,US0644,US,12,US0644,Sami Layadi,2002-10-13,Male,ENTP,Pet Cremator
+43.0,Survivor: 43,12.0,Cody,US0628,US,13,US0628,Cody Assenmacher,1986-12-09,Male,ESFP,Elevator Sales
+43.0,Survivor: 43,13.0,Karla,US0636,US,14,US0636,Karla Cruz Godoy,1994-02-19,Female,ENTJ,Educational Project Manager
+43.0,Survivor: 43,13.0,Jesse,US0634,US,15,US0634,Jesse Lopez,1991-11-29,Male,INFJ,Political Science Ph.D.
+44.0,Survivor: 44,1.0,Maddy,US0649,US,1,US0649,Maddy Pomilla,1994-04-11,Female,ESTP,Charity Projects Manager
+44.0,Survivor: 44,2.0,Helen,US0660,US,2,US0660,Helen Li,1993-12-07,Female,INTJ,Product Manager
+44.0,Survivor: 44,3.0,Claire,US0651,US,3,US0651,Claire Rafson,1997-05-15,Female,ENTJ,Tech Investor
+44.0,Survivor: 44,4.0,Sarah,US0661,US,4,US0661,Sarah Wade,1995-08-31,Female,INTJ,Management Consultant
+44.0,Survivor: 44,6.0,Josh,US0655,US,5,US0655,Josh Wilder,1988-04-01,Male,,Surgical Podiatrist
+44.0,Survivor: 44,7.0,Matt,US0656,US,6,US0656,Matt Blankinship,1995-03-27,Male,INFP,Security Software Engineer
+44.0,Survivor: 44,8.0,Brandon,US0645,US,7,US0645,Brandon Cottom,1992-12-21,Male,ESFJ,Security Specialist
+44.0,Survivor: 44,9.0,Kane,US0647,US,8,US0647,Kane Fritzler,1998-01-31,Male,ENTP,Law Student
+44.0,Survivor: 44,10.0,Frannie,US0653,US,9,US0653,Frannie Marin,1999-03-13,Female,ENFP,Research Coordinator
+44.0,Survivor: 44,11.0,Danny,US0652,US,10,US0652,Danny Massa,1990-07-31,Male,ESTP,Firefighter
+44.0,Survivor: 44,12.0,Jaime,US0646,US,11,US0646,Jaime Lynn Ruiz,1987-03-07,Female,ESFP,Yogi
+44.0,Survivor: 44,13.0,Lauren,US0648,US,12,US0648,Lauren Harpe,1991-07-30,Female,ESTJ,Elementary School Teacher
+44.0,Survivor: 44,13.0,Carson,US0659,US,13,US0659,Carson Garrett,2001-12-10,Male,ENTP,NASA Engineering Student
+45.0,Survivor: 45,1.0,Hannah,US0669,US,1,US0669,Hannah Rose,1990-09-26,Female,,Therapist
+45.0,Survivor: 45,2.0,Brandon,US0665,US,2,US0665,Brandon Donlon,1997-06-02,Male,,Content Producer
+45.0,Survivor: 45,3.0,Sabiyah,US0677,US,3,US0677,Sabiyah Broderick,1995-08-25,Female,,Truck Driver
+45.0,Survivor: 45,4.0,Sean,US0678,US,4,US0678,Sean Edwards,1988-06-23,Male,,School Principal
+45.0,Survivor: 45,5.0,Brando,US0664,US,5,US0664,Brando Meyer,2000-06-09,Male,,Software Developer
+45.0,Survivor: 45,6.0,J. Maya,US0670,US,6,US0670,J. Maya,1998-10-05,Female,,Singer
+45.0,Survivor: 45,7.0,Sifu,US0679,US,7,US0679,Sifu Alsup,1992-12-01,Male,,Gym Owner
+45.0,Survivor: 45,7.0,Kaleb,US0673,US,8,US0673,Kaleb Gebrewold,1994-09-16,Male,,Software Sales
+45.0,Survivor: 45,8.0,Kellie,US0675,US,9,US0675,Kellie Nalbandian,1993-09-05,Female,,Critical Care Nurse
+45.0,Survivor: 45,9.0,Kendra,US0676,US,10,US0676,Kendra McQuarrie,1992-09-25,Female,,Bartender
+45.0,Survivor: 45,10.0,Bruce,US0657,US,11,US0657,Bruce Perreault,1976-08-05,Male,INTJ,Insurance Agent
+45.0,Survivor: 45,11.0,Emily,US0668,US,12,US0668,Emily Flippen,1994-10-06,Female,,Investment Analyst
+45.0,Survivor: 45,12.0,Drew,US0667,US,13,US0667,Drew Basile,2000-09-25,Male,,Grad Student
+45.0,Survivor: 45,13.0,Julie,US0672,US,14,US0672,Julie Alley,1974-03-11,Female,,Estate Attorney
+45.0,Survivor: 45,13.0,Katurah,US0674,US,15,US0674,Katurah Topps,1988-09-03,Female,,Civil Rights Attorney
+46.0,Survivor: 46,1.0,Jelinsky,US0683,US,1,US0683,David Jelinsky,2001-11-02,Male,,Slot Machine Salesman
+46.0,Survivor: 46,2.0,Jess,US0686,US,2,US0686,Jess Chong,1986-03-06,Female,,Software Engineer
+46.0,Survivor: 46,4.0,Bhanu,US0681,US,3,US0681,Bhanu Gopal,1982-11-14,Male,,IT Quality Analyst
+46.0,Survivor: 46,5.0,Jem,US0685,US,4,US0685,Jem Hussain-Adams,1991-12-04,Female,,International Brand Mentor
+46.0,Survivor: 46,6.0,Moriah,US0690,US,5,US0690,Moriah Gaynor,1995-03-14,Female,,Program Coordinator
+46.0,Survivor: 46,7.0,Tim,US0696,US,6,US0696,Tim Spicer,1992-07-27,Male,,College Coach
+46.0,Survivor: 46,7.0,Soda,US0693,US,7,US0693,Soda Thompson,1996-04-04,Female,,Special Ed Teacher
+46.0,Survivor: 46,8.0,Tevin,US0694,US,8,US0694,Tevin Davis,1999-04-24,Male,,Actor
+46.0,Survivor: 46,9.0,Hunter,US0684,US,9,US0684,Hunter McKnight,1996-02-24,Male,,Science Teacher
+46.0,Survivor: 46,10.0,Tiffany,US0695,US,10,US0695,Tiffany Nicole Ervin,1991-02-08,Female,,Artist
+46.0,Survivor: 46,11.0,Venus,US0697,US,11,US0697,Venus Vafa,1999-02-12,Female,,Data Analyst
+46.0,Survivor: 46,12.0,Q,US0691,US,12,US0691,Q Burdette,1994-03-08,Male,,Real Estate Agent
+46.0,Survivor: 46,13.0,Maria,US0689,US,13,US0689,Maria Shrime Gonzalez,1975-10-13,Female,,Parent Coach
+46.0,Survivor: 46,13.0,Liz,US0688,US,14,US0688,Liz Wilcox,1988-03-18,Female,,Marketing Strategist
