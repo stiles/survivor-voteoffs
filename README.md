@@ -87,5 +87,7 @@ Seasons 1, 3-46
 
 ### Related
 
-* [survivoR](https://github.com/doehm/survivoR): The internet's most-detailed Survivor data collection, in R format, created by [David Ohm](https://github.com/doehm), et al. Details about season locations, vote orders and castaway personal information was all derived from the fine work here. 
-* [survivoR2py](https://github.com/stiles/survivoR2py): Converting survivoR to CSV format so it plays nice with other data-science tools, such as Python/Pandas.
+* [survivoR](https://github.com/doehm/survivoR): *The Internet's most-detailed Survivor data collection, in R format, created by [David Ohm](https://github.com/doehm), et al. Details about season locations, vote orders and castaway personal information was all derived from the fine work here.* 
+* [survivoR2py](https://github.com/stiles/survivoR2py): *Converting survivoR to CSV format so it plays nice with other data-science tools, such as Python/Pandas.*
+* [survivor-transcripts](https://github.com/stiles/survivor-voteoffs): *Fetching and storing complete transcripts for each episode of the American television show and analyzing the text for keyword/phrase frequency.*
+
