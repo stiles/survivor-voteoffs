@@ -67,7 +67,7 @@ merged["ack_score"] = merged[ack_columns].sum(axis=1)
 
 merged_slim = merged[['season', 'season_name', 'vote', 'episode', 'castaway', 'full_name', 'castaway_id', 'gender', 'date_of_birth',
                       'personality_type', 'occupation', 'acknowledge', 'ack_look', 'ack_speak',
-                      'ack_gesture', 'ack_smile', 'ack_speak_quote', 'ack_score']].copy()
+                      'ack_gesture', 'ack_smile', 'ack_speak_notes', 'ack_score']].copy()
 
 """
 Export to local storage and upload to S3

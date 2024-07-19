@@ -16,7 +16,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Go get 'em you guys.\"",
+        "ack_speak_notes":"\"Go get 'em you guys.\"",
         "ack_score":4
     },
     {
@@ -36,7 +36,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -56,7 +56,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -76,7 +76,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -96,7 +96,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck\"",
+        "ack_speak_notes":"\"Good luck\"",
         "ack_score":4
     },
     {
@@ -116,7 +116,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Goodbye\"",
+        "ack_speak_notes":"\"Goodbye\"",
         "ack_score":3
     },
     {
@@ -136,7 +136,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -156,7 +156,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -176,7 +176,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -196,7 +196,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -216,7 +216,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -236,7 +236,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"See you in a few days.\" ",
+        "ack_speak_notes":"\"See you in a few days.\" ",
         "ack_score":2
     },
     {
@@ -256,7 +256,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"See you guys.\" ",
+        "ack_speak_notes":"\"See you guys.\" ",
         "ack_score":4
     },
     {
@@ -276,7 +276,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -291,13 +291,13 @@
         "date_of_birth":"1955-06-11",
         "personality_type":"ISFP",
         "occupation":"Corrections Officer",
-        "acknowledge":false,
-        "ack_look":false,
+        "acknowledge":true,
+        "ack_look":true,
         "ack_speak":false,
-        "ack_gesture":false,
+        "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
-        "ack_score":0
+        "ack_speak_notes":"",
+        "ack_score":2
     },
     {
         "season":"2",
@@ -311,13 +311,13 @@
         "date_of_birth":"1968-01-05",
         "personality_type":"ISTJ",
         "occupation":"Army Intelligence Officer",
-        "acknowledge":false,
-        "ack_look":false,
-        "ack_speak":false,
+        "acknowledge":true,
+        "ack_look":true,
+        "ack_speak":true,
         "ack_gesture":false,
-        "ack_smile":false,
-        "ack_speak_quote":"",
-        "ack_score":0
+        "ack_smile":true,
+        "ack_speak_notes":"\"Go get 'em\"",
+        "ack_score":3
     },
     {
         "season":"2",
@@ -336,7 +336,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -356,7 +356,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -371,13 +371,13 @@
         "date_of_birth":"1972-11-11",
         "personality_type":"ENFP",
         "occupation":"Bartender",
-        "acknowledge":false,
-        "ack_look":false,
-        "ack_speak":false,
-        "ack_gesture":false,
-        "ack_smile":false,
-        "ack_speak_quote":"",
-        "ack_score":0
+        "acknowledge":true,
+        "ack_look":true,
+        "ack_speak":true,
+        "ack_gesture":true,
+        "ack_smile":true,
+        "ack_speak_notes":"\"Got get 'em, guys.\"",
+        "ack_score":4
     },
     {
         "season":"2",
@@ -391,13 +391,13 @@
         "date_of_birth":"1966-04-16",
         "personality_type":"ENFP",
         "occupation":"Internet Projects Manager",
-        "acknowledge":false,
-        "ack_look":false,
+        "acknowledge":true,
+        "ack_look":true,
         "ack_speak":false,
-        "ack_gesture":false,
-        "ack_smile":false,
-        "ack_speak_quote":"",
-        "ack_score":0
+        "ack_gesture":true,
+        "ack_smile":true,
+        "ack_speak_notes":"",
+        "ack_score":3
     },
     {
         "season":"2",
@@ -411,13 +411,13 @@
         "date_of_birth":"1968-05-01",
         "personality_type":"ESTJ",
         "occupation":"Personal Trainer",
-        "acknowledge":false,
-        "ack_look":false,
-        "ack_speak":false,
-        "ack_gesture":false,
-        "ack_smile":false,
-        "ack_speak_quote":"",
-        "ack_score":0
+        "acknowledge":true,
+        "ack_look":true,
+        "ack_speak":true,
+        "ack_gesture":true,
+        "ack_smile":true,
+        "ack_speak_notes":"\"Bye, guys\"",
+        "ack_score":4
     },
     {
         "season":"2",
@@ -431,13 +431,13 @@
         "date_of_birth":"1970-09-05",
         "personality_type":"ESFP",
         "occupation":"Aspiring Actress",
-        "acknowledge":false,
-        "ack_look":false,
+        "acknowledge":true,
+        "ack_look":true,
         "ack_speak":false,
-        "ack_gesture":false,
-        "ack_smile":false,
-        "ack_speak_quote":"",
-        "ack_score":0
+        "ack_gesture":true,
+        "ack_smile":true,
+        "ack_speak_notes":"",
+        "ack_score":3
     },
     {
         "season":"2",
@@ -451,13 +451,13 @@
         "date_of_birth":"1977-04-02",
         "personality_type":"ISTJ",
         "occupation":"Harvard Law Student",
-        "acknowledge":false,
-        "ack_look":false,
+        "acknowledge":true,
+        "ack_look":true,
         "ack_speak":false,
-        "ack_gesture":false,
+        "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
-        "ack_score":0
+        "ack_speak_notes":"",
+        "ack_score":2
     },
     {
         "season":"2",
@@ -471,13 +471,13 @@
         "date_of_birth":"1978-08-11",
         "personality_type":"ISFP",
         "occupation":"Administrative Assistant;Director of Marketing and Communications",
-        "acknowledge":false,
-        "ack_look":false,
+        "acknowledge":true,
+        "ack_look":true,
         "ack_speak":false,
-        "ack_gesture":false,
-        "ack_smile":false,
-        "ack_speak_quote":"",
-        "ack_score":0
+        "ack_gesture":true,
+        "ack_smile":true,
+        "ack_speak_notes":"",
+        "ack_score":3
     },
     {
         "season":"2",
@@ -491,13 +491,13 @@
         "date_of_birth":"1947-07-05",
         "personality_type":"ISFJ",
         "occupation":"Teacher\/Farmer",
-        "acknowledge":false,
-        "ack_look":false,
+        "acknowledge":true,
+        "ack_look":true,
         "ack_speak":false,
-        "ack_gesture":false,
-        "ack_smile":false,
-        "ack_speak_quote":"",
-        "ack_score":0
+        "ack_gesture":true,
+        "ack_smile":true,
+        "ack_speak_notes":"",
+        "ack_score":3
     },
     {
         "season":"2",
@@ -511,13 +511,13 @@
         "date_of_birth":"1977-05-28",
         "personality_type":"INFP",
         "occupation":"Footwear Designer",
-        "acknowledge":false,
-        "ack_look":false,
+        "acknowledge":true,
+        "ack_look":true,
         "ack_speak":false,
-        "ack_gesture":false,
-        "ack_smile":false,
-        "ack_speak_quote":"",
-        "ack_score":0
+        "ack_gesture":true,
+        "ack_smile":true,
+        "ack_speak_notes":"",
+        "ack_score":3
     },
     {
         "season":"2",
@@ -536,7 +536,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -556,7 +556,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck\"",
+        "ack_speak_notes":"\"Good luck\"",
         "ack_score":4
     },
     {
@@ -576,7 +576,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -596,7 +596,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -616,7 +616,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye guys\"",
+        "ack_speak_notes":"\"Bye guys\"",
         "ack_score":4
     },
     {
@@ -636,7 +636,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -656,7 +656,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye\"",
+        "ack_speak_notes":"\"Bye\"",
         "ack_score":4
     },
     {
@@ -676,7 +676,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -696,7 +696,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -716,7 +716,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye guys\"",
+        "ack_speak_notes":"\"Bye guys\"",
         "ack_score":4
     },
     {
@@ -736,7 +736,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -756,7 +756,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -776,7 +776,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -796,7 +796,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -816,7 +816,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -836,7 +836,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Go get 'em\"",
+        "ack_speak_notes":"\"Go get 'em\"",
         "ack_score":4
     },
     {
@@ -856,7 +856,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -876,7 +876,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -896,7 +896,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -916,7 +916,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -936,7 +936,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye, guys.\"",
+        "ack_speak_notes":"\"Bye, guys.\"",
         "ack_score":3
     },
     {
@@ -956,7 +956,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":4
     },
     {
@@ -976,7 +976,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -996,7 +996,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Break an arm\"",
+        "ack_speak_notes":"\"Break an arm\"",
         "ack_score":3
     },
     {
@@ -1016,7 +1016,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1036,7 +1036,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1056,7 +1056,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -1076,7 +1076,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Thank all of you.\"",
+        "ack_speak_notes":"\"Thank all of you.\"",
         "ack_score":4
     },
     {
@@ -1096,7 +1096,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"See ya, guys.\"",
+        "ack_speak_notes":"\"See ya, guys.\"",
         "ack_score":4
     },
     {
@@ -1116,7 +1116,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -1136,7 +1136,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -1156,7 +1156,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1176,7 +1176,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Stay strong, y'all. See ya.\"",
+        "ack_speak_notes":"\"Stay strong, y'all. See ya.\"",
         "ack_score":3
     },
     {
@@ -1196,7 +1196,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys. See you.\"",
+        "ack_speak_notes":"\"Good luck, guys. See you.\"",
         "ack_score":2
     },
     {
@@ -1216,7 +1216,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Much love, dude. You guys rule. Good luck. Play hard, dude. For real, you guys are all with me.\"",
+        "ack_speak_notes":"\"Much love, dude. You guys rule. Good luck. Play hard, dude. For real, you guys are all with me.\"",
         "ack_score":4
     },
     {
@@ -1236,7 +1236,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, you guys.\"",
+        "ack_speak_notes":"\"Good luck, you guys.\"",
         "ack_score":2
     },
     {
@@ -1256,7 +1256,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck. I love you guys. Bye.\"",
+        "ack_speak_notes":"\"Good luck. I love you guys. Bye.\"",
         "ack_score":3
     },
     {
@@ -1276,7 +1276,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck out there.\"",
+        "ack_speak_notes":"\"Good luck out there.\"",
         "ack_score":3
     },
     {
@@ -1296,7 +1296,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye. Good luck.\"",
+        "ack_speak_notes":"\"Bye. Good luck.\"",
         "ack_score":4
     },
     {
@@ -1316,7 +1316,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Thanks, guys. Good luck to all of you.\" ",
+        "ack_speak_notes":"\"Thanks, guys. Good luck to all of you.\" ",
         "ack_score":4
     },
     {
@@ -1336,7 +1336,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye, guys. Take care.\" ",
+        "ack_speak_notes":"\"Bye, guys. Take care.\" ",
         "ack_score":3
     },
     {
@@ -1356,7 +1356,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1376,7 +1376,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"I love y'all. Thank you.\"",
+        "ack_speak_notes":"\"I love y'all. Thank you.\"",
         "ack_score":4
     },
     {
@@ -1396,7 +1396,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1416,7 +1416,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys\"",
+        "ack_speak_notes":"\"Good luck, guys\"",
         "ack_score":3
     },
     {
@@ -1436,7 +1436,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -1456,7 +1456,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1476,7 +1476,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1496,7 +1496,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -1516,7 +1516,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1536,7 +1536,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1556,7 +1556,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1576,7 +1576,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Take it easy, guys.\"",
+        "ack_speak_notes":"\"Take it easy, guys.\"",
         "ack_score":4
     },
     {
@@ -1596,7 +1596,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1616,7 +1616,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1636,7 +1636,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck\"",
+        "ack_speak_notes":"\"Good luck\"",
         "ack_score":3
     },
     {
@@ -1656,7 +1656,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"Inaudible",
+        "ack_speak_notes":"Inaudible",
         "ack_score":4
     },
     {
@@ -1676,7 +1676,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1696,7 +1696,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1716,7 +1716,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1736,7 +1736,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1756,7 +1756,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -1776,7 +1776,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1796,7 +1796,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1816,7 +1816,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1836,7 +1836,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Ryan O, D, T, hang tough.\"",
+        "ack_speak_notes":"\"Ryan O, D, T, hang tough.\"",
         "ack_score":3
     },
     {
@@ -1856,7 +1856,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"I'll be back, guys.\"",
+        "ack_speak_notes":"\"I'll be back, guys.\"",
         "ack_score":2
     },
     {
@@ -1876,7 +1876,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1896,7 +1896,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1916,7 +1916,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -1936,7 +1936,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1956,7 +1956,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1976,7 +1976,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -1996,7 +1996,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2016,7 +2016,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -2036,7 +2036,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -2056,7 +2056,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -2076,7 +2076,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2096,7 +2096,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -2116,7 +2116,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -2136,7 +2136,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2156,7 +2156,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -2176,7 +2176,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2196,7 +2196,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, everyone.\"",
+        "ack_speak_notes":"\"Good luck, everyone.\"",
         "ack_score":4
     },
     {
@@ -2216,7 +2216,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -2236,7 +2236,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2256,7 +2256,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -2276,7 +2276,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2296,7 +2296,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2316,7 +2316,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -2336,7 +2336,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Kick ass, ladies.\"",
+        "ack_speak_notes":"\"Kick ass, ladies.\"",
         "ack_score":2
     },
     {
@@ -2356,7 +2356,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, fellas.\"",
+        "ack_speak_notes":"\"Good luck, fellas.\"",
         "ack_score":3
     },
     {
@@ -2376,7 +2376,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Peace out, y'all.\"",
+        "ack_speak_notes":"\"Peace out, y'all.\"",
         "ack_score":4
     },
     {
@@ -2396,7 +2396,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"True to my word.\"",
+        "ack_speak_notes":"\"True to my word.\"",
         "ack_score":2
     },
     {
@@ -2416,7 +2416,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Take it easy.\"",
+        "ack_speak_notes":"\"Take it easy.\"",
         "ack_score":3
     },
     {
@@ -2436,7 +2436,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2456,7 +2456,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -2476,7 +2476,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -2496,7 +2496,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -2516,7 +2516,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2536,7 +2536,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2556,7 +2556,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -2576,7 +2576,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2596,7 +2596,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2616,7 +2616,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2636,7 +2636,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2656,7 +2656,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2676,7 +2676,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Stay strong, stick to the plan, finish them off.\"",
+        "ack_speak_notes":"\"Stay strong, stick to the plan, finish them off.\"",
         "ack_score":4
     },
     {
@@ -2696,7 +2696,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Steph, rock it for the ladies.\"",
+        "ack_speak_notes":"\"Steph, rock it for the ladies.\"",
         "ack_score":4
     },
     {
@@ -2716,7 +2716,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2736,7 +2736,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2756,7 +2756,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2776,7 +2776,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"That was a great compliment. Thank you.\"",
+        "ack_speak_notes":"\"That was a great compliment. Thank you.\"",
         "ack_score":3
     },
     {
@@ -2796,7 +2796,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2816,7 +2816,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2836,7 +2836,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2856,7 +2856,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":2
     },
     {
@@ -2876,7 +2876,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2896,7 +2896,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -2916,7 +2916,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2936,7 +2936,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"You guys are strong. Kick some ... butt.\" ",
+        "ack_speak_notes":"\"You guys are strong. Kick some ... butt.\" ",
         "ack_score":3
     },
     {
@@ -2956,7 +2956,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -2976,7 +2976,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye guys\"",
+        "ack_speak_notes":"\"Bye guys\"",
         "ack_score":2
     },
     {
@@ -2996,7 +2996,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3016,7 +3016,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck guys\"",
+        "ack_speak_notes":"\"Good luck guys\"",
         "ack_score":3
     },
     {
@@ -3036,7 +3036,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3056,7 +3056,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck guys\"",
+        "ack_speak_notes":"\"Good luck guys\"",
         "ack_score":1
     },
     {
@@ -3076,7 +3076,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Hang in there. Good luck.\"",
+        "ack_speak_notes":"\"Hang in there. Good luck.\"",
         "ack_score":3
     },
     {
@@ -3096,7 +3096,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"You blindsided! Nice! That's how you vote somebody off!\"",
+        "ack_speak_notes":"\"You blindsided! Nice! That's how you vote somebody off!\"",
         "ack_score":4
     },
     {
@@ -3116,7 +3116,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3136,7 +3136,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Scumbags\"",
+        "ack_speak_notes":"\"Scumbags\"",
         "ack_score":1
     },
     {
@@ -3156,7 +3156,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3176,7 +3176,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3196,7 +3196,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck tomorrow, guys.\"",
+        "ack_speak_notes":"\"Good luck tomorrow, guys.\"",
         "ack_score":4
     },
     {
@@ -3216,7 +3216,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":4
     },
     {
@@ -3236,7 +3236,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -3256,7 +3256,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -3276,7 +3276,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -3296,7 +3296,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3316,7 +3316,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -3336,7 +3336,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Cirie\"",
+        "ack_speak_notes":"\"Cirie\"",
         "ack_score":4
     },
     {
@@ -3356,7 +3356,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye guys\"",
+        "ack_speak_notes":"\"Bye guys\"",
         "ack_score":4
     },
     {
@@ -3376,7 +3376,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Thanks\"",
+        "ack_speak_notes":"\"Thanks\"",
         "ack_score":3
     },
     {
@@ -3396,7 +3396,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -3416,7 +3416,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -3436,7 +3436,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -3456,7 +3456,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Thanks for the journey, you guys\"",
+        "ack_speak_notes":"\"Thanks for the journey, you guys\"",
         "ack_score":3
     },
     {
@@ -3476,7 +3476,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3496,7 +3496,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -3516,7 +3516,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3536,7 +3536,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"That was pretty good.\"",
+        "ack_speak_notes":"\"That was pretty good.\"",
         "ack_score":4
     },
     {
@@ -3556,7 +3556,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -3576,7 +3576,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3596,7 +3596,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3616,7 +3616,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -3636,7 +3636,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -3656,7 +3656,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3676,7 +3676,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3696,7 +3696,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"One love\"",
+        "ack_speak_notes":"\"One love\"",
         "ack_score":3
     },
     {
@@ -3716,7 +3716,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Still smiling, guys. Have fun. Love ya.\"",
+        "ack_speak_notes":"\"Still smiling, guys. Have fun. Love ya.\"",
         "ack_score":4
     },
     {
@@ -3736,7 +3736,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"I'd like my hat back at some point. 'Night guys.\"",
+        "ack_speak_notes":"\"I'd like my hat back at some point. 'Night guys.\"",
         "ack_score":4
     },
     {
@@ -3756,7 +3756,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -3776,7 +3776,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3796,7 +3796,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -3816,7 +3816,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3836,7 +3836,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3856,7 +3856,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck.\"",
+        "ack_speak_notes":"\"Good luck.\"",
         "ack_score":4
     },
     {
@@ -3876,7 +3876,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3896,7 +3896,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -3916,7 +3916,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck\"",
+        "ack_speak_notes":"\"Good luck\"",
         "ack_score":3
     },
     {
@@ -3936,7 +3936,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Be good, boys, huh?\"",
+        "ack_speak_notes":"\"Be good, boys, huh?\"",
         "ack_score":2
     },
     {
@@ -3956,7 +3956,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -3976,7 +3976,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -3996,7 +3996,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4016,7 +4016,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck\"",
+        "ack_speak_notes":"\"Good luck\"",
         "ack_score":3
     },
     {
@@ -4036,7 +4036,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -4056,7 +4056,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -4076,7 +4076,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4096,7 +4096,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck\"",
+        "ack_speak_notes":"\"Good luck\"",
         "ack_score":4
     },
     {
@@ -4116,7 +4116,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4136,7 +4136,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4156,7 +4156,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -4176,7 +4176,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4196,7 +4196,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4216,7 +4216,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4236,7 +4236,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4256,7 +4256,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4276,7 +4276,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -4296,7 +4296,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4316,7 +4316,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4336,7 +4336,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4356,7 +4356,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -4376,7 +4376,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye guys.\"",
+        "ack_speak_notes":"\"Bye guys.\"",
         "ack_score":4
     },
     {
@@ -4396,7 +4396,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye guys. Win this.\"",
+        "ack_speak_notes":"\"Bye guys. Win this.\"",
         "ack_score":3
     },
     {
@@ -4416,7 +4416,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck guys! Have fun.\"",
+        "ack_speak_notes":"\"Good luck guys! Have fun.\"",
         "ack_score":4
     },
     {
@@ -4436,7 +4436,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4456,7 +4456,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":4
     },
     {
@@ -4476,7 +4476,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Love you guys.\"",
+        "ack_speak_notes":"\"Love you guys.\"",
         "ack_score":4
     },
     {
@@ -4496,7 +4496,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4516,7 +4516,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck guys!\"",
+        "ack_speak_notes":"\"Good luck guys!\"",
         "ack_score":4
     },
     {
@@ -4536,7 +4536,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye guys.\"",
+        "ack_speak_notes":"\"Bye guys.\"",
         "ack_score":4
     },
     {
@@ -4556,7 +4556,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -4576,7 +4576,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":4
     },
     {
@@ -4596,7 +4596,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -4616,7 +4616,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -4636,7 +4636,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -4656,7 +4656,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -4676,7 +4676,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4696,7 +4696,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye guys. Good luck.\"",
+        "ack_speak_notes":"\"Bye guys. Good luck.\"",
         "ack_score":4
     },
     {
@@ -4716,7 +4716,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4736,7 +4736,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4756,7 +4756,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -4776,7 +4776,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4796,7 +4796,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":3
     },
     {
@@ -4816,7 +4816,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4836,7 +4836,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4856,7 +4856,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Have fun.\"",
+        "ack_speak_notes":"\"Have fun.\"",
         "ack_score":3
     },
     {
@@ -4876,7 +4876,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4896,7 +4896,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4916,7 +4916,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -4936,7 +4936,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Goodbye\"",
+        "ack_speak_notes":"\"Goodbye\"",
         "ack_score":3
     },
     {
@@ -4956,7 +4956,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4976,7 +4976,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -4996,7 +4996,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5016,7 +5016,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -5036,7 +5036,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5056,7 +5056,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye guys\"",
+        "ack_speak_notes":"\"Bye guys\"",
         "ack_score":4
     },
     {
@@ -5076,7 +5076,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5096,7 +5096,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, you guys.\"",
+        "ack_speak_notes":"\"Good luck, you guys.\"",
         "ack_score":3
     },
     {
@@ -5116,7 +5116,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -5136,7 +5136,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5156,7 +5156,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -5176,7 +5176,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -5196,7 +5196,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5216,7 +5216,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5236,7 +5236,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5256,7 +5256,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5276,7 +5276,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5296,7 +5296,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5316,7 +5316,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Kick some butt you guys.\"",
+        "ack_speak_notes":"\"Kick some butt you guys.\"",
         "ack_score":2
     },
     {
@@ -5336,7 +5336,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5356,7 +5356,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -5376,7 +5376,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5396,7 +5396,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5416,7 +5416,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Pleasure, boys.\"",
+        "ack_speak_notes":"\"Pleasure, boys.\"",
         "ack_score":3
     },
     {
@@ -5436,7 +5436,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good game you guys.\"",
+        "ack_speak_notes":"\"Good game you guys.\"",
         "ack_score":2
     },
     {
@@ -5456,7 +5456,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -5476,7 +5476,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck you guys.\"",
+        "ack_speak_notes":"\"Good luck you guys.\"",
         "ack_score":3
     },
     {
@@ -5496,7 +5496,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5516,7 +5516,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good game guys!\"",
+        "ack_speak_notes":"\"Good game guys!\"",
         "ack_score":3
     },
     {
@@ -5536,7 +5536,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye\"",
+        "ack_speak_notes":"\"Bye\"",
         "ack_score":4
     },
     {
@@ -5556,7 +5556,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Some advice, next time y'all lose a challenge, a\\nlittle less cursing off your tribe might help.... It's been a pleasure.\"",
+        "ack_speak_notes":"\"Some advice, next time y'all lose a challenge, a\\nlittle less cursing off your tribe might help.... It's been a pleasure.\"",
         "ack_score":2
     },
     {
@@ -5576,7 +5576,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5596,7 +5596,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -5616,7 +5616,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5636,7 +5636,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5656,7 +5656,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Oh, I'm gonna be good and drunk in the next five minutes.\"",
+        "ack_speak_notes":"\"Oh, I'm gonna be good and drunk in the next five minutes.\"",
         "ack_score":1
     },
     {
@@ -5676,7 +5676,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5696,7 +5696,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -5716,7 +5716,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, bitches. See you later.\"",
+        "ack_speak_notes":"\"Good luck, bitches. See you later.\"",
         "ack_score":4
     },
     {
@@ -5736,7 +5736,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":4
     },
     {
@@ -5756,7 +5756,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5776,7 +5776,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, you guys.\"",
+        "ack_speak_notes":"\"Good luck, you guys.\"",
         "ack_score":4
     },
     {
@@ -5796,7 +5796,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye\"",
+        "ack_speak_notes":"\"Bye\"",
         "ack_score":3
     },
     {
@@ -5816,7 +5816,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -5836,7 +5836,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5856,7 +5856,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye you guys.\"",
+        "ack_speak_notes":"\"Bye you guys.\"",
         "ack_score":4
     },
     {
@@ -5876,7 +5876,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5896,7 +5896,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5916,7 +5916,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Win a million bucks, OK?\"",
+        "ack_speak_notes":"\"Win a million bucks, OK?\"",
         "ack_score":3
     },
     {
@@ -5936,7 +5936,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5956,7 +5956,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":4
     },
     {
@@ -5976,7 +5976,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -5996,7 +5996,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6016,7 +6016,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6036,7 +6036,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":3
     },
     {
@@ -6056,7 +6056,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":3
     },
     {
@@ -6076,7 +6076,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -6096,7 +6096,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":3
     },
     {
@@ -6116,7 +6116,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Yall have fun\"",
+        "ack_speak_notes":"\"Yall have fun\"",
         "ack_score":1
     },
     {
@@ -6136,7 +6136,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6156,7 +6156,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6176,7 +6176,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Don't trust Phillip.\"",
+        "ack_speak_notes":"\"Don't trust Phillip.\"",
         "ack_score":1
     },
     {
@@ -6196,7 +6196,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Have fun.\"",
+        "ack_speak_notes":"\"Have fun.\"",
         "ack_score":2
     },
     {
@@ -6216,7 +6216,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6236,7 +6236,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6256,7 +6256,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6276,7 +6276,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6296,7 +6296,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye, guys.\"",
+        "ack_speak_notes":"\"Bye, guys.\"",
         "ack_score":4
     },
     {
@@ -6316,7 +6316,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6336,7 +6336,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6356,7 +6356,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6376,7 +6376,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6396,7 +6396,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6416,7 +6416,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6436,7 +6436,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6456,7 +6456,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"See you guys shortly.\"",
+        "ack_speak_notes":"\"See you guys shortly.\"",
         "ack_score":1
     },
     {
@@ -6476,7 +6476,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6496,7 +6496,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -6516,7 +6516,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6536,7 +6536,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6556,7 +6556,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Goodbye, everybody\"",
+        "ack_speak_notes":"\"Goodbye, everybody\"",
         "ack_score":3
     },
     {
@@ -6576,7 +6576,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6596,7 +6596,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6616,7 +6616,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6636,7 +6636,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye. Be right back.\"",
+        "ack_speak_notes":"\"Bye. Be right back.\"",
         "ack_score":3
     },
     {
@@ -6656,7 +6656,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6676,7 +6676,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"You better believe it.\" ",
+        "ack_speak_notes":"\"You better believe it.\" ",
         "ack_score":3
     },
     {
@@ -6696,7 +6696,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6716,7 +6716,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6736,7 +6736,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6756,7 +6756,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -6776,7 +6776,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6796,7 +6796,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6816,7 +6816,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6836,7 +6836,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"It was great. Thanks a lot for the chance.\"",
+        "ack_speak_notes":"\"It was great. Thanks a lot for the chance.\"",
         "ack_score":2
     },
     {
@@ -6856,7 +6856,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6876,7 +6876,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6896,7 +6896,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6916,7 +6916,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6936,7 +6936,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Hey, good luck with that food situation.\"",
+        "ack_speak_notes":"\"Hey, good luck with that food situation.\"",
         "ack_score":4
     },
     {
@@ -6956,7 +6956,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6976,7 +6976,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -6996,7 +6996,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye, guys.\"",
+        "ack_speak_notes":"\"Bye, guys.\"",
         "ack_score":2
     },
     {
@@ -7016,7 +7016,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -7036,7 +7036,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7056,7 +7056,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"I want to thank you ladies and you gentlemen for the adventure and for allowing me to see my wife. Adios.\"",
+        "ack_speak_notes":"\"I want to thank you ladies and you gentlemen for the adventure and for allowing me to see my wife. Adios.\"",
         "ack_score":3
     },
     {
@@ -7076,7 +7076,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7096,7 +7096,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7116,7 +7116,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7136,7 +7136,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7156,7 +7156,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys. Kick some ass.\"",
+        "ack_speak_notes":"\"Good luck, guys. Kick some ass.\"",
         "ack_score":4
     },
     {
@@ -7176,7 +7176,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7196,7 +7196,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -7216,7 +7216,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7236,7 +7236,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -7256,7 +7256,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7276,7 +7276,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7296,7 +7296,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -7316,7 +7316,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Guys... Keep your sunny side up.\"",
+        "ack_speak_notes":"\"Guys... Keep your sunny side up.\"",
         "ack_score":3
     },
     {
@@ -7336,7 +7336,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7356,7 +7356,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7376,7 +7376,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7396,7 +7396,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7416,7 +7416,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, you guys.\"",
+        "ack_speak_notes":"\"Good luck, you guys.\"",
         "ack_score":2
     },
     {
@@ -7436,7 +7436,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7456,7 +7456,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":2
     },
     {
@@ -7476,7 +7476,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Kick their asses... Phillip, you're a bitch\"",
+        "ack_speak_notes":"\"Kick their asses... Phillip, you're a bitch\"",
         "ack_score":2
     },
     {
@@ -7496,7 +7496,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Seeya, guys.\"",
+        "ack_speak_notes":"\"Seeya, guys.\"",
         "ack_score":4
     },
     {
@@ -7516,7 +7516,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"It's been fun. Good luck.\" ",
+        "ack_speak_notes":"\"It's been fun. Good luck.\" ",
         "ack_score":4
     },
     {
@@ -7536,7 +7536,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7556,7 +7556,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"You turkeys.\"",
+        "ack_speak_notes":"\"You turkeys.\"",
         "ack_score":3
     },
     {
@@ -7576,7 +7576,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7596,7 +7596,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Best of luck, guys.\"",
+        "ack_speak_notes":"\"Best of luck, guys.\"",
         "ack_score":4
     },
     {
@@ -7616,7 +7616,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Been a blast you guys, I can't wait to see wat happens.\"",
+        "ack_speak_notes":"\"Been a blast you guys, I can't wait to see wat happens.\"",
         "ack_score":3
     },
     {
@@ -7636,7 +7636,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7656,7 +7656,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"It hurts.\"",
+        "ack_speak_notes":"\"It hurts.\"",
         "ack_score":4
     },
     {
@@ -7676,7 +7676,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"What a game, guys.\"",
+        "ack_speak_notes":"\"What a game, guys.\"",
         "ack_score":4
     },
     {
@@ -7696,7 +7696,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7716,7 +7716,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7736,7 +7736,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -7756,7 +7756,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Peace guys.\"",
+        "ack_speak_notes":"\"Peace guys.\"",
         "ack_score":3
     },
     {
@@ -7776,7 +7776,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7796,7 +7796,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7816,7 +7816,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7836,7 +7836,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7856,7 +7856,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye, guys.\"",
+        "ack_speak_notes":"\"Bye, guys.\"",
         "ack_score":3
     },
     {
@@ -7876,7 +7876,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"See you guys. Have fun.\"",
+        "ack_speak_notes":"\"See you guys. Have fun.\"",
         "ack_score":4
     },
     {
@@ -7896,7 +7896,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7916,7 +7916,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"See y'all tomorrow.\"",
+        "ack_speak_notes":"\"See y'all tomorrow.\"",
         "ack_score":3
     },
     {
@@ -7936,7 +7936,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Love you.\"",
+        "ack_speak_notes":"\"Love you.\"",
         "ack_score":4
     },
     {
@@ -7956,7 +7956,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -7976,7 +7976,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck\"",
+        "ack_speak_notes":"\"Good luck\"",
         "ack_score":3
     },
     {
@@ -7996,7 +7996,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"See y'all later.\"",
+        "ack_speak_notes":"\"See y'all later.\"",
         "ack_score":4
     },
     {
@@ -8016,7 +8016,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye guys.\"",
+        "ack_speak_notes":"\"Bye guys.\"",
         "ack_score":3
     },
     {
@@ -8036,7 +8036,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8056,7 +8056,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8076,7 +8076,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8096,7 +8096,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8116,7 +8116,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8136,7 +8136,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":4
     },
     {
@@ -8156,7 +8156,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8176,7 +8176,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":4
     },
     {
@@ -8196,7 +8196,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, you guys.\"",
+        "ack_speak_notes":"\"Good luck, you guys.\"",
         "ack_score":4
     },
     {
@@ -8216,7 +8216,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":1
     },
     {
@@ -8236,7 +8236,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"Inaudible",
+        "ack_speak_notes":"Inaudible",
         "ack_score":4
     },
     {
@@ -8256,7 +8256,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys. It's been fun.\"",
+        "ack_speak_notes":"\"Good luck, guys. It's been fun.\"",
         "ack_score":4
     },
     {
@@ -8276,7 +8276,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8296,7 +8296,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck.\"",
+        "ack_speak_notes":"\"Good luck.\"",
         "ack_score":2
     },
     {
@@ -8316,7 +8316,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Adios\"",
+        "ack_speak_notes":"\"Adios\"",
         "ack_score":3
     },
     {
@@ -8336,7 +8336,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8356,7 +8356,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":" ",
+        "ack_speak_notes":" ",
         "ack_score":0
     },
     {
@@ -8376,7 +8376,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8396,7 +8396,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8416,7 +8416,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8436,7 +8436,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8456,7 +8456,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8476,7 +8476,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"I'll eat a cheeseburger for everybody.\"",
+        "ack_speak_notes":"\"I'll eat a cheeseburger for everybody.\"",
         "ack_score":3
     },
     {
@@ -8496,7 +8496,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8516,7 +8516,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -8536,7 +8536,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8556,7 +8556,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8576,7 +8576,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"See ya guys. Good luck.\" ",
+        "ack_speak_notes":"\"See ya guys. Good luck.\" ",
         "ack_score":3
     },
     {
@@ -8596,7 +8596,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Love y'all.\"",
+        "ack_speak_notes":"\"Love y'all.\"",
         "ack_score":3
     },
     {
@@ -8616,7 +8616,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"See y'all.\"",
+        "ack_speak_notes":"\"See y'all.\"",
         "ack_score":2
     },
     {
@@ -8636,7 +8636,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":3
     },
     {
@@ -8656,7 +8656,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good play.\"",
+        "ack_speak_notes":"\"Good play.\"",
         "ack_score":2
     },
     {
@@ -8676,7 +8676,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8696,7 +8696,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8716,7 +8716,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8736,7 +8736,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8756,7 +8756,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8776,7 +8776,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Love you, America.\"",
+        "ack_speak_notes":"\"Love you, America.\"",
         "ack_score":4
     },
     {
@@ -8796,7 +8796,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Hey, love you all. Good luck.\"",
+        "ack_speak_notes":"\"Hey, love you all. Good luck.\"",
         "ack_score":3
     },
     {
@@ -8816,7 +8816,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye, guys. Good luck. And play nice, alright? I'll see you soon.\"",
+        "ack_speak_notes":"\"Bye, guys. Good luck. And play nice, alright? I'll see you soon.\"",
         "ack_score":4
     },
     {
@@ -8836,7 +8836,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye, guys.\"",
+        "ack_speak_notes":"\"Bye, guys.\"",
         "ack_score":4
     },
     {
@@ -8856,7 +8856,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8876,7 +8876,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8896,7 +8896,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Sneaky\"",
+        "ack_speak_notes":"\"Sneaky\"",
         "ack_score":4
     },
     {
@@ -8916,7 +8916,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Alright, guys\"",
+        "ack_speak_notes":"\"Alright, guys\"",
         "ack_score":3
     },
     {
@@ -8936,7 +8936,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"No hard feelings, you guys. You played such a great game. It's all good.\"",
+        "ack_speak_notes":"\"No hard feelings, you guys. You played such a great game. It's all good.\"",
         "ack_score":4
     },
     {
@@ -8956,7 +8956,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8976,7 +8976,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -8996,7 +8996,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -9016,7 +9016,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -9036,7 +9036,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9056,7 +9056,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9076,7 +9076,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -9096,7 +9096,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9116,7 +9116,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9136,7 +9136,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9156,7 +9156,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, y'all. Boys: Best of luck.\"",
+        "ack_speak_notes":"\"Good luck, y'all. Boys: Best of luck.\"",
         "ack_score":0
     },
     {
@@ -9176,7 +9176,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Well played.\"",
+        "ack_speak_notes":"\"Well played.\"",
         "ack_score":3
     },
     {
@@ -9196,7 +9196,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Thank you very much for a great game.\"",
+        "ack_speak_notes":"\"Thank you very much for a great game.\"",
         "ack_score":4
     },
     {
@@ -9216,7 +9216,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Hang in there.\"",
+        "ack_speak_notes":"\"Hang in there.\"",
         "ack_score":3
     },
     {
@@ -9236,7 +9236,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck guys. See you tomorrow.\"",
+        "ack_speak_notes":"\"Good luck guys. See you tomorrow.\"",
         "ack_score":4
     },
     {
@@ -9256,7 +9256,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good game.\"",
+        "ack_speak_notes":"\"Good game.\"",
         "ack_score":2
     },
     {
@@ -9276,7 +9276,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"See you guys. Hope you win lots more challenges.\"",
+        "ack_speak_notes":"\"See you guys. Hope you win lots more challenges.\"",
         "ack_score":4
     },
     {
@@ -9296,7 +9296,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck everyone!\"",
+        "ack_speak_notes":"\"Good luck everyone!\"",
         "ack_score":2
     },
     {
@@ -9316,7 +9316,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck Cydney\"",
+        "ack_speak_notes":"\"Good luck Cydney\"",
         "ack_score":3
     },
     {
@@ -9336,7 +9336,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck everyone.\"",
+        "ack_speak_notes":"\"Good luck everyone.\"",
         "ack_score":4
     },
     {
@@ -9356,7 +9356,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -9376,7 +9376,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9396,7 +9396,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9416,7 +9416,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9436,7 +9436,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9456,7 +9456,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -9476,7 +9476,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9496,7 +9496,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9516,7 +9516,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Salty\"",
+        "ack_speak_notes":"\"Salty\"",
         "ack_score":2
     },
     {
@@ -9536,7 +9536,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":3
     },
     {
@@ -9556,7 +9556,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9576,7 +9576,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":2
     },
     {
@@ -9596,7 +9596,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, Tays.\"",
+        "ack_speak_notes":"\"Good luck, Tays.\"",
         "ack_score":2
     },
     {
@@ -9616,7 +9616,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"You going to feel like an asshole... my shoes... Damn, Jay\" ",
+        "ack_speak_notes":"\"You going to feel like an asshole... my shoes... Damn, Jay\" ",
         "ack_score":2
     },
     {
@@ -9636,7 +9636,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -9656,7 +9656,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys... Sorry for stealing food.\"",
+        "ack_speak_notes":"\"Good luck, guys... Sorry for stealing food.\"",
         "ack_score":3
     },
     {
@@ -9676,7 +9676,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Boomer\"",
+        "ack_speak_notes":"\"Boomer\"",
         "ack_score":3
     },
     {
@@ -9696,7 +9696,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9716,7 +9716,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9736,7 +9736,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"I had a blast guys. Good luck to all of you.\"",
+        "ack_speak_notes":"\"I had a blast guys. Good luck to all of you.\"",
         "ack_score":3
     },
     {
@@ -9756,7 +9756,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys. Have fun.\"",
+        "ack_speak_notes":"\"Good luck, guys. Have fun.\"",
         "ack_score":3
     },
     {
@@ -9776,7 +9776,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -9796,7 +9796,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"David, good luck to you. The rest of you: You just lost a million dollars.\"",
+        "ack_speak_notes":"\"David, good luck to you. The rest of you: You just lost a million dollars.\"",
         "ack_score":3
     },
     {
@@ -9816,7 +9816,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Playing Survivor is the biggest dream I ever had, and I'm so glad I got to play it with all of you. But not Vinaka.\"",
+        "ack_speak_notes":"\"Playing Survivor is the biggest dream I ever had, and I'm so glad I got to play it with all of you. But not Vinaka.\"",
         "ack_score":2
     },
     {
@@ -9836,7 +9836,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck everyone good job.\"",
+        "ack_speak_notes":"\"Good luck everyone good job.\"",
         "ack_score":4
     },
     {
@@ -9856,7 +9856,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -9876,7 +9876,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9896,7 +9896,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9916,7 +9916,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -9936,7 +9936,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":4
     },
     {
@@ -9956,7 +9956,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -9976,7 +9976,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"I enjoyed meeting every one of you. May the best player win!\"",
+        "ack_speak_notes":"\"I enjoyed meeting every one of you. May the best player win!\"",
         "ack_score":4
     },
     {
@@ -9996,7 +9996,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good job guys. Good luck eating.\"",
+        "ack_speak_notes":"\"Good job guys. Good luck eating.\"",
         "ack_score":4
     },
     {
@@ -10016,7 +10016,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck to you all.\"",
+        "ack_speak_notes":"\"Good luck to you all.\"",
         "ack_score":4
     },
     {
@@ -10036,7 +10036,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Keep playing hard gang.\" ",
+        "ack_speak_notes":"\"Keep playing hard gang.\" ",
         "ack_score":4
     },
     {
@@ -10056,7 +10056,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Yep. Privilege guys!\"",
+        "ack_speak_notes":"\"Yep. Privilege guys!\"",
         "ack_score":4
     },
     {
@@ -10076,7 +10076,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10096,7 +10096,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10116,7 +10116,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Thank you Jeff\"",
+        "ack_speak_notes":"\"Thank you Jeff\"",
         "ack_score":4
     },
     {
@@ -10136,7 +10136,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"The full experience.\"",
+        "ack_speak_notes":"\"The full experience.\"",
         "ack_score":0
     },
     {
@@ -10156,7 +10156,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Thank you Jeff for a great season. Appreicate it. Thank you.\"",
+        "ack_speak_notes":"\"Thank you Jeff for a great season. Appreicate it. Thank you.\"",
         "ack_score":0
     },
     {
@@ -10176,7 +10176,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":3
     },
     {
@@ -10196,7 +10196,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye\"",
+        "ack_speak_notes":"\"Bye\"",
         "ack_score":4
     },
     {
@@ -10216,7 +10216,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -10236,7 +10236,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, everyone.\"",
+        "ack_speak_notes":"\"Good luck, everyone.\"",
         "ack_score":3
     },
     {
@@ -10256,7 +10256,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":3
     },
     {
@@ -10276,7 +10276,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10296,7 +10296,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -10316,7 +10316,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck everyone.\"",
+        "ack_speak_notes":"\"Good luck everyone.\"",
         "ack_score":4
     },
     {
@@ -10336,7 +10336,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys. Have fun out there.\" ",
+        "ack_speak_notes":"\"Good luck, guys. Have fun out there.\" ",
         "ack_score":4
     },
     {
@@ -10356,7 +10356,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10376,7 +10376,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10396,7 +10396,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":4
     },
     {
@@ -10416,7 +10416,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, you guys.\"",
+        "ack_speak_notes":"\"Good luck, you guys.\"",
         "ack_score":3
     },
     {
@@ -10436,7 +10436,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, everybody.\"",
+        "ack_speak_notes":"\"Good luck, everybody.\"",
         "ack_score":2
     },
     {
@@ -10456,7 +10456,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -10476,7 +10476,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10496,7 +10496,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Y'all did good.\"",
+        "ack_speak_notes":"\"Y'all did good.\"",
         "ack_score":4
     },
     {
@@ -10516,7 +10516,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Don't trust the cute blondes.\"",
+        "ack_speak_notes":"\"Don't trust the cute blondes.\"",
         "ack_score":4
     },
     {
@@ -10536,7 +10536,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10556,7 +10556,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye guys.\"",
+        "ack_speak_notes":"\"Bye guys.\"",
         "ack_score":3
     },
     {
@@ -10576,7 +10576,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Great blindside, y'all. It's been a true pleasure playing with you all. Best of luck.\"",
+        "ack_speak_notes":"\"Great blindside, y'all. It's been a true pleasure playing with you all. Best of luck.\"",
         "ack_score":4
     },
     {
@@ -10596,7 +10596,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10616,7 +10616,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10636,7 +10636,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"See you, guys.\"",
+        "ack_speak_notes":"\"See you, guys.\"",
         "ack_score":4
     },
     {
@@ -10656,7 +10656,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Ladies y'all better keep winning.\"",
+        "ack_speak_notes":"\"Ladies y'all better keep winning.\"",
         "ack_score":1
     },
     {
@@ -10676,7 +10676,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10696,7 +10696,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"It's been one hell of a time, guys. Vinaka.\"",
+        "ack_speak_notes":"\"It's been one hell of a time, guys. Vinaka.\"",
         "ack_score":3
     },
     {
@@ -10716,7 +10716,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10736,7 +10736,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"It's truly been a pleasure. From the bottom of my heart, I wish you all the best of look.\"",
+        "ack_speak_notes":"\"It's truly been a pleasure. From the bottom of my heart, I wish you all the best of look.\"",
         "ack_score":4
     },
     {
@@ -10756,7 +10756,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"You guys have no idea how much fun I had with all you. It was truly a pleasure.\"",
+        "ack_speak_notes":"\"You guys have no idea how much fun I had with all you. It was truly a pleasure.\"",
         "ack_score":4
     },
     {
@@ -10776,7 +10776,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10796,7 +10796,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck.\"",
+        "ack_speak_notes":"\"Good luck.\"",
         "ack_score":3
     },
     {
@@ -10816,7 +10816,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye, guys.\"",
+        "ack_speak_notes":"\"Bye, guys.\"",
         "ack_score":2
     },
     {
@@ -10836,7 +10836,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10856,7 +10856,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Did you know? Why are you smiling. Oh my God I can't handle you right now.\"",
+        "ack_speak_notes":"\"Did you know? Why are you smiling. Oh my God I can't handle you right now.\"",
         "ack_score":3
     },
     {
@@ -10876,7 +10876,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10896,7 +10896,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye, guys.\"",
+        "ack_speak_notes":"\"Bye, guys.\"",
         "ack_score":2
     },
     {
@@ -10916,7 +10916,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, you guys. I love you all. I really do.\"",
+        "ack_speak_notes":"\"Good luck, you guys. I love you all. I really do.\"",
         "ack_score":3
     },
     {
@@ -10936,7 +10936,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Guys\"",
+        "ack_speak_notes":"\"Guys\"",
         "ack_score":4
     },
     {
@@ -10956,7 +10956,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -10976,7 +10976,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -10996,7 +10996,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Go get 'em. Good job, guys.\"",
+        "ack_speak_notes":"\"Go get 'em. Good job, guys.\"",
         "ack_score":3
     },
     {
@@ -11016,7 +11016,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Sorry, Christian. I love you.\"",
+        "ack_speak_notes":"\"Sorry, Christian. I love you.\"",
         "ack_score":4
     },
     {
@@ -11036,7 +11036,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck to you all. Well played.\"",
+        "ack_speak_notes":"\"Good luck to you all. Well played.\"",
         "ack_score":3
     },
     {
@@ -11056,7 +11056,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"I will say this. The person who orchestrated this, you now have my vote for a million dollars. It's up to someone else to make a bigger move.\"",
+        "ack_speak_notes":"\"I will say this. The person who orchestrated this, you now have my vote for a million dollars. It's up to someone else to make a bigger move.\"",
         "ack_score":3
     },
     {
@@ -11076,7 +11076,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck. I'll see you all soon.\"",
+        "ack_speak_notes":"\"Good luck. I'll see you all soon.\"",
         "ack_score":4
     },
     {
@@ -11096,7 +11096,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"Bye guys. See you soon.\"",
+        "ack_speak_notes":"Bye guys. See you soon.\"",
         "ack_score":4
     },
     {
@@ -11116,7 +11116,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Thank you.\"",
+        "ack_speak_notes":"\"Thank you.\"",
         "ack_score":2
     },
     {
@@ -11136,7 +11136,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -11156,7 +11156,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -11176,7 +11176,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":4
     },
     {
@@ -11196,7 +11196,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys. Kill it.\"",
+        "ack_speak_notes":"\"Good luck, guys. Kill it.\"",
         "ack_score":2
     },
     {
@@ -11216,7 +11216,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":4
     },
     {
@@ -11236,7 +11236,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"You made a big mistake.\" ",
+        "ack_speak_notes":"\"You made a big mistake.\" ",
         "ack_score":2
     },
     {
@@ -11256,7 +11256,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"The lord gives. The lord takes away. What a fun experience. Hopefully I'll see you soon.\"",
+        "ack_speak_notes":"\"The lord gives. The lord takes away. What a fun experience. Hopefully I'll see you soon.\"",
         "ack_score":2
     },
     {
@@ -11276,7 +11276,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"It's been such a pleasure, guys. I know it's a game but, really, take care of yourselves and each other. Good luck.\"",
+        "ack_speak_notes":"\"It's been such a pleasure, guys. I know it's a game but, really, take care of yourselves and each other. Good luck.\"",
         "ack_score":3
     },
     {
@@ -11296,7 +11296,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"No hard feelings guys. You know I had to try. But I am going to follow my way back in.\" ",
+        "ack_speak_notes":"\"No hard feelings guys. You know I had to try. But I am going to follow my way back in.\" ",
         "ack_score":3
     },
     {
@@ -11316,7 +11316,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck. See you soon.\"",
+        "ack_speak_notes":"\"Good luck. See you soon.\"",
         "ack_score":3
     },
     {
@@ -11336,7 +11336,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Y'all made the right decision. Love you.\"",
+        "ack_speak_notes":"\"Y'all made the right decision. Love you.\"",
         "ack_score":4
     },
     {
@@ -11356,7 +11356,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Devins, you're a great player. It was a lot of fun. Bye. Thanks.\"",
+        "ack_speak_notes":"\"Devins, you're a great player. It was a lot of fun. Bye. Thanks.\"",
         "ack_score":4
     },
     {
@@ -11376,7 +11376,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good game guys. Good luck. Get him out.\"",
+        "ack_speak_notes":"\"Good game guys. Good luck. Get him out.\"",
         "ack_score":4
     },
     {
@@ -11396,7 +11396,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"I'm not sure which one of you did it. Devins, great play. Gavin, I'm voing for you, man.\"",
+        "ack_speak_notes":"\"I'm not sure which one of you did it. Devins, great play. Gavin, I'm voing for you, man.\"",
         "ack_score":4
     },
     {
@@ -11416,7 +11416,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye guys. Seriously, good luck.\"",
+        "ack_speak_notes":"\"Bye guys. Seriously, good luck.\"",
         "ack_score":4
     },
     {
@@ -11436,7 +11436,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Thank you.\"",
+        "ack_speak_notes":"\"Thank you.\"",
         "ack_score":4
     },
     {
@@ -11456,7 +11456,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"OK guys.\"",
+        "ack_speak_notes":"\"OK guys.\"",
         "ack_score":3
     },
     {
@@ -11476,7 +11476,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":4
     },
     {
@@ -11496,7 +11496,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, all.\"",
+        "ack_speak_notes":"\"Good luck, all.\"",
         "ack_score":4
     },
     {
@@ -11516,7 +11516,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":4
     },
     {
@@ -11536,7 +11536,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"See ya, guys. Good luck.\"",
+        "ack_speak_notes":"\"See ya, guys. Good luck.\"",
         "ack_score":2
     },
     {
@@ -11556,7 +11556,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -11576,7 +11576,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"See you all.\"",
+        "ack_speak_notes":"\"See you all.\"",
         "ack_score":4
     },
     {
@@ -11596,7 +11596,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":4
     },
     {
@@ -11616,7 +11616,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -11636,7 +11636,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -11656,7 +11656,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Dang, Elaine, I knew it. All right. I'll see you all later. Wednesday night at 8.\"",
+        "ack_speak_notes":"\"Dang, Elaine, I knew it. All right. I'll see you all later. Wednesday night at 8.\"",
         "ack_score":4
     },
     {
@@ -11676,7 +11676,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Love you.\"",
+        "ack_speak_notes":"\"Love you.\"",
         "ack_score":4
     },
     {
@@ -11696,7 +11696,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -11716,7 +11716,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Love y'all.\"",
+        "ack_speak_notes":"\"Love y'all.\"",
         "ack_score":3
     },
     {
@@ -11736,7 +11736,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye guys.\"",
+        "ack_speak_notes":"\"Bye guys.\"",
         "ack_score":3
     },
     {
@@ -11756,7 +11756,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye guys, good luck. Love you Tommy.\"",
+        "ack_speak_notes":"\"Bye guys, good luck. Love you Tommy.\"",
         "ack_score":4
     },
     {
@@ -11776,7 +11776,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -11796,7 +11796,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -11816,7 +11816,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -11836,7 +11836,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck.\"",
+        "ack_speak_notes":"\"Good luck.\"",
         "ack_score":2
     },
     {
@@ -11856,7 +11856,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -11876,7 +11876,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -11896,7 +11896,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":2
     },
     {
@@ -11916,7 +11916,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Day 16 got me again.\"",
+        "ack_speak_notes":"\"Day 16 got me again.\"",
         "ack_score":3
     },
     {
@@ -11936,7 +11936,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Alright, you guys.\"",
+        "ack_speak_notes":"\"Alright, you guys.\"",
         "ack_score":3
     },
     {
@@ -11956,7 +11956,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Keep playing, guys.\"",
+        "ack_speak_notes":"\"Keep playing, guys.\"",
         "ack_score":2
     },
     {
@@ -11976,7 +11976,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":2
     },
     {
@@ -11996,7 +11996,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"See you guy soon.\"",
+        "ack_speak_notes":"\"See you guy soon.\"",
         "ack_score":2
     },
     {
@@ -12016,7 +12016,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck, guys. Did not see it coming.\"",
+        "ack_speak_notes":"\"Good luck, guys. Did not see it coming.\"",
         "ack_score":3
     },
     {
@@ -12036,7 +12036,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -12056,7 +12056,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12076,7 +12076,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"I'll do my best to join you again tomorrow.\"",
+        "ack_speak_notes":"\"I'll do my best to join you again tomorrow.\"",
         "ack_score":3
     },
     {
@@ -12096,7 +12096,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Kick ass.\"",
+        "ack_speak_notes":"\"Kick ass.\"",
         "ack_score":3
     },
     {
@@ -12116,7 +12116,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12136,7 +12136,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"It was a pleasure. Tony: I love you. Crush it tomorrow, alright?\"",
+        "ack_speak_notes":"\"It was a pleasure. Tony: I love you. Crush it tomorrow, alright?\"",
         "ack_score":3
     },
     {
@@ -12156,7 +12156,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Enjoy this ride.\"",
+        "ack_speak_notes":"\"Enjoy this ride.\"",
         "ack_score":3
     },
     {
@@ -12176,7 +12176,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good bye. Good luck.\"",
+        "ack_speak_notes":"\"Good bye. Good luck.\"",
         "ack_score":4
     },
     {
@@ -12196,7 +12196,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12216,7 +12216,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12236,7 +12236,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -12256,7 +12256,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye guys.\"",
+        "ack_speak_notes":"\"Bye guys.\"",
         "ack_score":3
     },
     {
@@ -12276,7 +12276,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12296,7 +12296,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, guys.\"",
+        "ack_speak_notes":"\"Good luck, guys.\"",
         "ack_score":4
     },
     {
@@ -12316,7 +12316,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good job, guys.\"",
+        "ack_speak_notes":"\"Good job, guys.\"",
         "ack_score":4
     },
     {
@@ -12336,7 +12336,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Well played, guys.\"",
+        "ack_speak_notes":"\"Well played, guys.\"",
         "ack_score":3
     },
     {
@@ -12356,7 +12356,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12376,7 +12376,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye y'all. Play hard.\"",
+        "ack_speak_notes":"\"Bye y'all. Play hard.\"",
         "ack_score":4
     },
     {
@@ -12396,7 +12396,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Apprecite you. Go Cowboys.\"",
+        "ack_speak_notes":"\"Apprecite you. Go Cowboys.\"",
         "ack_score":4
     },
     {
@@ -12416,7 +12416,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -12436,7 +12436,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye, guys.\"",
+        "ack_speak_notes":"\"Bye, guys.\"",
         "ack_score":4
     },
     {
@@ -12456,7 +12456,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"I really did have a blast.\"",
+        "ack_speak_notes":"\"I really did have a blast.\"",
         "ack_score":4
     },
     {
@@ -12476,7 +12476,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"See you guys. Bring it home.\"",
+        "ack_speak_notes":"\"See you guys. Bring it home.\"",
         "ack_score":4
     },
     {
@@ -12496,7 +12496,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12516,7 +12516,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12536,7 +12536,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -12556,7 +12556,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck guys.\"",
+        "ack_speak_notes":"\"Good luck guys.\"",
         "ack_score":3
     },
     {
@@ -12576,7 +12576,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12596,7 +12596,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck.\"",
+        "ack_speak_notes":"\"Good luck.\"",
         "ack_score":3
     },
     {
@@ -12616,7 +12616,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Have fun, y'all\"",
+        "ack_speak_notes":"\"Have fun, y'all\"",
         "ack_score":4
     },
     {
@@ -12636,7 +12636,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye guys.\"",
+        "ack_speak_notes":"\"Bye guys.\"",
         "ack_score":4
     },
     {
@@ -12656,7 +12656,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Love you.\"",
+        "ack_speak_notes":"\"Love you.\"",
         "ack_score":4
     },
     {
@@ -12676,7 +12676,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Love you, guys. See you soon.\"",
+        "ack_speak_notes":"\"Love you, guys. See you soon.\"",
         "ack_score":4
     },
     {
@@ -12696,7 +12696,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"Good luck, guys. Gonna eat so much food.\"",
+        "ack_speak_notes":"Good luck, guys. Gonna eat so much food.\"",
         "ack_score":4
     },
     {
@@ -12716,7 +12716,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Hey, my friends. All love.\"",
+        "ack_speak_notes":"\"Hey, my friends. All love.\"",
         "ack_score":3
     },
     {
@@ -12736,7 +12736,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye guys.\"",
+        "ack_speak_notes":"\"Bye guys.\"",
         "ack_score":4
     },
     {
@@ -12756,7 +12756,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":4
     },
     {
@@ -12776,7 +12776,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye guys.\"",
+        "ack_speak_notes":"\"Bye guys.\"",
         "ack_score":3
     },
     {
@@ -12796,7 +12796,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12816,7 +12816,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12836,7 +12836,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12856,7 +12856,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Thank you\"",
+        "ack_speak_notes":"\"Thank you\"",
         "ack_score":4
     },
     {
@@ -12876,7 +12876,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"See you guys in the real world.\"",
+        "ack_speak_notes":"\"See you guys in the real world.\"",
         "ack_score":3
     },
     {
@@ -12896,7 +12896,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12916,7 +12916,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -12936,7 +12936,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck everyone.\"",
+        "ack_speak_notes":"\"Good luck everyone.\"",
         "ack_score":4
     },
     {
@@ -12956,7 +12956,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Lot of fun, peeps.\"",
+        "ack_speak_notes":"\"Lot of fun, peeps.\"",
         "ack_score":4
     },
     {
@@ -12976,7 +12976,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":" \"A hui hou ... and aloha\"",
+        "ack_speak_notes":" \"A hui hou ... and aloha\"",
         "ack_score":4
     },
     {
@@ -12996,7 +12996,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, y'all. I love y'all.\"",
+        "ack_speak_notes":"\"Good luck, y'all. I love y'all.\"",
         "ack_score":3
     },
     {
@@ -13016,7 +13016,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -13036,7 +13036,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck you guys.\"",
+        "ack_speak_notes":"\"Good luck you guys.\"",
         "ack_score":4
     },
     {
@@ -13056,7 +13056,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -13076,7 +13076,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Good luck.\"",
+        "ack_speak_notes":"\"Good luck.\"",
         "ack_score":2
     },
     {
@@ -13096,7 +13096,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -13116,7 +13116,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye guys.\"",
+        "ack_speak_notes":"\"Bye guys.\"",
         "ack_score":3
     },
     {
@@ -13136,7 +13136,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Proud of you, Frannie, for winning today.\"",
+        "ack_speak_notes":"\"Proud of you, Frannie, for winning today.\"",
         "ack_score":3
     },
     {
@@ -13156,7 +13156,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Well played.\"",
+        "ack_speak_notes":"\"Well played.\"",
         "ack_score":3
     },
     {
@@ -13176,7 +13176,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Enjoy your rice, you bitches.\"",
+        "ack_speak_notes":"\"Enjoy your rice, you bitches.\"",
         "ack_score":3
     },
     {
@@ -13196,7 +13196,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -13216,7 +13216,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"You're awesome.\"",
+        "ack_speak_notes":"\"You're awesome.\"",
         "ack_score":4
     },
     {
@@ -13236,7 +13236,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Love you guys.\" ",
+        "ack_speak_notes":"\"Love you guys.\" ",
         "ack_score":4
     },
     {
@@ -13256,7 +13256,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -13276,7 +13276,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Good luck, y'all. Y'all are amazing.\"",
+        "ack_speak_notes":"\"Good luck, y'all. Y'all are amazing.\"",
         "ack_score":3
     },
     {
@@ -13296,7 +13296,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"I love you guys so much.\"",
+        "ack_speak_notes":"\"I love you guys so much.\"",
         "ack_score":4
     },
     {
@@ -13316,7 +13316,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"This is cool. It's really cool.\"",
+        "ack_speak_notes":"\"This is cool. It's really cool.\"",
         "ack_score":3
     },
     {
@@ -13336,7 +13336,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Who? ... Who?\"",
+        "ack_speak_notes":"\"Who? ... Who?\"",
         "ack_score":3
     },
     {
@@ -13356,7 +13356,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -13376,7 +13376,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Hey, one of y'all win it for me. I love you all. Good luck.\"",
+        "ack_speak_notes":"\"Hey, one of y'all win it for me. I love you all. Good luck.\"",
         "ack_score":4
     },
     {
@@ -13396,7 +13396,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -13416,7 +13416,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Thank you, everybody. It's been a pleasure.\"",
+        "ack_speak_notes":"\"Thank you, everybody. It's been a pleasure.\"",
         "ack_score":3
     },
     {
@@ -13436,7 +13436,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Always a pleasure.\"",
+        "ack_speak_notes":"\"Always a pleasure.\"",
         "ack_score":4
     },
     {
@@ -13456,7 +13456,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"\"Bye.\"",
+        "ack_speak_notes":"\"Bye.\"",
         "ack_score":2
     },
     {
@@ -13476,7 +13476,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -13496,7 +13496,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":1
     },
     {
@@ -13516,7 +13516,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"My vote's going to the best player.\"",
+        "ack_speak_notes":"\"My vote's going to the best player.\"",
         "ack_score":4
     },
     {
@@ -13536,7 +13536,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -13556,7 +13556,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":3
     },
     {
@@ -13576,7 +13576,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Love you guys. Good luck! Give 'em hell.\"",
+        "ack_speak_notes":"\"Love you guys. Good luck! Give 'em hell.\"",
         "ack_score":2
     },
     {
@@ -13596,7 +13596,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -13616,7 +13616,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":true,
-        "ack_speak_quote":"\"Bye\"",
+        "ack_speak_notes":"\"Bye\"",
         "ack_score":4
     },
     {
@@ -13636,7 +13636,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -13656,7 +13656,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -13676,7 +13676,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -13696,7 +13696,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"Love y'all.\"",
+        "ack_speak_notes":"\"Love y'all.\"",
         "ack_score":3
     },
     {
@@ -13716,7 +13716,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -13736,7 +13736,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"It doesn't rock.\"",
+        "ack_speak_notes":"\"It doesn't rock.\"",
         "ack_score":3
     },
     {
@@ -13756,7 +13756,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     },
     {
@@ -13776,7 +13776,7 @@
         "ack_speak":false,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":2
     },
     {
@@ -13796,7 +13796,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"Great game, you guys.\"",
+        "ack_speak_notes":"\"Great game, you guys.\"",
         "ack_score":3
     },
     {
@@ -13816,7 +13816,7 @@
         "ack_speak":true,
         "ack_gesture":true,
         "ack_smile":false,
-        "ack_speak_quote":"\"See y'all now\"",
+        "ack_speak_notes":"\"See y'all now\"",
         "ack_score":3
     },
     {
@@ -13836,7 +13836,7 @@
         "ack_speak":true,
         "ack_gesture":false,
         "ack_smile":true,
-        "ack_speak_quote":"\"It's been a pleasure, you guys.\"",
+        "ack_speak_notes":"\"It's been a pleasure, you guys.\"",
         "ack_score":3
     },
     {
@@ -13856,7 +13856,7 @@
         "ack_speak":false,
         "ack_gesture":false,
         "ack_smile":false,
-        "ack_speak_quote":"",
+        "ack_speak_notes":"",
         "ack_score":0
     }
 ]

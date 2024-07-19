@@ -10,7 +10,7 @@ json_output_path = base_dir / "../data/processed/survivor_vote_off_order.json"
 
 # Read vote history table from the [survivoR2py repo](https://github.com/stiles/survivoR2py)
 vote_history_df = pd.read_csv(
-    "https://raw.githubusercontent.com/stiles/survivoR2py/main/data/raw/csv/vote_history.csv",
+    "https://raw.githubusercontent.com/stiles/survivoR2py/main/data/processed/csv/vote_history.csv",
     dtype={"season": str, "vote": str, "episode": str},
 )
 
@@ -33,7 +33,7 @@ vote_offs["vote"] = vote_offs.groupby("season")["voted_out"].cumcount() + 1
 
 # Add a bit more information about castaway to the dataframe
 castaway_details_df = pd.read_csv(
-    "https://raw.githubusercontent.com/stiles/survivoR2py/main/data/raw/csv/castaway_details.csv"
+    "https://raw.githubusercontent.com/stiles/survivoR2py/main/data/processed/csv/castaway_details.csv"
 )
 
 # Merge the vote off order and castaway bio details

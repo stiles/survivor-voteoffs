@@ -1,4 +1,4 @@
-season,season_name,vote,episode,castaway,full_name,castaway_id,gender,date_of_birth,personality_type,occupation,acknowledge,ack_look,ack_speak,ack_gesture,ack_smile,ack_speak_quote,ack_score
+season,season_name,vote,episode,castaway,full_name,castaway_id,gender,date_of_birth,personality_type,occupation,acknowledge,ack_look,ack_speak,ack_gesture,ack_smile,ack_speak_notes,ack_score
 1,Survivor: Borneo,1,1,Sonja,Sonja Christopher,US0001,Female,1937-01-28,ENFP,Musician,True,True,True,True,True,"""Go get 'em you guys.""",4
 1,Survivor: Borneo,2,2,B.B.,B.B. Andersen,US0002,Male,1936-01-18,ESTJ,Real Estate Developer,False,False,False,False,False,,0
 1,Survivor: Borneo,3,3,Stacey,Stacey Stillman,US0003,Female,1972-08-11,ENTJ,Attorney,False,False,False,False,False,,0
@@ -13,18 +13,18 @@ season,season_name,vote,episode,castaway,full_name,castaway_id,gender,date_of_bi
 1,Survivor: Borneo,12,12,Sean,Sean Kenniff,US0012,Male,1969-11-27,INTP,Doctor,True,True,True,False,False,"""See you in a few days."" ",2
 1,Survivor: Borneo,13,13,Sue,Susan Hawk,US0013,Female,1961-08-17,ESTP,Truck Driver,True,True,True,True,True,"""See you guys."" ",4
 1,Survivor: Borneo,14,13,Rudy,Rudy Boesch,US0014,Male,1928-01-20,ISTJ,Retired Navy SEAL,False,False,False,False,False,,0
-2,Survivor: The Australian Outback,1,1,Debb,Debb Eaton,US0017,Female,1955-06-11,ISFP,Corrections Officer,False,False,False,False,False,,0
-2,Survivor: The Australian Outback,2,2,Kel,Kel Gleason,US0018,Male,1968-01-05,ISTJ,Army Intelligence Officer,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,1,1,Debb,Debb Eaton,US0017,Female,1955-06-11,ISFP,Corrections Officer,True,True,False,True,False,,2
+2,Survivor: The Australian Outback,2,2,Kel,Kel Gleason,US0018,Male,1968-01-05,ISTJ,Army Intelligence Officer,True,True,True,False,True,"""Go get 'em""",3
 2,Survivor: The Australian Outback,3,3,Maralyn,Maralyn Hershey,US0019,Female,1949-01-24,ESTP,Retired Police Officer,False,False,False,False,False,,0
 2,Survivor: The Australian Outback,4,4,Mitchell,Mitchell Olson,US0020,Male,1977-03-17,ENFP,Singer/Songwriter,False,False,False,False,False,,0
-2,Survivor: The Australian Outback,5,5,Kimmi,Kimmi Kappenberg,US0021,Female,1972-11-11,ENFP,Bartender,False,False,False,False,False,,0
-2,Survivor: The Australian Outback,6,7,Jeff,Jeff Varner,US0023,Male,1966-04-16,ENFP,Internet Projects Manager,False,False,False,False,False,,0
-2,Survivor: The Australian Outback,7,8,Alicia,Alicia Calaway,US0024,Female,1968-05-01,ESTJ,Personal Trainer,False,False,False,False,False,,0
-2,Survivor: The Australian Outback,8,10,Jerri,Jerri Manthey,US0025,Female,1970-09-05,ESFP,Aspiring Actress,False,False,False,False,False,,0
-2,Survivor: The Australian Outback,9,11,Nick,Nick Brown,US0026,Male,1977-04-02,ISTJ,Harvard Law Student,False,False,False,False,False,,0
-2,Survivor: The Australian Outback,10,12,Amber,Amber Mariano,US0027,Female,1978-08-11,ISFP,Administrative Assistant;Director of Marketing and Communications,False,False,False,False,False,,0
-2,Survivor: The Australian Outback,11,13,Rodger,Rodger Bingham,US0028,Male,1947-07-05,ISFJ,Teacher/Farmer,False,False,False,False,False,,0
-2,Survivor: The Australian Outback,12,14,Elisabeth,Elisabeth Filarski,US0029,Female,1977-05-28,INFP,Footwear Designer,False,False,False,False,False,,0
+2,Survivor: The Australian Outback,5,5,Kimmi,Kimmi Kappenberg,US0021,Female,1972-11-11,ENFP,Bartender,True,True,True,True,True,"""Got get 'em, guys.""",4
+2,Survivor: The Australian Outback,6,7,Jeff,Jeff Varner,US0023,Male,1966-04-16,ENFP,Internet Projects Manager,True,True,False,True,True,,3
+2,Survivor: The Australian Outback,7,8,Alicia,Alicia Calaway,US0024,Female,1968-05-01,ESTJ,Personal Trainer,True,True,True,True,True,"""Bye, guys""",4
+2,Survivor: The Australian Outback,8,10,Jerri,Jerri Manthey,US0025,Female,1970-09-05,ESFP,Aspiring Actress,True,True,False,True,True,,3
+2,Survivor: The Australian Outback,9,11,Nick,Nick Brown,US0026,Male,1977-04-02,ISTJ,Harvard Law Student,True,True,False,True,False,,2
+2,Survivor: The Australian Outback,10,12,Amber,Amber Mariano,US0027,Female,1978-08-11,ISFP,Administrative Assistant;Director of Marketing and Communications,True,True,False,True,True,,3
+2,Survivor: The Australian Outback,11,13,Rodger,Rodger Bingham,US0028,Male,1947-07-05,ISFJ,Teacher/Farmer,True,True,False,True,True,,3
+2,Survivor: The Australian Outback,12,14,Elisabeth,Elisabeth Filarski,US0029,Female,1977-05-28,INFP,Footwear Designer,True,True,False,True,True,,3
 2,Survivor: The Australian Outback,13,15,Keith,Keith Famie,US0030,Male,1960-02-11,ESTJ,Chef,False,False,False,False,False,,0
 3,Survivor: Africa,1,1,Diane,Diane Ogden,US0033,Female,1959-04-27,ESTP,U.S. Mail Carrier,True,True,True,True,True,"""Good luck""",4
 3,Survivor: Africa,2,2,Jessie,Jessie Camacho,US0034,Female,1974-09-24,ISFP,Deputy Sheriff,False,False,False,False,False,,0
