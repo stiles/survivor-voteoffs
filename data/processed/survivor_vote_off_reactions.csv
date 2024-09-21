@@ -1,4 +1,4 @@
-season,season_name,vote,episode,castaway,full_name,castaway_id,gender,date_of_birth,personality_type,occupation,acknowledge,ack_look,ack_speak,ack_gesture,ack_smile,ack_speak_notes,ack_score
+season,season_name,vote,episode,castaway,full_name,castaway_id,gender,date_of_birth,personality_type,occupation,acknowledge,ack_look,ack_speak,ack_gesture,ack_smile,ack_quote,ack_score
 1,Survivor: Borneo,1,1,Sonja,Sonja Christopher,US0001,Female,1937-01-28,ENFP,Musician,True,True,True,True,True,"""Go get 'em you guys.""",4
 1,Survivor: Borneo,2,2,B.B.,B.B. Andersen,US0002,Male,1936-01-18,ESTJ,Real Estate Developer,False,False,False,False,False,,0
 1,Survivor: Borneo,3,3,Stacey,Stacey Stillman,US0003,Female,1972-08-11,ENTJ,Attorney,False,False,False,False,False,,0
@@ -424,7 +424,7 @@ season,season_name,vote,episode,castaway,full_name,castaway_id,gender,date_of_bi
 29,Survivor: San Juan del Sur,6,6,Dale,Dale Wentworth,US0430,Male,1959-03-07,ISTJ,Farmer,False,False,False,False,False,,0
 29,Survivor: San Juan del Sur,7,8,Josh,Josh Canfield,US0432,Male,1981-07-01,INFJ,Singer/Actor/Writer,True,True,True,True,False,"""I'll eat a cheeseburger for everybody.""",3
 29,Survivor: San Juan del Sur,8,9,Jeremy,Jeremy Collins,US0433,Male,1978-04-16,ESTJ,Cambridge Firefighter,False,False,False,False,False,,0
-29,Survivor: San Juan del Sur,9,10,Wes,Wes Nale,US0434,Male,1990-06-19,ISTP,Firefighter,True,True,False,True,False,,2
+29,Survivor: San Juan del Sur,9,10,Wes,Wes Nale,US0434,Male,1990-06-19,ISTP,Firefighter,True,True,False,True,True,,3
 29,Survivor: San Juan del Sur,10,11,Reed,Reed Kelly,US0435,Male,1982-09-05,ENTJ,Broadway Performer/Model/Aerialist,False,False,False,False,False,,0
 29,Survivor: San Juan del Sur,11,12,Alec,Alec Christy,US0436,Male,1991-09-07,ISFP,Student,False,False,False,False,False,,0
 29,Survivor: San Juan del Sur,12,13,Jon,Jon Misch,US0437,Male,1988-03-29,ESFP,Financial Assistant,True,True,True,True,False,"""See ya guys. Good luck."" ",3

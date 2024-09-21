@@ -1,0 +1,297 @@
+season,season_name,episode,gender,castaway_id,castaway,full_name,acknowledge,ack_score,ack_quote_clean
+1,Survivor: Borneo,1,Female,US0001,Sonja,Sonja Christopher,True,4,Go get 'em you guys.
+1,Survivor: Borneo,5,Male,US0005,Dirk,Dirk Been,True,4,Good luck.
+1,Survivor: Borneo,6,Male,US0006,Joel,Joel Klug,True,3,Goodbye.
+1,Survivor: Borneo,12,Male,US0012,Sean,Sean Kenniff,True,2,See you in a few days.
+1,Survivor: Borneo,13,Female,US0013,Sue,Susan Hawk,True,4,See you guys.
+2,Survivor: The Australian Outback,2,Male,US0018,Kel,Kel Gleason,True,3,Go get 'em.
+2,Survivor: The Australian Outback,5,Female,US0021,Kimmi,Kimmi Kappenberg,True,4,"Got get 'em, guys."
+2,Survivor: The Australian Outback,8,Female,US0024,Alicia,Alicia Calaway,True,4,"Bye, guys."
+3,Survivor: Africa,1,Female,US0033,Diane,Diane Ogden,True,4,Good luck.
+3,Survivor: Africa,4,Female,US0036,Linda,Linda Spencer,True,4,Bye guys.
+3,Survivor: Africa,6,Female,US0038,Lindsey,Lindsey Richter,True,4,Bye.
+3,Survivor: Africa,10,Male,US0041,Brandon,Brandon Quinton,True,4,Bye guys.
+4,Survivor: Marquesas,1,Male,US0049,Peter,Peter Harkey,True,4,Go get 'em.
+4,Survivor: Marquesas,6,Female,US0054,Gina,Gina Crews,True,3,"Bye, guys."
+4,Survivor: Marquesas,7,Male,US0055,Boston Rob,Rob Mariano,True,4,"Good luck, guys."
+4,Survivor: Marquesas,10,Female,US0057,Zoe,Zoe Zanidakis,True,3,Break an arm.
+4,Survivor: Marquesas,14,Male,US0061,Paschal,Paschal English,True,4,Thank all of you.
+4,Survivor: Marquesas,14,Female,US0062,Kathy,Kathy Vavrick-O'Brien,True,4,"See ya, guys."
+5,Survivor: Thailand,4,Female,US0068,Ghandia,Ghandia Johnson,True,3,"Stay strong, y'all. See ya."
+5,Survivor: Thailand,5,Female,US0069,Stephanie,Stephanie Dill,True,2,"Good luck, guys. See you."
+5,Survivor: Thailand,6,Male,US0070,Robb,Robert Zbacnik,True,4,"Much love, dude. You guys rule. Good luck. Play hard, dude. For real, you guys are all with me."
+5,Survivor: Thailand,7,Female,US0071,Shii Ann,Shii Ann Huang,True,2,"Good luck, you guys."
+5,Survivor: Thailand,8,Female,US0072,Erin,Erin Collins,True,3,Good luck. I love you guys. Bye.
+5,Survivor: Thailand,9,Male,US0073,Ken,Ken Stafford,True,3,Good luck out there.
+5,Survivor: Thailand,10,Female,US0074,Penny,Penny Ramsey,True,4,Bye. Good luck.
+5,Survivor: Thailand,12,Male,US0075,Jake,Jake Billingsley,True,4,"Thanks, guys. Good luck to all of you."
+5,Survivor: Thailand,13,Male,US0076,Ted,Ted Rogers Jr.,True,3,"Bye, guys. Take care."
+5,Survivor: Thailand,14,Female,US0078,Jan,Jan Gentry,True,4,I love y'all. Thank you.
+6,Survivor: The Amazon,2,Female,US0082,Janet,Janet Koth,True,3,"Good luck, guys."
+6,Survivor: The Amazon,11,Male,US0090,Alex,Alex Bell,True,4,"Take it easy, guys."
+6,Survivor: The Amazon,14,Male,US0093,Butch,Butch Lockley,True,3,Good luck.
+6,Survivor: The Amazon,14,Male,US0094,Rob,Rob Cesternino,True,4,Inaudible.
+7,Survivor: Pearl Islands,8,Male,US0105,Andrew,Andrew Savage,True,3,"Ryan o, d, t, hang tough."
+7,Survivor: Pearl Islands,9,Male,US0106,Ryan O.,Ryan Opray,True,2,"I'll be back, guys."
+8,Survivor: All-Stars,14,Female,US0071,Shii Ann,Shii Ann Huang,True,4,"Good luck, everyone."
+9,Survivor: Vanuatu,3,Female,US0116,Mia,Mia Galeotalanza,True,2,"Kick ass, ladies."
+9,Survivor: Vanuatu,4,Male,US0117,Brady,Brady Finta,True,3,"Good luck, fellas."
+9,Survivor: Vanuatu,5,Male,US0118,Travis,Travis Sampson,True,4,"Peace out, y'all."
+9,Survivor: Vanuatu,6,Female,US0119,Lisa,Lisa Keiffer,True,2,True to my word.
+9,Survivor: Vanuatu,7,Male,US0120,John K.,John Kenney,True,3,Take it easy.
+10,Survivor: Palau,5,Male,US0137,Willard,Willard Smith,True,4,"Stay strong, stick to the plan, finish them off."
+10,Survivor: Palau,5,Female,US0138,Angie,Angie Jakusz,True,4,"Steph, rock it for the ladies."
+10,Survivor: Palau,9,Male,US0142,Coby,Coby Archa,True,3,That was a great compliment. Thank you.
+10,Survivor: Palau,14,Female,US0147,Jenn,Jennifer Lyon,True,2,"Good luck, guys."
+11,Survivor: Guatemala,3,Female,US0153,Brianna,Brianna Varela,True,3,You guys are strong. Kick some ... Butt.
+11,Survivor: Guatemala,5,Male,US0155,Blake,Blake Towsley,True,2,Bye guys.
+11,Survivor: Guatemala,6,Male,US0157,Brian,Brian Corridan,True,3,Good luck guys.
+11,Survivor: Guatemala,8,Male,US0159,Brandon,Brandon Bellinger,True,1,Good luck guys.
+11,Survivor: Guatemala,9,Male,US0141,Bobby Jon,Bobby Jon Drinkard,True,3,Hang in there. Good luck.
+11,Survivor: Guatemala,10,Male,US0160,Jamie,Jamie Newton,True,4,You blindsided! nice! that's how you vote somebody off!
+11,Survivor: Guatemala,12,Male,US0162,Judd,Judd Sergeant,True,1,Scumbags.
+11,Survivor: Guatemala,14,Male,US0165,Rafe,Rafe Judkins,True,4,"Good luck tomorrow, guys."
+12,Survivor: Panama,8,Male,US0173,Nick,Nick Stanbury,True,4,Cirie.
+12,Survivor: Panama,9,Male,US0174,Austin,Austin Carty,True,4,Bye guys.
+12,Survivor: Panama,10,Female,US0175,Sally,Sally Schumann,True,3,Thanks.
+12,Survivor: Panama,15,Male,US0180,Terry,Terry Deitz,True,3,"Thanks for the journey, you guys."
+13,Survivor: Cook Islands,4,Male,US0186,J.P.,John Calderon,True,4,That was pretty good.
+13,Survivor: Cook Islands,11,Male,US0194,Nate,Nathan Gonzalez,True,3,One love.
+13,Survivor: Cook Islands,12,Female,US0195,Candice,Candice Cody,True,4,"Still smiling, guys. Have fun. Love ya."
+13,Survivor: Cook Islands,13,Male,US0196,Jonathan,Jonathan Penner,True,4,I'd like my hat back at some point. 'night guys.
+14,Survivor: Fiji,3,Female,US0205,Sylvia,Sylvia Kwan,True,4,Good luck.
+14,Survivor: Fiji,6,Male,US0209,Anthony,Anthony Robinson,True,3,Good luck.
+14,Survivor: Fiji,7,Male,US0210,Rocky,James Reid,True,2,"Be good, boys, huh?"
+14,Survivor: Fiji,11,Male,US0214,Mookie,Mookie Lee,True,3,Good luck.
+14,Survivor: Fiji,14,Male,US0218,Yau-Man,Yau-Man Chan,True,4,Good luck.
+16,Survivor: Micronesia,1,Male,US0111,Jonny Fairplay,Jon Dalton,True,4,Bye guys.
+16,Survivor: Micronesia,2,Female,US0238,Mary,Mary Sartain,True,3,Bye guys. Win this.
+16,Survivor: Micronesia,3,Male,US0218,Yau-Man,Yau-Man Chan,True,4,Good luck guys! have fun.
+16,Survivor: Micronesia,6,Male,US0241,Chet,Chet Welch,True,4,Love you guys.
+16,Survivor: Micronesia,8,Female,US0125,Ami,Ami Cusack,True,4,Good luck guys!
+16,Survivor: Micronesia,9,Female,US0127,Eliza,Eliza Orlins,True,4,Bye guys.
+17,Survivor: Gabon,1,Female,US0249,Gillian,Gillian Larson,True,4,Bye guys. Good luck.
+17,Survivor: Gabon,6,Male,US0254,Ace,Ace Gordon,True,3,"Good luck, guys."
+17,Survivor: Gabon,8,Male,US0257,Charlie,Charlie Herschel,True,3,Have fun.
+17,Survivor: Gabon,13,Male,US0261,Ken,Ken Hoang,True,3,Goodbye.
+18,Survivor: Tocantins,5,Male,US0270,Spencer,Spencer Duhm,True,4,Bye guys.
+18,Survivor: Tocantins,9,Male,US0273,Brendan,Brendan Synnott,True,3,"Good luck, you guys."
+19,Survivor: Samoa,5,Female,US0287,Ashley,Ashley Trainer,True,2,Kick some butt you guys.
+19,Survivor: Samoa,12,Male,US0293,John,John Fincher,True,3,"Pleasure, boys."
+19,Survivor: Samoa,13,Male,US0294,Dave,Dave Ball,True,2,Good game you guys.
+19,Survivor: Samoa,14,Female,US0296,Shambo,Shannon Waters,True,3,Good luck you guys.
+19,Survivor: Samoa,15,Male,US0298,Brett,Brett Clouser,True,3,Good game guys!
+20,Survivor: Heroes vs. Villains,1,Female,US0263,Sugar,Jessica Kiper,True,4,Bye.
+20,Survivor: Heroes vs. Villains,2,Female,US0144,Stephenie,Stephenie LaGrossa,True,2,"Some advice, next time y'all lose a challenge, a\nlittle less cursing off your tribe might help.... It's been a pleasure."
+20,Survivor: Heroes vs. Villains,6,Male,US0231,James,James Clement,True,1,"Oh, i'm gonna be good and drunk in the next five minutes."
+20,Survivor: Heroes vs. Villains,9,Female,US0236,Courtney,Courtney Yates,True,4,"Good luck, bitches. See you later."
+20,Survivor: Heroes vs. Villains,10,Male,US0281,J.T.,James Thomas Jr.,True,4,"Good luck, guys."
+20,Survivor: Heroes vs. Villains,12,Female,US0195,Candice,Candice Cody,True,4,"Good luck, you guys."
+20,Survivor: Heroes vs. Villains,12,Female,US0181,Danielle,Danielle DiLorenzo,True,3,Bye.
+20,Survivor: Heroes vs. Villains,14,Female,US0025,Jerri,Jerri Manthey,True,4,Bye you guys.
+21,Survivor: Nicaragua,3,Male,US0304,Jimmy J.,Jimmy Johnson,True,3,"Win a million bucks, ok?"
+21,Survivor: Nicaragua,5,Male,US0306,Tyrone,Tyrone Davis,True,4,"Good luck, guys."
+21,Survivor: Nicaragua,8,Female,US0310,Alina,Alina Wilson,True,3,"Good luck, guys."
+21,Survivor: Nicaragua,9,Male,US0311,Marty,Marty Piombo,True,3,"Good luck, guys."
+21,Survivor: Nicaragua,13,Male,US0315,Benry,Ben Henry,True,3,"Good luck, guys."
+21,Survivor: Nicaragua,14,Female,US0316,Jane,Jane Bright,True,1,Yall have fun.
+22,Survivor: Redemption Island,1,Female,US0322,Francesca,Francesca Hogi,True,1,Don't trust phillip.
+22,Survivor: Redemption Island,2,Male,US0323,Matt,Matt Elrod,True,2,Have fun.
+22,Survivor: Redemption Island,7,Female,US0327,Sarita,Sarita White,True,4,"Bye, guys."
+22,Survivor: Redemption Island,13,Male,US0334,Grant,Grant Mattos,True,1,See you guys shortly.
+23,Survivor: South Pacific,3,Male,US0340,Papa Bear,Mark Caruso,True,3,"Goodbye, everybody."
+23,Survivor: South Pacific,7,Male,US0201,Ozzy,Oscar Lusth,True,3,Bye. Be right back.
+23,Survivor: South Pacific,9,Male,US0201,Ozzy,Oscar Lusth,True,3,You better believe it.
+23,Survivor: South Pacific,15,Male,US0201,Ozzy,Oscar Lusth,True,2,It was great. Thanks a lot for the chance.
+24,Survivor: One World,7,Male,US0360,Jonas,Jonas Otsuji,True,4,"Hey, good luck with that food situation."
+24,Survivor: One World,10,Male,US0363,Leif,Leif Manson,True,2,"Bye, guys."
+24,Survivor: One World,13,Male,US0366,Tarzan,Greg Smith,True,3,I want to thank you ladies and you gentlemen for the adventure and for allowing me to see my wife. Adios.
+25,Survivor: Philippines,3,Female,US0374,Angie,Angie Layton,True,4,"Good luck, guys. Kick some ass."
+25,Survivor: Philippines,11,Male,US0196,Jonathan,Jonathan Penner,True,3,Guys... Keep your sunny side up.
+26,Survivor: Caramoan,2,Female,US0387,Allie,Alexandra Pohevitz,True,2,"Good luck, you guys."
+26,Survivor: Caramoan,4,Female,US0390,Laura,Laura Alexander,True,2,"Good luck, guys."
+26,Survivor: Caramoan,5,Male,US0350,Brandon,Brandon Hantz,True,2,"Kick their asses... Phillip, you're a bitch."
+26,Survivor: Caramoan,6,Male,US0391,Matt,Matt Bischoff,True,4,"Seeya, guys."
+26,Survivor: Caramoan,7,Female,US0392,Julia,Julia Landauer,True,4,It's been fun. Good luck.
+26,Survivor: Caramoan,9,Male,US0393,Michael,Michael Snow,True,3,You turkeys.
+26,Survivor: Caramoan,11,Male,US0384,Malcolm,Malcolm Freberg,True,4,"Best of luck, guys."
+26,Survivor: Caramoan,12,Male,US0394,Reynold,Reynold Toepfer,True,3,"Been a blast you guys, i can't wait to see wat happens."
+26,Survivor: Caramoan,13,Female,US0312,Brenda,Brenda Lowe,True,4,It hurts.
+26,Survivor: Caramoan,14,Male,US0395,Eddie,Edward Fox,True,4,"What a game, guys."
+27,Survivor: Blood vs. Water,2,Female,US0399,Rachel,Rachel Foulger,True,3,Peace guys.
+27,Survivor: Blood vs. Water,7,Female,US0397,Laura B.,Laura Boneham,True,3,"Bye, guys."
+27,Survivor: Blood vs. Water,8,Male,US0182,Aras,Aras Baskauskas,True,4,See you guys. Have fun.
+27,Survivor: Blood vs. Water,9,Female,US0032,Tina,Tina Wesson,True,3,See y'all tomorrow.
+27,Survivor: Blood vs. Water,10,Female,US0292,Laura M.,Laura Morett,True,4,Love you.
+27,Survivor: Blood vs. Water,12,Female,US0404,Katie,Katie Collins,True,3,Good luck.
+27,Survivor: Blood vs. Water,13,Male,US0405,Hayden,Hayden Moss,True,4,See y'all later.
+27,Survivor: Blood vs. Water,14,Female,US0406,Ciera,Ciera Eastin,True,3,Bye guys.
+28,Survivor: Cagayan,4,Male,US0411,Cliff,Cliff Robinson,True,4,"Good luck, guys."
+28,Survivor: Cagayan,6,Female,US0414,Sarah,Sarah Lacina,True,4,"Good luck, guys."
+28,Survivor: Cagayan,7,Female,US0415,Morgan,Morgan McLeod,True,4,"Good luck, you guys."
+28,Survivor: Cagayan,8,Male,US0416,LJ,LJ McKanas,True,1,"Good luck, guys."
+28,Survivor: Cagayan,9,Male,US0417,Jeremiah,Jeremiah Wood,True,4,Inaudible.
+28,Survivor: Cagayan,10,Female,US0418,Jefra,Jefra Bland,True,4,"Good luck, guys. It's been fun."
+28,Survivor: Cagayan,12,Female,US0420,Trish,Trish Hegarty,True,2,Good luck.
+28,Survivor: Cagayan,13,Male,US0421,Spencer,Spencer Bledsoe,True,3,Adios.
+29,Survivor: San Juan del Sur,1,Female,US0425,Nadiya,Nadiya Anderson,False,0,.
+29,Survivor: San Juan del Sur,8,Male,US0432,Josh,Josh Canfield,True,3,I'll eat a cheeseburger for everybody.
+29,Survivor: San Juan del Sur,13,Male,US0437,Jon,Jon Misch,True,3,See ya guys. Good luck.
+29,Survivor: San Juan del Sur,14,Female,US0438,Baylor,Baylor Wilson,True,3,Love y'all.
+29,Survivor: San Juan del Sur,14,Male,US0439,Keith,Keith Nale,True,2,See y'all.
+30,Survivor: Worlds Apart,1,Female,US0443,So,So Kim,True,3,"Good luck, guys."
+30,Survivor: Worlds Apart,2,Male,US0444,Vince,Vince Sly,True,2,Good play.
+30,Survivor: Worlds Apart,8,Female,US0450,Hali,Hali Ford,True,4,"Love you, america."
+30,Survivor: Worlds Apart,9,Male,US0451,Joe,Joe Anglim,True,3,"Hey, love you all. Good luck."
+30,Survivor: Worlds Apart,10,Female,US0452,Jenn,Jenn Brown,True,4,"Bye, guys. Good luck. And play nice, alright? i'll see you soon."
+30,Survivor: Worlds Apart,11,Female,US0453,Shirin,Shirin Oskooi,True,4,"Bye, guys."
+30,Survivor: Worlds Apart,14,Female,US0456,Sierra,Sierra Dawn Thomas,True,4,Sneaky.
+30,Survivor: Worlds Apart,14,Male,US0457,Rodney,Rodney Lavoie Jr.,True,3,"Alright, guys."
+31,Survivor: Cambodia,1,Male,US0402,Vytas,Vytas Baskauskas,True,4,"No hard feelings, you guys. You played such a great game. It's all good."
+31,Survivor: Cambodia,12,Male,US0451,Joe,Joe Anglim,False,0,"Good luck, y'all. Boys: best of luck."
+31,Survivor: Cambodia,13,Female,US0383,Abi-Maria,Abi-Maria Gomes,True,3,Well played.
+31,Survivor: Cambodia,14,Female,US0021,Kimmi,Kimmi Kappenberg,True,4,Thank you very much for a great game.
+31,Survivor: Cambodia,14,Male,US0439,Keith,Keith Nale,True,3,Hang in there.
+31,Survivor: Cambodia,14,Female,US0429,Kelley,Kelley Wentworth,True,4,Good luck guys. See you tomorrow.
+32,Survivor: Kaoh Rong,1,Male,US0461,Darnell,Darnell Hamilton,True,2,Good game.
+32,Survivor: Kaoh Rong,2,Female,US0462,Jennifer,Jennifer Lanzetti,True,4,See you guys. Hope you win lots more challenges.
+32,Survivor: Kaoh Rong,3,Female,US0463,Liz,Elisabeth Markham,True,2,Good luck everyone!
+32,Survivor: Kaoh Rong,4,Female,US0465,Alecia,Alecia Holden,True,3,Good luck cydney.
+32,Survivor: Kaoh Rong,5,Female,US0466,Anna,Anna Khait,True,4,Good luck everyone.
+33,Survivor: Millennials vs. Gen X,2,Female,US0480,Mari,Mari Takahashi,True,2,Salty.
+33,Survivor: Millennials vs. Gen X,3,Male,US0481,Paul,Paul Wachter,True,3,"Good luck, guys."
+33,Survivor: Millennials vs. Gen X,5,Female,US0483,CeCe,Ciandre Taylor,True,2,"Good luck, guys."
+33,Survivor: Millennials vs. Gen X,6,Female,US0484,Figgy,Jessica Figueroa,True,2,"Good luck, tays."
+33,Survivor: Millennials vs. Gen X,7,Female,US0485,Michaela,Michaela Bradshaw,True,2,"You going to feel like an asshole... My shoes... Damn, jay."
+33,Survivor: Millennials vs. Gen X,9,Male,US0487,Taylor,Taylor Lee Stocker,True,3,"Good luck, guys... Sorry for stealing food."
+33,Survivor: Millennials vs. Gen X,10,Male,US0488,Chris,Chris Hammons,True,3,Boomer.
+33,Survivor: Millennials vs. Gen X,12,Male,US0491,Will,Will Wahl,True,3,I had a blast guys. Good luck to all of you.
+33,Survivor: Millennials vs. Gen X,12,Female,US0492,Sunday,Sunday Burquest,True,3,"Good luck, guys. Have fun."
+33,Survivor: Millennials vs. Gen X,13,Male,US0494,Bret,Bret LaBelle,True,3,"David, good luck to you. The rest of you: you just lost a million dollars."
+33,Survivor: Millennials vs. Gen X,13,Male,US0495,David,David Wright,True,2,"Playing survivor is the biggest dream i ever had, and i'm so glad i got to play it with all of you. But not vinaka."
+34,Survivor: Game Changers,1,Female,US0406,Ciera,Ciera Eastin,True,4,Good luck everyone good job.
+34,Survivor: Game Changers,7,Female,US0450,Hali,Hali Ford,True,4,I enjoyed meeting every one of you. May the best player win!
+34,Survivor: Game Changers,7,Male,US0201,Ozzy,Oscar Lusth,True,4,Good job guys. Good luck eating.
+34,Survivor: Game Changers,8,Female,US0470,Debbie,Debbie Wanner,True,4,Good luck to you all.
+34,Survivor: Game Changers,9,Male,US0490,Zeke,Zeke Smith,True,4,Keep playing hard gang.
+34,Survivor: Game Changers,10,Female,US0456,Sierra,Sierra Dawn Thomas,True,4,Yep. Privilege guys!
+34,Survivor: Game Changers,12,Female,US0179,Cirie,Cirie Fields,True,4,Thank you jeff.
+34,Survivor: Game Changers,12,Female,US0477,Aubry,Aubry Bracco,False,0,The full experience.
+34,Survivor: Game Changers,12,Male,US0476,Tai,Tai Trang,False,0,Thank you jeff for a great season. Appreicate it. Thank you.
+35,Survivor: Heroes vs. Healers vs. Hustlers,1,Female,US0499,Katrina,Katrina Radke,True,3,"Good luck, guys."
+35,Survivor: Heroes vs. Healers vs. Hustlers,2,Female,US0500,Simone,Simone Nguyen,True,4,Bye.
+35,Survivor: Heroes vs. Healers vs. Hustlers,4,Male,US0502,Alan,Alan Ball,True,3,"Good luck, everyone."
+35,Survivor: Heroes vs. Healers vs. Hustlers,5,Female,US0503,Roark,Roark Luskin,True,3,"Good luck, guys."
+35,Survivor: Heroes vs. Healers vs. Hustlers,8,Female,US0506,Desi,Desiree Williams,True,4,Good luck everyone.
+35,Survivor: Heroes vs. Healers vs. Hustlers,9,Male,US0507,Cole,Cole Medders,True,4,"Good luck, guys. Have fun out there."
+35,Survivor: Heroes vs. Healers vs. Hustlers,11,Female,US0510,Lauren,Lauren Rimmer,True,4,"Good luck, guys."
+35,Survivor: Heroes vs. Healers vs. Hustlers,12,Female,US0511,Ashley,Ashley Nolan,True,3,"Good luck, you guys."
+35,Survivor: Heroes vs. Healers vs. Hustlers,13,Male,US0512,Mike,Mike Zahalsky,True,2,"Good luck, everybody."
+36,Survivor: Ghost Island,1,Male,US0518,Jacob,Jacob Derwin,True,4,Y'all did good.
+36,Survivor: Ghost Island,2,Female,US0519,Morgan,Morgan Ricke,True,4,Don't trust the cute blondes.
+36,Survivor: Ghost Island,4,Female,US0521,Stephanie,Stephanie Johnson,True,3,Bye guys.
+36,Survivor: Ghost Island,5,Male,US0522,James,James Lim,True,4,"Great blindside, y'all. It's been a true pleasure playing with you all. Best of luck."
+36,Survivor: Ghost Island,8,Female,US0525,Libby,Libby Vincek,True,4,"See you, guys."
+36,Survivor: Ghost Island,9,Female,US0526,Desiree,Desiree Afuye,True,1,Ladies y'all better keep winning.
+36,Survivor: Ghost Island,10,Male,US0528,Michael,Michael Yerger,True,3,"It's been one hell of a time, guys. Vinaka."
+36,Survivor: Ghost Island,12,Female,US0530,Kellyn,Kellyn Bechtold,True,4,"It's truly been a pleasure. From the bottom of my heart, i wish you all the best of look."
+36,Survivor: Ghost Island,13,Male,US0531,Sebastian,Sebastian Noel,True,4,You guys have no idea how much fun i had with all you. It was truly a pleasure.
+36,Survivor: Ghost Island,13,Female,US0533,Angela,Angela Perkins,True,3,Good luck.
+37,Survivor: David vs. Goliath,2,Female,US0538,Jessica,Jessica Peet,True,2,"Bye, guys."
+37,Survivor: David vs. Goliath,4,Female,US0541,Natalia,Natalia Azoqa,True,3,Did you know? why are you smiling. Oh my god i can't handle you right now.
+37,Survivor: David vs. Goliath,6,Female,US0543,Lyrsa,Lyrsa Torres,True,2,"Bye, guys."
+37,Survivor: David vs. Goliath,7,Female,US0544,Elizabeth,Elizabeth Olson,True,3,"Good luck, you guys. I love you all. I really do."
+37,Survivor: David vs. Goliath,8,Male,US0545,John,John Hennigan,True,4,Guys.
+37,Survivor: David vs. Goliath,10,Male,US0548,Carl,Carl Boudreaux,True,3,"Go get 'em. Good job, guys."
+37,Survivor: David vs. Goliath,11,Female,US0549,Gabby,Gabby Pascuzzi,True,4,"Sorry, christian. I love you."
+37,Survivor: David vs. Goliath,12,Male,US0550,Christian,Christian Hubicki,True,3,Good luck to you all. Well played.
+37,Survivor: David vs. Goliath,13,Male,US0551,Davie,Davie Rickenbacker,True,3,"I will say this. The person who orchestrated this, you now have my vote for a million dollars. It's up to someone else to make a bigger move."
+37,Survivor: David vs. Goliath,13,Female,US0552,Alison,Alison Raybould,True,4,Good luck. I'll see you all soon.
+37,Survivor: David vs. Goliath,13,Female,US0553,Kara,Kara Kay,True,4,Bye guys. See you soon.
+38,Survivor: Edge of Extinction,1,Female,US0557,Reem,Reem Daly,True,2,Thank you.
+38,Survivor: Edge of Extinction,5,Female,US0477,Aubry,Aubry Bracco,True,2,"Good luck, guys. Kill it."
+38,Survivor: Edge of Extinction,6,Male,US0451,Joe,Joe Anglim,True,2,You made a big mistake.
+38,Survivor: Edge of Extinction,7,Male,US0562,Eric,Eric Hafemann,True,2,The lord gives. The lord takes away. What a fun experience. Hopefully i'll see you soon.
+38,Survivor: Edge of Extinction,8,Female,US0563,Julia,Julia Carter,True,3,"It's been such a pleasure, guys. I know it's a game but, really, take care of yourselves and each other. Good luck."
+38,Survivor: Edge of Extinction,9,Male,US0495,David,David Wright,True,3,No hard feelings guys. You know i had to try. But i am going to follow my way back in.
+38,Survivor: Edge of Extinction,9,Female,US0429,Kelley,Kelley Wentworth,True,3,Good luck. See you soon.
+38,Survivor: Edge of Extinction,10,Male,US0564,Wardog,Dan DaSilva,True,4,Y'all made the right decision. Love you.
+38,Survivor: Edge of Extinction,11,Male,US0565,Ron,Ron Clark,True,4,"Devins, you're a great player. It was a lot of fun. Bye. Thanks."
+38,Survivor: Edge of Extinction,12,Female,US0566,Aurora,Aurora McCreary,True,4,Good game guys. Good luck. Get him out.
+38,Survivor: Edge of Extinction,13,Female,US0567,Victoria,Victoria Baamonde,True,4,"I'm not sure which one of you did it. Devins, great play. Gavin, i'm voing for you, man."
+38,Survivor: Edge of Extinction,13,Female,US0568,Lauren,Lauren O'Connell,True,4,"Bye guys. Seriously, good luck."
+38,Survivor: Edge of Extinction,13,Male,US0560,Rick,Rick Devens,True,4,Thank you.
+39,Survivor: Island of the Idols,1,Male,US0571,Ronnie,Ronnie Bardah,True,3,Ok guys.
+39,Survivor: Island of the Idols,2,Female,US0572,Molly,Molly Byman,True,4,"Good luck, guys."
+39,Survivor: Island of the Idols,3,Male,US0573,Vince,Vince Moua,True,4,"Good luck, all."
+39,Survivor: Island of the Idols,4,Female,US0574,Chelsea,Chelsea Walker,True,4,"Good luck, guys."
+39,Survivor: Island of the Idols,5,Male,US0575,Tom,Tom Laidlaw,True,2,"See ya, guys. Good luck."
+39,Survivor: Island of the Idols,7,Male,US0577,Jack,Jack Nichting,True,4,See you all.
+39,Survivor: Island of the Idols,8,Female,US0578,Kellee,Kellee Kim,True,4,"Good luck, guys."
+39,Survivor: Island of the Idols,9,Female,US0581,Missy,Missy Byrd,True,4,"Dang, elaine, i knew it. All right. I'll see you all later. Wednesday night at 8."
+39,Survivor: Island of the Idols,10,Female,US0582,Elizabeth,Elizabeth Beisel,True,4,Love you.
+39,Survivor: Island of the Idols,12,Female,US0584,Elaine,Elaine Stott,True,3,Love y'all.
+39,Survivor: Island of the Idols,13,Female,US0586,Janet,Janet Carbin,True,3,Bye guys.
+39,Survivor: Island of the Idols,13,Female,US0587,Lauren,Lauren Beck,True,4,"Bye guys, good luck. Love you tommy."
+40,Survivor: Winners at War,3,Male,US0048,Ethan,Ethan Zohn,True,2,Good luck.
+40,Survivor: Winners at War,6,Female,US0197,Parvati,Parvati Shallow,True,2,"Good luck, guys."
+40,Survivor: Winners at War,6,Female,US0112,Sandra,Sandra Diaz-Twine,True,3,Day 16 got me again.
+40,Survivor: Winners at War,7,Male,US0202,Yul,Yul Kwon,True,3,"Alright, you guys."
+40,Survivor: Winners at War,8,Male,US0536,Wendell,Wendell Holland,True,2,"Keep playing, guys."
+40,Survivor: Winners at War,9,Male,US0498,Adam,Adam Klein,True,2,"Good luck, guys."
+40,Survivor: Winners at War,10,Male,US0274,Tyson,Tyson Apostol,True,2,See you guy soon.
+40,Survivor: Winners at War,11,Female,US0353,Sophie,Sophie Clarke,True,3,"Good luck, guys. Did not see it coming."
+40,Survivor: Winners at War,13,Male,US0556,Nick,Nick Wilson,True,3,I'll do my best to join you again tomorrow.
+40,Survivor: Winners at War,14,Female,US0386,Denise,Denise Stapley,True,3,Kick ass.
+40,Survivor: Winners at War,14,Female,US0414,Sarah,Sarah Lacina,True,3,"It was a pleasure. Tony: i love you. Crush it tomorrow, alright?"
+41,Survivor: 41,1,Male,US0591,Abraham,Eric Abraham,True,3,Enjoy this ride.
+41,Survivor: 41,1,Female,US0592,Sara,Sara Wilson,True,4,Good bye. Good luck.
+41,Survivor: 41,5,Female,US0595,Genie,Genie Chen,True,3,Bye guys.
+41,Survivor: 41,8,Female,US0604,Tiffany,Tiffany Seely,True,4,"Good luck, guys."
+41,Survivor: 41,9,Male,US0600,Naseer,Naseer Muttalif,True,4,"Good job, guys."
+41,Survivor: 41,9,Non-binary,US0598,Evvie,Evvie Jagoda,True,3,"Well played, guys."
+41,Survivor: 41,11,Female,US0608,Liana,Liana Wallace,True,4,Bye y'all. Play hard.
+41,Survivor: 41,12,Male,US0599,Danny,Danny McCray,True,4,Apprecite you. Go cowboys.
+41,Survivor: 41,13,Female,US0593,Heather,Heather Aldret,True,4,"Bye, guys."
+42,Survivor: 42,1,Male,US0626,Zach,Zach Wurthenberger,True,4,I really did have a blast.
+42,Survivor: 42,2,Female,US0618,Marya,Marya Sherron,True,4,See you guys. Bring it home.
+42,Survivor: 42,7,Female,US0617,Lydia,Lydia Meredith,True,3,Good luck guys.
+42,Survivor: 42,9,Male,US0622,Rocksroy,Rocksroy Bailey,True,3,Good luck.
+42,Survivor: 42,9,Female,US0625,Tori,Tori Meehan,True,4,"Have fun, y'all."
+42,Survivor: 42,10,Male,US0612,Hai,Hai Giang,True,4,Bye guys.
+42,Survivor: 42,11,Female,US0611,Drea,Drea Wheeler,True,4,Love you.
+42,Survivor: 42,12,Male,US0621,Omar,Omar Zaheer,True,4,"Love you, guys. See you soon."
+42,Survivor: 42,13,Female,US0616,Lindsay,Lindsay Dolashewich,True,4,"Good luck, guys. Gonna eat so much food."
+42,Survivor: 42,13,Male,US0615,Jonathan,Jonathan Young,True,3,"Hey, my friends. All love."
+43,Survivor: 43,1,Female,US0639,Morriah,Morriah Young,True,4,Bye guys.
+43,Survivor: 43,3,Female,US0640,Nneka,Nneka Ejere,True,3,Bye guys.
+43,Survivor: 43,7,Male,US0629,Dwight,Dwight Moore,True,4,Thank you.
+43,Survivor: 43,8,Female,US0633,Jeanine,Jeanine Zheng,True,3,See you guys in the real world.
+43,Survivor: 43,10,Female,US0641,Noelle,Noelle Lambert,True,4,Good luck everyone.
+43,Survivor: 43,11,Male,US0644,Sami,Sami Layadi,True,4,"Lot of fun, peeps."
+43,Survivor: 43,12,Male,US0628,Cody,Cody Assenmacher,True,4,A hui hou ... And aloha.
+43,Survivor: 43,13,Female,US0636,Karla,Karla Cruz Godoy,True,3,"Good luck, y'all. I love y'all."
+44,Survivor: 44,1,Female,US0649,Maddy,Maddy Pomilla,True,4,Good luck you guys.
+44,Survivor: 44,3,Female,US0651,Claire,Claire Rafson,True,2,Good luck.
+44,Survivor: 44,6,Male,US0655,Josh,Josh Wilder,True,3,Bye guys.
+44,Survivor: 44,7,Male,US0656,Matt,Matt Blankinship,True,3,"Proud of you, frannie, for winning today."
+44,Survivor: 44,8,Male,US0645,Brandon,Brandon Cottom,True,3,Well played.
+44,Survivor: 44,9,Male,US0647,Kane,Kane Fritzler,True,3,"Enjoy your rice, you bitches."
+44,Survivor: 44,11,Male,US0652,Danny,Danny Massa,True,4,You're awesome.
+44,Survivor: 44,12,Female,US0646,Jaime,Jaime Lynn Ruiz,True,4,Love you guys.
+44,Survivor: 44,13,Male,US0659,Carson,Carson Garrett,True,3,"Good luck, y'all. Y'all are amazing."
+45,Survivor: 45,1,Female,US0669,Hannah,Hannah Rose,True,4,I love you guys so much.
+45,Survivor: 45,2,Male,US0665,Brandon,Brandon Donlon,True,3,This is cool. It's really cool.
+45,Survivor: 45,3,Female,US0677,Sabiyah,Sabiyah Broderick,True,3,Who? ... Who?
+45,Survivor: 45,5,Male,US0664,Brando,Brando Meyer,True,4,"Hey, one of y'all win it for me. I love you all. Good luck."
+45,Survivor: 45,7,Male,US0679,Sifu,Sifu Alsup,True,3,"Thank you, everybody. It's been a pleasure."
+45,Survivor: 45,7,Male,US0673,Kaleb,Kaleb Gebrewold,True,4,Always a pleasure.
+45,Survivor: 45,8,Female,US0675,Kellie,Kellie Nalbandian,True,2,Bye.
+45,Survivor: 45,11,Female,US0668,Emily,Emily Flippen,True,4,My vote's going to the best player.
+45,Survivor: 45,13,Female,US0674,Katurah,Katurah Topps,True,2,Love you guys. Good luck! give 'em hell.
+46,Survivor: 46,2,Female,US0686,Jess,Jess Chong,True,4,Bye.
+46,Survivor: 46,7,Male,US0696,Tim,Tim Spicer,True,3,Love y'all.
+46,Survivor: 46,8,Male,US0694,Tevin,Tevin Davis,True,3,It doesn't rock.
+46,Survivor: 46,11,Female,US0697,Venus,Venus Vafa,True,3,"Great game, you guys."
+46,Survivor: 46,12,Male,US0691,Q,Q Burdette,True,3,See y'all now.
+46,Survivor: 46,13,Female,US0689,Maria,Maria Shrime Gonzalez,True,3,"It's been a pleasure, you guys."

@@ -81,7 +81,8 @@ The score is derived from the four subcategories of acknowledgment: words, look,
 
 ### Seasons collected
 
-Seasons 1-46
+Seasons 1-46; 
+Season 47, episode 1
 
 ### Related
 
