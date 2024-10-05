@@ -52,13 +52,14 @@ s3_bucket = 'stilesdata.com'
 s3_csv_key = 'survivor/survivor_vote_off_quotes.csv'
 s3_json_key = 'survivor/survivor_vote_off_quotes.json'
 
-# Initialize boto3 client with environment variables
-s3_client = boto3.client(
-    's3',
-    aws_access_key_id=os.getenv('MY_AWS_ACCESS_KEY_ID'),
-    aws_secret_access_key=os.getenv('MY_AWS_SECRET_ACCESS_KEY'),
-    aws_session_token=os.getenv('MY_AWS_SESSION_TOKEN')
-)
+# Load the AWS profile from the environment or default to "haekeo"
+aws_profile = os.getenv('MY_PERSONAL_PROFILE', 'haekeo')
+
+# Initialize boto3 session using the specified profile
+session = boto3.Session(profile_name=aws_profile)
+
+# Initialize an S3 client from the session
+s3_client = session.client('s3')
 
 # Upload the CSV file
 s3_client.upload_file(str(csv_output_path), s3_bucket, s3_csv_key)
