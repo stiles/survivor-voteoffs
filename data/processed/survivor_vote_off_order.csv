@@ -407,8 +407,8 @@ season,season_name,episode,voted_out,voted_out_id,version,vote,castaway_id,full_
 26.0,Survivor: Caramoan,10.0,Phillip,US0337,US,10,US0337,Phillip Sheppard,1958-03-12,Male,ESTJ,Former Federal Agent;Software Sales
 26.0,Survivor: Caramoan,12.0,Reynold,US0394,US,12,US0394,Reynold Toepfer,1982-10-06,Male,ESTP,Real Estate Sales
 26.0,Survivor: Caramoan,14.0,Eddie,US0395,US,15,US0395,Edward Fox,1989-04-15,Male,ESFP,Fireman/EMT
-27.0,Survivor: Blood vs. Water,1.0,Laura B.,US0397,US,1,US0397,Laura Boneham,1968-08-29,Female,,Merchandiser
-27.0,Survivor: Blood vs. Water,7.0,Laura B.,US0397,US,9,US0397,Laura Boneham,1968-08-29,Female,,Merchandiser
+27.0,Survivor: Blood vs. Water,1.0,Laura B.,US0397,US,1,US0397,Laura Boneham,1968-08-29,Female,INFJ,Merchandiser
+27.0,Survivor: Blood vs. Water,7.0,Laura B.,US0397,US,9,US0397,Laura Boneham,1968-08-29,Female,INFJ,Merchandiser
 27.0,Survivor: Blood vs. Water,1.0,Marissa,US0398,US,3,US0398,Marissa Peterson,1991-09-25,Female,ESTJ,Student
 27.0,Survivor: Blood vs. Water,2.0,Rachel,US0399,US,4,US0399,Rachel Foulger,1979-07-28,Female,ISFJ,Cocktail Waitress/Graphic Designer
 27.0,Survivor: Blood vs. Water,3.0,John,US0400,US,5,US0400,John Cody,1983-05-12,Male,ISFJ,"Physician, Army Orthopedic Surgery Resident"
@@ -673,7 +673,7 @@ season,season_name,episode,voted_out,voted_out_id,version,vote,castaway_id,full_
 45.0,Survivor: 45,7.0,Kaleb,US0673,US,8,US0673,Kaleb Gebrewold,1994-09-16,Male,,Software Sales
 45.0,Survivor: 45,8.0,Kellie,US0675,US,9,US0675,Kellie Nalbandian,1993-09-05,Female,,Critical Care Nurse
 45.0,Survivor: 45,9.0,Kendra,US0676,US,10,US0676,Kendra McQuarrie,1992-09-25,Female,,Bartender
-45.0,Survivor: 45,10.0,Bruce,US0657,US,11,US0657,Bruce Perreault,1976-08-05,Male,INTJ,Insurance Agent
+45.0,Survivor: 45,10.0,Bruce,US0657,US,11,US0657,Bruce Perreault,1976-08-05,Male,INTJ,Insurance Agent
 45.0,Survivor: 45,11.0,Emily,US0668,US,12,US0668,Emily Flippen,1994-10-06,Female,,Investment Analyst
 45.0,Survivor: 45,12.0,Drew,US0667,US,13,US0667,Drew Basile,2000-09-25,Male,,Grad Student
 45.0,Survivor: 45,13.0,Julie,US0672,US,14,US0672,Julie Alley,1974-03-11,Female,,Estate Attorney

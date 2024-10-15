@@ -6131,7 +6131,7 @@
         "full_name":"Laura Boneham",
         "date_of_birth":"1968-08-29",
         "gender":"Female",
-        "personality_type":null,
+        "personality_type":"INFJ",
         "occupation":"Merchandiser"
     },
     {
@@ -6146,7 +6146,7 @@
         "full_name":"Laura Boneham",
         "date_of_birth":"1968-08-29",
         "gender":"Female",
-        "personality_type":null,
+        "personality_type":"INFJ",
         "occupation":"Merchandiser"
     },
     {
@@ -10118,7 +10118,7 @@
         "version":"US",
         "vote":11,
         "castaway_id":"US0657",
-        "full_name":"Bruce\u00a0Perreault",
+        "full_name":"Bruce Perreault",
         "date_of_birth":"1976-08-05",
         "gender":"Male",
         "personality_type":"INTJ",

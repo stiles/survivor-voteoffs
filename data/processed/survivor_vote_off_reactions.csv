@@ -383,7 +383,7 @@ season,season_name,vote,episode,castaway,full_name,castaway_id,gender,date_of_bi
 26,Survivor: Caramoan,13,12,Andrea,Andrea Boehlke,US0333,Female,1989-05-10,ENFP,Student;Entertainment Host/Writer,False,False,False,False,False,,0
 26,Survivor: Caramoan,14,13,Brenda,Brenda Lowe,US0312,Female,1982-11-03,INTJ,Paddleboard Company Owner,True,True,True,True,True,"""It hurts.""",4
 26,Survivor: Caramoan,15,14,Eddie,Edward Fox,US0395,Male,1989-04-15,ESFP,Fireman/EMT,True,True,True,True,True,"""What a game, guys.""",4
-27,Survivor: Blood vs. Water,1,1,Laura B.,Laura Boneham,US0397,Female,1968-08-29,,Merchandiser,False,False,False,False,False,,0
+27,Survivor: Blood vs. Water,1,1,Laura B.,Laura Boneham,US0397,Female,1968-08-29,INFJ,Merchandiser,False,False,False,False,False,,0
 27,Survivor: Blood vs. Water,2,1,Candice,Candice Cody,US0195,Female,1982-11-12,ISTJ,Pre-Med Student;Physician/Anesthesiology Resident,False,False,False,False,False,,0
 27,Survivor: Blood vs. Water,3,1,Marissa,Marissa Peterson,US0398,Female,1991-09-25,ESTJ,Student,True,True,False,True,False,,2
 27,Survivor: Blood vs. Water,4,2,Rachel,Rachel Foulger,US0399,Female,1979-07-28,ISFJ,Cocktail Waitress/Graphic Designer,True,True,True,True,False,"""Peace guys.""",3
@@ -391,7 +391,7 @@ season,season_name,vote,episode,castaway,full_name,castaway_id,gender,date_of_bi
 27,Survivor: Blood vs. Water,6,4,Brad,Brad Culpepper,US0401,Male,1969-05-08,ESTJ,Attorney/Retired NFL Player,False,False,False,False,False,,0
 27,Survivor: Blood vs. Water,7,5,Laura M.,Laura Morett,US0292,Female,1969-07-30,ENFJ,Office Manager;Fitness Instructor,False,False,False,False,False,,0
 27,Survivor: Blood vs. Water,8,6,Kat,Kat Edorsson,US0365,Female,1989-06-22,ENFP,Timeshare Representative;Full Time Student/Sales,False,False,False,False,False,,0
-27,Survivor: Blood vs. Water,9,7,Laura B.,Laura Boneham,US0397,Female,1968-08-29,,Merchandiser,True,True,True,True,False,"""Bye, guys.""",3
+27,Survivor: Blood vs. Water,9,7,Laura B.,Laura Boneham,US0397,Female,1968-08-29,INFJ,Merchandiser,True,True,True,True,False,"""Bye, guys.""",3
 27,Survivor: Blood vs. Water,10,8,Aras,Aras Baskauskas,US0182,Male,1981-09-26,INFP,Yoga Instructor;Musician,True,True,True,True,True,"""See you guys. Have fun.""",4
 27,Survivor: Blood vs. Water,11,9,Vytas,Vytas Baskauskas,US0402,Male,1979-12-08,INFJ,Yoga Instructor/Math Professor,False,False,False,False,False,,0
 27,Survivor: Blood vs. Water,12,9,Tina,Tina Wesson,US0032,Female,1960-12-26,ESFJ,Personal Nurse;Motivational Speaker,True,True,True,True,False,"""See y'all tomorrow.""",3
@@ -673,7 +673,7 @@ season,season_name,vote,episode,castaway,full_name,castaway_id,gender,date_of_bi
 45,Survivor: 45,8,7,Kaleb,Kaleb Gebrewold,US0673,Male,1994-09-16,,Software Sales,True,True,True,True,True,"""Always a pleasure.""",4
 45,Survivor: 45,9,8,Kellie,Kellie Nalbandian,US0675,Female,1993-09-05,,Critical Care Nurse,True,True,True,False,False,"""Bye.""",2
 45,Survivor: 45,10,9,Kendra,Kendra McQuarrie,US0676,Female,1992-09-25,,Bartender,True,True,False,False,False,,1
-45,Survivor: 45,11,10,Bruce,Bruce Perreault,US0657,Male,1976-08-05,INTJ,Insurance Agent,True,False,False,True,False,,1
+45,Survivor: 45,11,10,Bruce,Bruce Perreault,US0657,Male,1976-08-05,INTJ,Insurance Agent,True,False,False,True,False,,1
 45,Survivor: 45,12,11,Emily,Emily Flippen,US0668,Female,1994-10-06,,Investment Analyst,True,True,True,True,True,"""My vote's going to the best player.""",4
 45,Survivor: 45,13,12,Drew,Drew Basile,US0667,Male,2000-09-25,,Grad Student,False,False,False,False,False,,0
 45,Survivor: 45,14,13,Julie,Julie Alley,US0672,Female,1974-03-11,,Estate Attorney,True,True,False,True,True,,3
